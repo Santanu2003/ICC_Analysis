@@ -1,0 +1,93 @@
+file,rows,cols
+WTC_2021-2023_Dataset/Matches.csv,70,10
+WTC_2021-2023_Dataset/Points Table.csv,9,12
+WTC_2021-2023_Dataset/Records.csv,69,5
+WTC_2021-2023_Dataset/WTC_Venues.csv,41,3
+WTC_2023-2025_Dataset/Matches.csv,67,10
+WTC_2023-2025_Dataset/Points Table.csv,9,12
+WTC_2023-2025_Dataset/Records.csv,65,5
+WTC_2023-2025_Dataset/WTC_Venues.csv,41,3
+archive__10_/all_t20_world_cup_matches_results.csv,317,7
+archive__10_/all_t20_world_cup_players_list.csv,1980,3
+archive__10_/wc_final_dataset.xlsx [wc_final_dataset],317,19
+archive__11_/best_bowling.csv,6,7
+archive__11_/highest_totals.csv,6,5
+archive__11_/lowest_totals.csv,6,6
+archive__11_/most_runs.csv,6,7
+archive__11_/most_wickets.csv,6,8
+archive__11_/tournament_summary.csv,10,6
+archive__12_/ICC Cricket World Cup/innings.csv,2682,18
+archive__12_/ICC Cricket World Cup/matches.csv,1700,174
+archive__12_/ICC Cricket World Cup/overBallDetails.csv,157323,8
+archive__12_/ICC Cricket World Cup/overHistory.csv,110411,18
+archive__12_/ICC Cricket World Cup/players.csv,28911,9
+archive__12_/ICC Cricket World Cup/teams.csv,354,6
+archive__12_/ICC Cricket World Cup/venues.csv,193,5
+archive__13_/(1) Matches.csv,61,11
+archive__13_/(1) Players.csv,207,4
+archive__13_/(10) Venue_History.csv,7,7
+archive__13_/(11) WTC_Venues.csv,36,10
+archive__13_/(12) Rank_All-round.csv,10,6
+archive__13_/(12) Rank_bat.csv,100,6
+archive__13_/(12) Rank_bowl.csv,100,6
+archive__13_/(2) batting_4s6s.csv,49,7
+archive__13_/(2) batting_6s.csv,38,7
+archive__13_/(2) batting_runs.csv,207,13
+archive__13_/(3) Bowling.csv,207,10
+archive__13_/(4) WK mst-dis-mat.csv,36,4
+archive__13_/(4) WK.csv,18,5
+archive__13_/(4) fielding.csv,158,4
+archive__13_/(5) Highest Partnership.csv,10,7
+archive__13_/(5) Partnership.csv,784,10
+archive__13_/(6) Officials.csv,40,8
+archive__13_/(7) Points Table.csv,9,18
+archive__13_/(7) hghst_inn_tot.csv,50,5
+archive__13_/(7) hghst_mat_aggrt.csv,50,6
+archive__13_/(9) Teams in ENG.csv,120,7
+archive__14_/WTC_Batting_Average.csv,207,15
+archive__14_/WTC_Bowling_Average.csv,207,17
+archive__6_/icc_dataset.xlsx [Sheet1],31,8
+archive__7_/all_champions_trophy_matches_results.csv,128,19
+archive__7_/all_champions_trophy_players_list.csv,1155,3
+archive__9_/1975_WC_matches.xlsx [Results],15,16
+archive__9_/1975_WC_matches.xlsx [Group B],4,7
+archive__9_/1975_WC_matches.xlsx [Group A],4,7
+archive__9_/1979_WC_matches.xlsx [Results],15,16
+archive__9_/1979_WC_matches.xlsx [Group B],4,7
+archive__9_/1979_WC_matches.xlsx [Group A],4,7
+archive__9_/1983_WC_matches.xlsx [Results],27,16
+archive__9_/1983_WC_matches.xlsx [Group B],4,7
+archive__9_/1983_WC_matches.xlsx [Group A],4,7
+archive__9_/1987_WC_matches.xlsx [Results],27,16
+archive__9_/1987_WC_matches.xlsx [Group B],4,7
+archive__9_/1987_WC_matches.xlsx [Group A],4,7
+archive__9_/1992_WC_matches.xlsx [Points Table],9,10
+archive__9_/1992_WC_matches.xlsx [Results],39,16
+archive__9_/1996_WC_matches.xlsx [Results],37,16
+archive__9_/1996_WC_matches.xlsx [Group B],6,10
+archive__9_/1996_WC_matches.xlsx [Group A],6,10
+archive__9_/1999_WC_matches.xlsx [Results],42,16
+archive__9_/1999_WC_matches.xlsx [Group B],6,10
+archive__9_/1999_WC_matches.xlsx [Super Sixes],6,10
+archive__9_/1999_WC_matches.xlsx [Group A],6,10
+archive__9_/2003_WC_matches.xlsx [Results],54,16
+archive__9_/2003_WC_matches.xlsx [Group B],7,9
+archive__9_/2003_WC_matches.xlsx [Group A],7,9
+archive__9_/2003_WC_matches.xlsx [Super Sixes],6,9
+archive__9_/2007_WC_matches.xlsx [Results],51,16
+archive__9_/2007_WC_matches.xlsx [Group D],4,9
+archive__9_/2007_WC_matches.xlsx [Group C],4,9
+archive__9_/2007_WC_matches.xlsx [Group B],4,9
+archive__9_/2007_WC_matches.xlsx [Group A],4,9
+archive__9_/2007_WC_matches.xlsx [Super Eights],8,10
+archive__9_/2011_WC_matches.xlsx [Results],49,16
+archive__9_/2011_WC_matches.xlsx [Group B],7,9
+archive__9_/2011_WC_matches.xlsx [Group A],7,9
+archive__9_/2015_WC_matches.xlsx [Results],49,16
+archive__9_/2015_WC_matches.xlsx [Pool B],7,9
+archive__9_/2015_WC_matches.xlsx [Pool A],7,9
+archive__9_/2019_WC_matches.xlsx [Results],48,16
+archive__9_/2019_WC_matches.xlsx [Points Table],10,9
+archive__9_/2023_WC_matches.xlsx [Results],48,16
+archive__9_/2023_WC_matches.xlsx [Points Table],10,10
+icc_cwc.csv,493,13

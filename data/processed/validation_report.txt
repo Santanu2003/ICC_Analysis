@@ -1,0 +1,11 @@
+PASS: Edition ID uniqueness — duplicate ids=0
+PASS: ODI WC match ID uniqueness — dupes=0
+PASS: T20 WC match ID uniqueness — dupes=0
+PASS: CT match ID uniqueness — dupes=0
+PASS: WTC match ID uniqueness — dupes=0
+PASS: ODI WC every match has 2 teams — rows missing a team=0
+PASS: WTC team1/team2 parsed from 'Match' column — rows missing a team=0
+PASS: ODI WC winner is team1, team2, or a recognized no-result label — winner should always resolve to a participant or a known no-result/tie label
+PASS: WTC points table has exactly 2 finalists per cycle in top 2 — each cycle's final should have exactly 2 top-2 teams
+PASS: WTC date range plausible (2019-2026) — out-of-range dates=0
+PASS: ODI WC edition years match the 13 known editions — 13 editions expected

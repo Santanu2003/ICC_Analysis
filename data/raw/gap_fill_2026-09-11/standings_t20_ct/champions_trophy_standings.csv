@@ -1,0 +1,69 @@
+Tournament,Year,Stage,Group,Pos,Team,Pld,W,L,T,NR,Pts,NRR
+Champions Trophy,2002,Pool,1,1,Australia,2,2,0,0,0,8,3.461
+Champions Trophy,2002,Pool,1,2,New Zealand,2,1,1,0,0,4,0.03
+Champions Trophy,2002,Pool,1,3,Bangladesh,2,0,2,0,0,0,-3.275
+Champions Trophy,2002,Pool,2,1,India,2,2,0,0,0,8,0.816
+Champions Trophy,2002,Pool,2,2,England,2,1,1,0,0,4,0.401
+Champions Trophy,2002,Pool,2,3,Zimbabwe,2,0,2,0,0,0,-1.125
+Champions Trophy,2002,Pool,3,1,South Africa,2,2,0,0,0,8,1.856
+Champions Trophy,2002,Pool,3,2,West Indies,2,1,1,0,0,4,0.202
+Champions Trophy,2002,Pool,3,3,Kenya,2,0,2,0,0,0,-2.05
+Champions Trophy,2002,Pool,4,1,Sri Lanka,2,2,0,0,0,8,2.861
+Champions Trophy,2002,Pool,4,2,Pakistan,2,1,1,0,0,4,1.245
+Champions Trophy,2002,Pool,4,3,Netherlands,2,0,2,0,0,0,-4.323
+Champions Trophy,2025,Group Stage,A,1,India,3,3,0,0,0,6,0.715
+Champions Trophy,2025,Group Stage,A,2,New Zealand,3,2,1,0,0,4,0.267
+Champions Trophy,2025,Group Stage,A,3,Bangladesh,3,0,2,0,1,1,-0.443
+Champions Trophy,2025,Group Stage,A,4,Pakistan,3,0,2,0,1,1,-1.087
+Champions Trophy,2025,Group Stage,B,1,South Africa,3,2,0,0,1,5,2.395
+Champions Trophy,2025,Group Stage,B,2,Australia,3,1,0,0,2,4,0.475
+Champions Trophy,2025,Group Stage,B,3,Afghanistan,3,1,1,0,1,3,-0.99
+Champions Trophy,2025,Group Stage,B,4,England,3,0,3,0,0,0,-1.159
+Champions Trophy,2004,Pool,A,1,Australia,2,2,0,0,0,4,3.237
+Champions Trophy,2004,Pool,A,2,New Zealand,2,1,1,0,0,2,1.603
+Champions Trophy,2004,Pool,A,3,United States,2,0,2,0,0,0,-5.121
+Champions Trophy,2004,Pool,B,1,West Indies,2,2,0,0,0,4,1.471
+Champions Trophy,2004,Pool,B,2,South Africa,2,1,1,0,0,2,1.552
+Champions Trophy,2004,Pool,B,3,Bangladesh,2,0,2,0,0,0,-3.111
+Champions Trophy,2004,Pool,C,1,Pakistan,2,2,0,0,0,4,1.413
+Champions Trophy,2004,Pool,C,2,India,2,1,1,0,0,2,0.944
+Champions Trophy,2004,Pool,C,3,Kenya,2,0,2,0,0,0,-2.747
+Champions Trophy,2004,Pool,D,1,England,2,2,0,0,0,4,2.716
+Champions Trophy,2004,Pool,D,2,Sri Lanka,2,1,1,0,0,2,-0.252
+Champions Trophy,2004,Pool,D,3,Zimbabwe,2,0,2,0,0,0,-1.885
+Champions Trophy,2006,Qualifying Round,,1,Sri Lanka,3,3,0,0,0,6,2.672
+Champions Trophy,2006,Qualifying Round,,2,West Indies,3,2,1,0,0,4,0.404
+Champions Trophy,2006,Qualifying Round,,3,Bangladesh,3,1,2,0,0,2,0.019
+Champions Trophy,2006,Qualifying Round,,4,Zimbabwe,3,0,3,0,0,0,-2.927
+Champions Trophy,2006,Group Stage,A,1,Australia,3,2,1,0,0,4,0.529
+Champions Trophy,2006,Group Stage,A,2,West Indies,3,2,1,0,0,4,0.009
+Champions Trophy,2006,Group Stage,A,3,India,3,1,2,0,0,2,0.482
+Champions Trophy,2006,Group Stage,A,4,England,3,1,2,0,0,2,-1.044
+Champions Trophy,2006,Group Stage,B,1,South Africa,3,2,1,0,0,4,0.767
+Champions Trophy,2006,Group Stage,B,2,New Zealand,3,2,1,0,0,4,0.572
+Champions Trophy,2006,Group Stage,B,3,Sri Lanka,3,1,2,0,0,2,-0.195
+Champions Trophy,2006,Group Stage,B,4,Pakistan,3,1,2,0,0,2,-1.107
+Champions Trophy,2009,Group Stage,A,1,Australia,3,2,0,0,1,5,0.51
+Champions Trophy,2009,Group Stage,A,2,Pakistan,3,2,1,0,0,4,0.999
+Champions Trophy,2009,Group Stage,A,3,India,3,1,1,0,1,3,0.29
+Champions Trophy,2009,Group Stage,A,4,West Indies,3,0,3,0,0,0,-1.537
+Champions Trophy,2009,Group Stage,B,1,New Zealand,3,2,1,0,0,4,0.782
+Champions Trophy,2009,Group Stage,B,2,England,3,2,1,0,0,4,-0.487
+Champions Trophy,2009,Group Stage,B,3,Sri Lanka,3,1,2,0,0,2,-0.085
+Champions Trophy,2009,Group Stage,B,4,South Africa,3,1,2,0,0,2,-0.177
+Champions Trophy,2013,Group Stage,A,1,England,3,2,1,0,0,4,0.308
+Champions Trophy,2013,Group Stage,A,2,Sri Lanka,3,2,1,0,0,4,-0.197
+Champions Trophy,2013,Group Stage,A,3,New Zealand,3,1,1,1,0,3,0.777
+Champions Trophy,2013,Group Stage,A,4,Australia,3,0,2,0,1,1,-0.68
+Champions Trophy,2013,Group Stage,B,1,India,3,3,0,0,0,6,0.938
+Champions Trophy,2013,Group Stage,B,2,South Africa,3,1,1,1,0,3,0.325
+Champions Trophy,2013,Group Stage,B,3,West Indies,3,1,1,1,0,3,-0.075
+Champions Trophy,2013,Group Stage,B,4,Pakistan,3,0,3,0,0,0,-1.035
+Champions Trophy,2017,Group Stage,A,1,England,3,3,0,0,0,6,1.045
+Champions Trophy,2017,Group Stage,A,2,Bangladesh,3,1,1,0,1,3,0.0
+Champions Trophy,2017,Group Stage,A,3,Australia,3,0,1,0,2,2,-0.992
+Champions Trophy,2017,Group Stage,A,4,New Zealand,3,0,2,0,1,1,-1.058
+Champions Trophy,2017,Group Stage,B,1,India,3,2,1,0,0,4,1.37
+Champions Trophy,2017,Group Stage,B,2,Pakistan,3,2,1,0,0,4,-0.68
+Champions Trophy,2017,Group Stage,B,3,South Africa,3,1,2,0,0,2,0.167
+Champions Trophy,2017,Group Stage,B,4,Sri Lanka,3,1,2,0,0,2,-0.798

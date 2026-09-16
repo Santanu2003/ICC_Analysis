@@ -1,0 +1,171 @@
+stat,stat_label,rank,Player,Span,Mat,Inns,NO,Runs,HS,Ave,BF,SR,100s,50s,Ducks,4s,6s,Balls,Overs,Mdns,Wkts,BBI,Econ,4w,5w,Team,Opposition,Ground,Match Date,Match ID,10w
+most_runs,Most Runs (career),1,JE Root (ENG),2019-2026,80*,146.0,12.0,6753,262,50.39,11294.0,59.79,23.0,24.0,10.0,702.0,18.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),2,SPD Smith (AUS),2019-2026,61,106.0,12.0,4721,211,50.22,9066.0,52.07,14.0,21.0,7.0,506.0,32.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),3,M Labuschagne (AUS),2019-2026,60,109.0,9.0,4520,215,45.2,8643.0,52.29,11.0,24.0,3.0,510.0,14.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),4,TM Head (AUS),2019-2026,59,100.0,5.0,3990,175,42.0,5378.0,74.19,11.0,15.0,6.0,496.0,40.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),5,BA Stokes (ENG),2019-2026,64,117.0,7.0,3857,176,35.06,6550.0,58.88,8.0,19.0,6.0,395.0,88.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),6,Babar Azam (PAK),2019-2026,43*,80.0,6.0,3534,196,47.75,6223.0,56.78,8.0,23.0,1.0,422.0,21.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),7,UT Khawaja (AUS),2019-2026,47,88.0,8.0,3464,232,43.3,7234.0,47.88,8.0,14.0,6.0,369.0,13.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),8,Z Crawley (ENG),2020-2026,57,105.0,1.0,3314,267,31.86,5088.0,65.13,4.0,20.0,11.0,458.0,13.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),9,HC Brook (ENG),2022-2026,37*,64.0,1.0,3214,317,51.01,3827.0,83.98,9.0,17.0,4.0,342.0,44.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),10,KS Williamson (NZ),2019-2026,32,58.0,6.0,3025,251,58.17,5654.0,53.5,11.0,7.0,4.0,361.0,14.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),11,OJ Pope (ENG),2020-2025,54,97.0,4.0,2993,196,32.18,4752.0,62.98,7.0,15.0,6.0,346.0,10.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),12,TWM Latham (NZ),2019-2026,45,83.0,2.0,2979,252,36.77,5945.0,50.1,7.0,15.0,7.0,330.0,9.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),13,RR Pant (IND),2019-2026,42,74.0,4.0,2948,146,42.11,3959.0,74.46,6.0,18.0,2.0,320.0,82.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),14,Shubman Gill (IND),2020-2026,42,76.0,7.0,2917,269,42.27,4779.0,61.03,10.0,9.0,5.0,327.0,46.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),15,DM de Silva (SL),2019-2026,39,70.0,6.0,2807,166,43.85,4745.0,59.15,9.0,14.0,5.0,336.0,28.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),16,BM Duckett (ENG),2022-2026,41*,76.0,2.0,2781,153,37.58,3240.0,85.83,5.0,14.0,5.0,365.0,13.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),17,RG Sharma (IND),2019-2024,40,69.0,3.0,2716,212,41.15,4657.0,58.32,9.0,8.0,2.0,322.0,56.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),18,RA Jadeja (IND),2019-2026,50,76.0,12.0,2675,175*,41.79,5217.0,51.27,5.0,18.0,4.0,254.0,42.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),19,FDM Karunaratne (SL),2019-2025,35,66.0,1.0,2642,244,40.64,5030.0,52.52,6.0,16.0,1.0,302.0,4.0,,,,,,,,,,,,,,
+most_runs,Most Runs (career),20,V Kohli (IND),2019-2025,46,79.0,5.0,2617,254*,35.36,5059.0,51.72,5.0,11.0,7.0,296.0,11.0,,,,,,,,,,,,,,
+most_wickets,Most Wickets (career),1,MA Starc (AUS),2019-2026,56,109.0,,5675,,24.25,,41.79,,,,,,9781.0,1630.1,289.0,234.0,7/58,3.48,11.0,8.0,,,,,,
+most_wickets,Most Wickets (career),2,PJ Cummins (AUS),2019-2026,54,100.0,,4986,,21.86,,45.05,,,,,,10272.0,1712.0,373.0,228.0,6/28,2.91,10.0,10.0,,,,,,
+most_wickets,Most Wickets (career),3,NM Lyon (AUS),2019-2026,57,101.0,,6190,,27.14,,57.94,,,,,,13212.0,2202.0,424.0,228.0,8/64,2.81,13.0,10.0,,,,,,
+most_wickets,Most Wickets (career),4,R Ashwin (IND),2019-2024,41,78.0,,4191,,21.49,,45.5,,,,,,8874.0,1479.0,278.0,195.0,7/71,2.83,9.0,11.0,,,,,,
+most_wickets,Most Wickets (career),5,JJ Bumrah (IND),2019-2025,42,79.0,,3558,,19.23,,41.16,,,,,,7615.0,1269.1,301.0,185.0,6/27,2.8,7.0,13.0,,,,,,
+most_wickets,Most Wickets (career),6,K Rabada (SA),2019-2025,36,65.0,,3660,,22.31,,40.28,,,,,,6606.0,1101.0,206.0,164.0,6/46,3.32,7.0,8.0,,,,,,
+most_wickets,Most Wickets (career),7,RA Jadeja (IND),2019-2026,50,93.0,,4460,,27.19,,57.17,,,,,,9376.0,1562.4,299.0,164.0,7/42,2.85,10.0,6.0,,,,,,
+most_wickets,Most Wickets (career),8,Mohammed Siraj (IND),2020-2026,47,88.0,,4227,,29.55,,50.84,,,,,,7271.0,1211.5,218.0,143.0,6/15,3.48,8.0,5.0,,,,,,
+most_wickets,Most Wickets (career),9,JR Hazlewood (AUS),2019-2026,34,65.0,,2820,,20.28,,44.18,,,,,,6142.0,1023.4,257.0,139.0,6/89,2.75,7.0,8.0,,,,,,
+most_wickets,Most Wickets (career),10,SCJ Broad (ENG),2019-2023,33,63.0,,3229,,24.09,,47.55,,,,,,6372.0,1062.0,238.0,134.0,6/31,3.04,7.0,3.0,,,,,,
+most_wickets,Most Wickets (career),11,TG Southee (NZ),2019-2024,37,73.0,,3878,,30.53,,61.1,,,,,,7760.0,1293.2,307.0,127.0,5/32,2.99,6.0,6.0,,,,,,
+most_wickets,Most Wickets (career),12,KA Maharaj (SA),2019-2025,36,57.0,,3555,,29.62,,58.63,,,,,,7036.0,1172.4,215.0,120.0,7/32,3.03,2.0,7.0,,,,,,
+most_wickets,Most Wickets (career),13,KAJ Roach (WI),2019-2026,36,67.0,,3103,,26.07,,51.72,,,,,,6155.0,1025.5,220.0,119.0,5/47,3.02,4.0,3.0,,,,,,
+most_wickets,Most Wickets (career),14,BA Stokes (ENG),2019-2026,64,86.0,,3480,,29.24,,53.08,,,,,,6317.0,1052.5,165.0,119.0,5/23,3.3,5.0,2.0,,,,,,
+most_wickets,Most Wickets (career),15,Taijul Islam (BAN),2019-2026,29,50.0,,3928,,33.0,,65.84,,,,,,7836.0,1306.0,241.0,119.0,7/116,3.0,6.0,9.0,,,,,,
+most_wickets,Most Wickets (career),16,JM Anderson (ENG),2019-2024,36,65.0,,2763,,23.81,,59.06,,,,,,6851.0,1141.5,329.0,116.0,6/40,2.41,4.0,5.0,,,,,,
+most_wickets,Most Wickets (career),17,JNT Seales (WI),2021-2026,30,57.0,,2843,,25.84,,46.06,,,,,,5067.0,844.3,161.0,110.0,6/61,3.36,4.0,4.0,,,,,,
+most_wickets,Most Wickets (career),18,CR Woakes (ENG),2019-2025,34,66.0,,3168,,28.8,,56.91,,,,,,6261.0,1043.3,233.0,110.0,5/50,3.03,3.0,2.0,,,,,,
+most_wickets,Most Wickets (career),19,NGRP Jayasuriya (SL),2022-2026,22,40.0,,3744,,34.34,,63.24,,,,,,6894.0,1149.0,154.0,109.0,6/42,3.25,4.0,9.0,,,,,,
+most_wickets,Most Wickets (career),20,MJ Leach (ENG),2019-2024,30,51.0,,3690,,34.81,,66.89,,,,,,7091.0,1181.5,241.0,106.0,5/66,3.12,10.0,3.0,,,,,,
+best_bowling_innings,Best Bowling Figures (innings),1,AY Patel,,,1.0,,119,,,,,,,,,,,47.5,12.0,10.0,,2.48,,,New Zealand,v India,Wankhede,3 Dec 2021,2438.0,
+best_bowling_innings,Best Bowling Figures (innings),2,Sajid Khan,,,2.0,,42,,,,,,,,,,,15.0,4.0,8.0,,2.8,,,Pakistan,v Bangladesh,Mirpur,4 Dec 2021,2439.0,
+best_bowling_innings,Best Bowling Figures (innings),3,Noman Ali,,,4.0,,46,,,,,,,,,,,16.3,1.0,8.0,,2.78,,,Pakistan,v England,Multan,15 Oct 2024,2554.0,
+best_bowling_innings,Best Bowling Figures (innings),4,NM Lyon,,,3.0,,64,,,,,,,,,,,23.3,1.0,8.0,,2.72,,,Australia,v India,Indore,1 Mar 2023,2496.0,
+best_bowling_innings,Best Bowling Figures (innings),5,M Jansen,,,2.0,,13,,,,,,,,,,,6.5,1.0,7.0,,1.9,,,South Africa,v Sri Lanka,Durban,27 Nov 2024,2563.0,
+best_bowling_innings,Best Bowling Figures (innings),6,MJ Henry,,,1.0,,23,,,,,,,,,,,15.0,7.0,7.0,,1.53,,,New Zealand,v South Africa,Christchurch,17 Feb 2022,2450.0,
+best_bowling_innings,Best Bowling Figures (innings),7,KA Maharaj,,,4.0,,32,,,,,,,,,,,10.0,0.0,7.0,,3.2,,,South Africa,v Bangladesh,Durban,31 Mar 2022,2460.0,
+best_bowling_innings,Best Bowling Figures (innings),8,JA Warrican,,,3.0,,32,,,,,,,,,,,18.0,3.0,7.0,,1.77,,,West Indies,v Pakistan,Multan,17 Jan 2025,2577.0,
+best_bowling_innings,Best Bowling Figures (innings),9,KA Maharaj,,,4.0,,40,,,,,,,,,,,12.0,3.0,7.0,,3.33,,,South Africa,v Bangladesh,Gqeberha,8 Apr 2022,2461.0,
+best_bowling_innings,Best Bowling Figures (innings),10,RA Jadeja,,,3.0,,42,,,,,,,,,,,12.1,1.0,7.0,,3.45,,,India,v Australia,Delhi,17 Feb 2023,2493.0,
+best_bowling_innings,Best Bowling Figures (innings),11,AAP Atkinson,,,1.0,,45,,,,,,,,,,,12.0,5.0,7.0,,3.75,,,England,v West Indies,Lord's,10 Jul 2024,2538.0,
+best_bowling_innings,Best Bowling Figures (innings),12,Shoriful Islam,,,2.0,,48,,,,,,,,,,,15.0,3.0,7.0,,3.2,,,Bangladesh,v Australia,Mackay,22 Aug 2026,2632.0,
+best_bowling_innings,Best Bowling Figures (innings),13,MJ Santner,,,2.0,,53,,,,,,,,,,,19.3,1.0,7.0,,2.71,,,New Zealand,v India,Pune,24 Oct 2024,2557.0,
+best_bowling_innings,Best Bowling Figures (innings),14,MA Starc,,,1.0,,58,,,,,,,,,,,12.5,4.0,7.0,,4.51,,,Australia,v England,Perth,21 Nov 2025,2608.0,
+best_bowling_innings,Best Bowling Figures (innings),15,Washington Sundar,,,1.0,,59,,,,,,,,,,,23.1,4.0,7.0,,2.54,,,India,v New Zealand,Pune,24 Oct 2024,2557.0,
+best_bowling_innings,Best Bowling Figures (innings),16,SN Thakur,,,2.0,,61,,,,,,,,,,,17.5,3.0,7.0,,3.42,,,India,v South Africa,Johannesburg,3 Jan 2022,2445.0,
+best_bowling_innings,Best Bowling Figures (innings),17,TW Hartley,,,4.0,,62,,,,,,,,,,,26.2,5.0,7.0,,2.35,,,England,v India,Hyderabad,25 Jan 2024,2525.0,
+best_bowling_innings,Best Bowling Figures (innings),18,MJ Henry,,,2.0,,67,,,,,,,,,,,23.0,4.0,7.0,,2.91,,,New Zealand,v Australia,Christchurch,8 Mar 2024,2535.0,
+best_bowling_innings,Best Bowling Figures (innings),19,S Joseph,,,4.0,,68,,,,,,,,,,,11.5,0.0,7.0,,5.74,,,West Indies,v Australia,Brisbane,25 Jan 2024,2524.0,
+best_bowling_match,Best Bowling Figures (match),1,AY Patel,,,,,225,,,,,,,,,,,73.5,15.0,14.0,,3.04,,,New Zealand,v India,Wankhede,3 Dec 2021,2438.0,
+best_bowling_match,Best Bowling Figures (match),2,MJ Santner,,,,,157,,,,,,,,,,,48.3,3.0,13.0,,3.23,,,New Zealand,v India,Pune,24 Oct 2024,2557.0,
+best_bowling_match,Best Bowling Figures (match),3,AAP Atkinson,,,,,106,,,,,,,,,,,26.0,7.0,12.0,,4.07,,,England,v West Indies,Lord's,10 Jul 2024,2538.0,
+best_bowling_match,Best Bowling Figures (match),4,Sajid Khan,,,,,128,,,,,,,,,,,47.4,12.0,12.0,,2.68,,,Pakistan,v Bangladesh,Mirpur,4 Dec 2021,2439.0,
+best_bowling_match,Best Bowling Figures (match),5,R Ashwin,,,,,131,,,,,,,,,,,46.0,13.0,12.0,,2.84,,,India,v West Indies,Roseau,12 Jul 2023,2510.0,
+best_bowling_match,Best Bowling Figures (match),6,NGRP Jayasuriya,,,,,177,,,,,,,,,,,52.0,5.0,12.0,,3.4,,,Sri Lanka,v Australia,Galle,8 Jul 2022,2471.0,
+best_bowling_match,Best Bowling Figures (match),7,AR Patel,,,,,70,,,,,,,,,,,36.4,6.0,11.0,,1.9,,,India,v England,Ahmedabad,24 Feb 2021,2412.0,
+best_bowling_match,Best Bowling Figures (match),8,M Jansen,,,,,86,,,,,,,,,,,28.3,6.0,11.0,,3.01,,,South Africa,v Sri Lanka,Durban,27 Nov 2024,2563.0,
+best_bowling_match,Best Bowling Figures (match),9,NM Lyon,,,,,99,,,,,,,,,,,34.5,3.0,11.0,,2.84,,,Australia,v India,Indore,1 Mar 2023,2496.0,
+best_bowling_match,Best Bowling Figures (match),10,MJ Henry,,,,,109,,,,,,,,,,,42.1,9.0,11.0,,2.58,,,New Zealand,v England,The Oval,17 Jun 2026,2622.0,
+best_bowling_match,Best Bowling Figures (match),11,Washington Sundar,,,,,115,,,,,,,,,,,42.1,4.0,11.0,,2.72,,,India,v New Zealand,Pune,24 Oct 2024,2557.0,
+best_bowling_match,Best Bowling Figures (match),12,KA Jamieson,,,,,117,,,,,,,,,,,41.0,14.0,11.0,,2.85,,,New Zealand,v Pakistan,Christchurch,3 Jan 2021,2400.0,
+best_bowling_match,Best Bowling Figures (match),13,RTM Mendis,,,,,136,,,,,,,,,,,59.2,14.0,11.0,,2.29,,,Sri Lanka,v West Indies,Galle,29 Nov 2021,2437.0,
+best_bowling_match,Best Bowling Figures (match),14,Noman Ali,,,,,147,,,,,,,,,,,44.3,6.0,11.0,,3.3,,,Pakistan,v England,Multan,15 Oct 2024,2554.0,
+best_bowling_match,Best Bowling Figures (match),15,AY Patel,,,,,160,,,,,,,,,,,35.5,4.0,11.0,,4.46,,,New Zealand,v India,Wankhede,1 Nov 2024,2560.0,
+best_bowling_match,Best Bowling Figures (match),16,S Muthusamy,,,,,174,,,,,,,,,,,49.0,7.0,11.0,,3.55,,,South Africa,v Pakistan,Lahore,12 Oct 2025,2602.0,
+best_bowling_match,Best Bowling Figures (match),17,P Jayawickrama,,,,,178,,,,,,,,,,,64.0,17.0,11.0,,2.78,,,Sri Lanka,v Bangladesh,Pallekele,29 Apr 2021,2419.0,
+best_bowling_match,Best Bowling Figures (match),18,Abrar Ahmed,,,,,234,,,,,,,,,,,51.0,4.0,11.0,,4.58,,,Pakistan,v England,Multan,9 Dec 2022,2480.0,
+best_bowling_match,Best Bowling Figures (match),19,MA Starc,,,,,51,,,,,,,,,,,20.0,9.0,10.0,,2.55,,,Australia,v Bangladesh,Mackay,22 Aug 2026,2632.0,
+best_bowling_match,Best Bowling Figures (match),20,SCJ Broad,,,,,67,,,,,,,,,,,22.1,5.0,10.0,,3.02,,,England,v West Indies,Manchester,24 Jul 2020,2390.0,
+best_economy_career,Best Economy Rate (career),1,S Mahmood (ENG),2022-2022,2,,,137,,22.83,,61,,,,,,366.0,61.0,17.0,6.0,2/21,2.24,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),2,LA Dawson (ENG),2025-2025,1,,,140,,140.00,,372,,,,,,372.0,62.0,12.0,1.0,1/45,2.25,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),3,VD Philander (SA),2019-2020,6,,,368,,36.80,,97.1,,,,,,971.0,161.5,49.0,10.0,4/16,2.27,1.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),4,JA Duffy (NZ),2025-2025,3,,,355,,15.43,,40.3,,,,,,927.0,154.3,44.0,23.0,5/34,2.29,1.0,3.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),5,C de Grandhomme (NZ),2019-2022,10,,,496,,38.15,,98.2,,,,,,1277.0,212.5,51.0,13.0,3/78,2.33,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),6,JM Anderson (ENG),2019-2024,36,,,2763,,23.81,,59,,,,,,6851.0,1141.5,329.0,116.0,6/40,2.41,4.0,5.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),7,Asif Afridi (PAK),2025-2025,1,,,94,,15.66,,38.5,,,,,,231.0,38.3,6.0,6.0,6/79,2.44,0.0,1.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),8,KR Mayers (WI),2021-2023,16,,,594,,17.47,,42.8,,,,,,1458.0,243.0,73.0,34.0,5/18,2.44,0.0,1.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),9,JD Unadkat (IND),2022-2023,3,,,130,,43.33,,106,,,,,,318.0,53.0,13.0,3.0,2/50,2.45,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),10,AR Patel (IND),2021-2025,15,,,1121,,19.66,,46.6,,,,,,2660.0,443.2,98.0,57.0,6/38,2.52,2.0,5.0,,,,,,1.0
+best_economy_career,Best Economy Rate (career),11,JA Raval (NZ),2019-2020,4,,,33,,33.00,,78,,,,,,78.0,13.0,1.0,1.0,1/33,2.53,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),12,RAS Lakmal (SL),2019-2022,11,,,679,,28.29,,66.3,,,,,,1592.0,265.2,77.0,24.0,5/47,2.55,2.0,1.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),13,DAJ Bracewell (NZ),2023-2023,1,,,77,,38.50,,90,,,,,,180.0,30.0,10.0,2.0,1/19,2.56,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),14,JO Holder (WI),2019-2024,29,,,2204,,37.35,,85.8,,,,,,5064.0,844.0,214.0,59.0,6/42,2.61,1.0,3.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),15,AC Agar (AUS),2023-2023,1,,,58,,-,,-,,,,,,132.0,22.0,5.0,0.0,-,2.63,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),16,A Dananjaya (SL),2019-2019,1,,,164,,27.33,,62,,,,,,372.0,62.0,7.0,6.0,5/80,2.64,0.0,1.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),17,JL Pattinson (AUS),2019-2020,4,,,302,,27.45,,62.1,,,,,,684.0,114.0,26.0,11.0,3/34,2.64,0.0,0.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),18,Mohammad Abbas (PAK),2019-2026,19*,,,1699,,26.96,,60.8,,,,,,3831.0,638.3,166.0,63.0,6/54,2.66,2.0,4.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),19,OE Robinson (ENG),2021-2026,21*,,,1699,,18.67,,42,,,,,,3825.0,637.3,171.0,91.0,5/39,2.66,4.0,5.0,,,,,,0.0
+best_economy_career,Best Economy Rate (career),20,R de Swardt (SA),2024-2024,2,,,121,,40.33,,90,,,,,,270.0,45.0,10.0,3.0,2/61,2.68,0.0,0.0,,,,,,0.0
+best_economy_innings,Best Economy Rate (innings),1,TG Southee,,,,,0,,,,,,,,,,,5.2,5.0,1.0,,0.0,,,New Zealand,v Bangladesh,Mirpur,6 Dec 2023,2517.0,
+best_economy_innings,Best Economy Rate (innings),2,Faheem Ashraf,,,,,0,,,,,,,,,,,4.0,4.0,0.0,,0.0,,,Pakistan,v Bangladesh,Mirpur,4 Dec 2021,2439.0,
+best_economy_innings,Best Economy Rate (innings),3,JM Anderson,,,,,1,,,,,,,,,,,4.0,3.0,0.0,,0.25,,,England,v Australia,Birmingham,1 Aug 2019,2353.0,
+best_economy_innings,Best Economy Rate (innings),4,PWA Mulder,,,,,1,,,,,,,,,,,4.0,3.0,3.0,,0.25,,,South Africa,v West Indies,Gros Islet,18 Jun 2021,2426.0,
+best_economy_innings,Best Economy Rate (innings),5,JNT Seales,,,,,5,,,,,,,,,,,15.5,10.0,4.0,,0.31,,,West Indies,v Bangladesh,Kingston,30 Nov 2024,2565.0,
+best_economy_innings,Best Economy Rate (innings),6,JD Unadkat,,,,,1,,,,,,,,,,,3.0,2.0,0.0,,0.33,,,India,v West Indies,Port of Spain,20 Jul 2023,2513.0,
+best_economy_innings,Best Economy Rate (innings),7,OE Robinson,,,,,2,,,,,,,,,,,5.0,3.0,1.0,,0.4,,,England,v Pakistan,Multan,9 Dec 2022,2480.0,
+best_economy_innings,Best Economy Rate (innings),8,C de Grandhomme,,,,,3,,,,,,,,,,,5.0,3.0,1.0,,0.6,,,New Zealand,v India,Christchurch,29 Feb 2020,2387.0,
+best_economy_innings,Best Economy Rate (innings),9,MR Marsh,,,,,2,,,,,,,,,,,3.0,2.0,0.0,,0.66,,,Australia,v India,Melbourne,26 Dec 2024,2571.0,
+best_economy_innings,Best Economy Rate (innings),10,GF Linde,,,,,4,,,,,,,,,,,5.5,2.0,0.0,,0.68,,,South Africa,v Pakistan,Rawalpindi,4 Feb 2021,2408.0,
+best_economy_innings,Best Economy Rate (innings),11,AY Patel,,,,,23,,,,,,,,,,,32.0,21.0,3.0,,0.71,,,New Zealand,v West Indies,Mount Maunganui,18 Dec 2025,2614.0,
+best_economy_innings,Best Economy Rate (innings),12,JM Anderson,,,,,6,,,,,,,,,,,8.0,5.0,3.0,,0.75,,,England,v India,Leeds,25 Aug 2021,2432.0,
+best_economy_innings,Best Economy Rate (innings),13,JO Holder,,,,,6,,,,,,,,,,,8.0,5.0,0.0,,0.75,,,West Indies,v England,St George's,24 Mar 2022,2459.0,
+best_economy_innings,Best Economy Rate (innings),14,Shaheen Shah Afridi,,,,,3,,,,,,,,,,,4.0,3.0,1.0,,0.75,,,Pakistan,v Bangladesh,Mirpur,4 Dec 2021,2439.0,
+best_economy_innings,Best Economy Rate (innings),15,C de Grandhomme,,,,,3,,,,,,,,,,,3.5,1.0,0.0,,0.78,,,New Zealand,v England,Lord's,2 Jun 2022,2464.0,
+best_economy_innings,Best Economy Rate (innings),16,JM Anderson,,,,,8,,,,,,,,,,,10.0,6.0,1.0,,0.8,,,England,v Australia,Adelaide,16 Dec 2021,2441.0,
+best_economy_innings,Best Economy Rate (innings),17,NM Lyon,,,,,8,,,,,,,,,,,10.0,7.0,1.0,,0.8,,,Australia,v West Indies,Adelaide,8 Dec 2022,2479.0,
+best_economy_innings,Best Economy Rate (innings),18,TA Boult,,,,,4,,,,,,,,,,,5.0,3.0,0.0,,0.8,,,New Zealand,v Bangladesh,Mount Maunganui,1 Jan 2022,2444.0,
+best_economy_innings,Best Economy Rate (innings),19,DJ Mitchell,,,,,4,,,,,,,,,,,5.0,1.0,0.0,,0.8,,,New Zealand,v West Indies,Wellington,10 Dec 2025,2612.0,
+best_economy_innings,Best Economy Rate (innings),20,SCJ Broad,,,,,14,,,,,,,,,,,17.0,11.0,0.0,,0.82,,,England,v Sri Lanka,Galle,14 Jan 2021,2403.0,
+most_runs_conceded,Most Runs Conceded (innings),1,Zahid Mahmood,,,,,235,,,,,,,,,,,33.0,1.0,4.0,,7.12,,,Pakistan,v England,Rawalpindi,1 Dec 2022,2478.0,
+most_runs_conceded,Most Runs Conceded (innings),2,GS Dinusha,,,,,234,,,,,,,,,,,56.0,1.0,2.0,,4.17,,,Sri Lanka,v West Indies,North Sound,25 Jun 2026,2624.0,
+most_runs_conceded,Most Runs Conceded (innings),3,Yasir Shah,,,,,205,,,,,,,,,,,48.4,1.0,4.0,,4.21,,,Pakistan,v Australia,Brisbane,21 Nov 2019,2368.0,
+most_runs_conceded,Most Runs Conceded (innings),4,Abrar Ahmed,,,,,205,,,,,,,,,,,67.5,8.0,5.0,,3.02,,,Pakistan,v New Zealand,Karachi,26 Dec 2022,2486.0,
+most_runs_conceded,Most Runs Conceded (innings),5,Taijul Islam,,,,,198,,,,,,,,,,,52.2,5.0,5.0,,3.78,,,Bangladesh,v South Africa,Chattogram,29 Oct 2024,2559.0,
+most_runs_conceded,Most Runs Conceded (innings),6,Yasir Shah,,,,,197,,,,,,,,,,,32.0,1.0,0.0,,6.15,,,Pakistan,v Australia,Adelaide,29 Nov 2019,2372.0,
+most_runs_conceded,Most Runs Conceded (innings),7,KA Maharaj,,,,,196,,,,,,,,,,,50.0,10.0,1.0,,3.92,,,South Africa,v India,Pune,10 Oct 2019,2364.0,
+most_runs_conceded,Most Runs Conceded (innings),8,KTH Ratnayake,,,,,196,,,,,,,,,,,49.2,3.0,3.0,,3.97,,,Sri Lanka,v Bangladesh,Galle,17 Jun 2025,2586.0,
+most_runs_conceded,Most Runs Conceded (innings),9,NM Lyon,,,,,194,,,,,,,,,,,64.0,5.0,2.0,,3.03,,,Australia,v Sri Lanka,Galle,8 Jul 2022,2471.0,
+most_runs_conceded,Most Runs Conceded (innings),10,NGRP Jayasuriya,,,,,194,,,,,,,,,,,53.0,11.0,2.0,,3.66,,,Sri Lanka,v Pakistan,Colombo (SSC),24 Jul 2023,2514.0,
+most_runs_conceded,Most Runs Conceded (innings),11,L Embuldeniya,,,,,193,,,,,,,,,,,50.0,4.0,1.0,,3.86,,,Sri Lanka,v Pakistan,Karachi,19 Dec 2019,2375.0,
+most_runs_conceded,Most Runs Conceded (innings),12,NGRP Jayasuriya,,,,,193,,,,,,,,,,,60.0,8.0,3.0,,3.21,,,Sri Lanka,v Australia,Galle,29 Jan 2025,2579.0,
+most_runs_conceded,Most Runs Conceded (innings),13,MJ Leach,,,,,190,,,,,,,,,,,49.0,7.0,2.0,,3.87,,,England,v Pakistan,Rawalpindi,1 Dec 2022,2478.0,
+most_runs_conceded,Most Runs Conceded (innings),14,KA Maharaj,,,,,189,,,,,,,,,,,55.0,6.0,3.0,,3.43,,,South Africa,v India,Visakhapatnam,2 Oct 2019,2363.0,
+most_runs_conceded,Most Runs Conceded (innings),15,KN Peiris,,,,,189,,,,,,,,,,,41.0,1.0,0.0,,4.6,,,Sri Lanka,v Australia,Galle,29 Jan 2025,2579.0,
+most_runs_conceded,Most Runs Conceded (innings),16,L Embuldeniya,,,,,188,,,,,,,,,,,46.0,3.0,2.0,,4.08,,,Sri Lanka,v India,Mohali,4 Mar 2022,2452.0,
+most_runs_conceded,Most Runs Conceded (innings),17,Noman Ali,,,,,185,,,,,,,,,,,63.0,5.0,3.0,,2.93,,,Pakistan,v New Zealand,Karachi,26 Dec 2022,2486.0,
+most_runs_conceded,Most Runs Conceded (innings),18,JDF Vandersay,,,,,182,,,,,,,,,,,38.0,0.0,3.0,,4.78,,,Sri Lanka,v Australia,Galle,29 Jan 2025,2579.0,
+most_runs_conceded,Most Runs Conceded (innings),19,KA Maharaj,,,,,180,,,,,,,,,,,58.0,15.0,5.0,,3.1,,,South Africa,v England,Gqeberha,16 Jan 2020,2380.0,
+most_runs_conceded,Most Runs Conceded (innings),20,L Embuldeniya,,,,,176,,,,,,,,,,,45.0,4.0,3.0,,3.91,,,Sri Lanka,v England,Galle,14 Jan 2021,2403.0,
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),1,R Ashwin (IND),2019-2024,41,78.0,,4191,,21.49,,45.5,,,,,,8874.0,1479.0,278.0,195.0,7/71,2.83,9.0,11.0,,,,,,1.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),2,PJ Cummins (AUS),2019-2026,54,100.0,,4986,,21.86,,45.05,,,,,,10272.0,1712.0,373.0,228.0,6/28,2.91,10.0,10.0,,,,,,1.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),3,NM Lyon (AUS),2019-2026,57,101.0,,6190,,27.14,,57.94,,,,,,13212.0,2202.0,424.0,228.0,8/64,2.81,13.0,10.0,,,,,,3.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),4,NGRP Jayasuriya (SL),2022-2026,22,40.0,,3744,,34.34,,63.24,,,,,,6894.0,1149.0,154.0,109.0,6/42,3.25,4.0,9.0,,,,,,1.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),5,Taijul Islam (BAN),2019-2026,29,50.0,,3928,,33.0,,65.84,,,,,,7836.0,1306.0,241.0,119.0,7/116,3.0,6.0,9.0,,,,,,1.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),6,Noman Ali (PAK),2021-2026,20,38.0,,2389,,25.68,,49.72,,,,,,4624.0,770.4,119.0,93.0,8/46,3.09,3.0,8.0,,,,,,3.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),7,JR Hazlewood (AUS),2019-2026,34,65.0,,2820,,20.28,,44.18,,,,,,6142.0,1023.4,257.0,139.0,6/89,2.75,7.0,8.0,,,,,,0.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),8,K Rabada (SA),2019-2025,36,65.0,,3660,,22.31,,40.28,,,,,,6606.0,1101.0,206.0,164.0,6/46,3.32,7.0,8.0,,,,,,0.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),9,MA Starc (AUS),2019-2026,56,109.0,,5675,,24.25,,41.79,,,,,,9781.0,1630.1,289.0,234.0,7/58,3.48,11.0,8.0,,,,,,2.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),10,KA Maharaj (SA),2019-2025,36,57.0,,3555,,29.62,,58.63,,,,,,7036.0,1172.4,215.0,120.0,7/32,3.03,2.0,7.0,,,,,,0.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),11,KA Jamieson (NZ),2020-2026,20,38.0,,1708,,19.63,,42.55,,,,,,3702.0,617.0,185.0,87.0,6/48,2.76,4.0,6.0,,,,,,1.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),12,AY Patel (NZ),2019-2025,16,29.0,,2098,,28.35,,51.47,,,,,,3809.0,634.5,111.0,74.0,10/119,3.3,2.0,6.0,,,,,,2.0
+most_five_wicket_hauls,Most Five-Wicket Hauls (career),13,MJ Henry (NZ),2020-2026,20,40.0,,2167,,22.57,,44.81,,,,,,4302.0,717.0,163.0,96.0,7/23,3.02,3.0,6.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),1,Noman Ali (PAK),2021-2026,20,38.0,,2389,,25.68,,49.72,,,,,,4624.0,770.4,119.0,93.0,8/46,3.09,3.0,8.0,,,,,,3.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),2,NM Lyon (AUS),2019-2026,57,101.0,,6190,,27.14,,57.94,,,,,,13212.0,2202.0,424.0,228.0,8/64,2.81,13.0,10.0,,,,,,3.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),3,Sajid Khan (PAK),2021-2026,14,27.0,,2104,,28.05,,49.94,,,,,,3746.0,624.2,78.0,75.0,8/42,3.36,6.0,4.0,,,,,,2.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),4,AY Patel (NZ),2019-2025,16,29.0,,2098,,28.35,,51.47,,,,,,3809.0,634.5,111.0,74.0,10/119,3.3,2.0,6.0,,,,,,2.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),5,RA Jadeja (IND),2019-2026,50,93.0,,4460,,27.19,,57.17,,,,,,9376.0,1562.4,299.0,164.0,7/42,2.85,10.0,6.0,,,,,,2.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),6,MA Starc (AUS),2019-2026,56,109.0,,5675,,24.25,,41.79,,,,,,9781.0,1630.1,289.0,234.0,7/58,3.48,11.0,8.0,,,,,,2.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),7,MJ Suthar (IND),2026-2026,2,4.0,,337,,21.06,,40.62,,,,,,650.0,108.2,11.0,16.0,6/55,3.11,1.0,1.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),8,S Muthusamy (SA),2019-2025,7,12.0,,470,,24.73,,40.26,,,,,,765.0,127.3,16.0,19.0,6/117,3.68,1.0,2.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),9,P Jayawickrama (SL),2021-2022,5,10.0,,642,,25.68,,52.8,,,,,,1320.0,220.0,50.0,25.0,6/92,2.91,2.0,2.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),10,Akash Deep (IND),2024-2025,10,18.0,,1002,,35.78,,54.85,,,,,,1536.0,256.0,40.0,28.0,6/99,3.91,1.0,1.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),11,MJ Santner (NZ),2019-2026,11,21.0,,1146,,30.15,,57.0,,,,,,2166.0,361.0,52.0,38.0,7/53,3.17,1.0,2.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),12,Washington Sundar (IND),2021-2025,17,29.0,,1187,,32.97,,60.77,,,,,,2188.0,364.4,41.0,36.0,7/59,3.25,3.0,1.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),13,Abrar Ahmed (PAK),2022-2025,10,19.0,,1580,,34.34,,57.19,,,,,,2631.0,438.3,59.0,46.0,7/114,3.6,5.0,2.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),14,AR Patel (IND),2021-2025,15,29.0,,1121,,19.66,,46.66,,,,,,2660.0,443.2,98.0,57.0,6/38,2.52,2.0,5.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),15,BA Carse (ENG),2024-2026,14,27.0,,1751,,30.18,,46.53,,,,,,2699.0,449.5,58.0,58.0,6/42,3.89,4.0,1.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),16,Hasan Ali (PAK),2021-2026,16,31.0,,1451,,33.74,,64.79,,,,,,2786.0,464.2,89.0,43.0,5/51,3.12,0.0,3.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),17,SM Boland (AUS),2021-2026,19,37.0,,1524,,18.58,,38.91,,,,,,3191.0,531.5,122.0,82.0,6/7,2.86,3.0,2.0,,,,,,1.0
+most_ten_wicket_hauls,Most Ten-Wicket Hauls (career),18,AAP Atkinson (ENG),2024-2026,20*,39.0,,2029,,25.36,,41.76,,,,,,3341.0,556.5,104.0,80.0,7/45,3.64,2.0,5.0,,,,,,1.0

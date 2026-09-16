@@ -1,0 +1,502 @@
+match_id,year,stage,match_number,match_date,ground,country,team1,team1_score,team1_wickets,team1_overs,team2,team2_score,team2_wickets,team2_overs,winner,win_margin,toss
+ODIWC-1975-1,1975,Group A,1,1975-06-07,"Lord's, London",England,England,334,4,60.0,India,132,3,60.0,England,202 runs,England
+ODIWC-1975-2,1975,Group A,2,1975-06-07,"Edgbaston, Birmingham",England,New Zealand,309,5,60.0,East Africa,128,8,60.0,New Zealand,181 runs,New Zealand
+ODIWC-1975-3,1975,Group B,3,1975-06-07,"Headingley, Leeds",England,Australia,278,7,60.0,Pakistan,205,10,53.0,Australia,73 runs,Australia
+ODIWC-1975-4,1975,Group B,4,1975-06-07,"Old Trafford, Manchester",England,Sri Lanka,86,10,37.2,West Indies,87,1,20.4,West Indies,9 wickets,West Indies
+ODIWC-1975-5,1975,Group A,5,1975-06-11,"Trent Bridge, Nottingham",England,England,266,6,60.0,New Zealand,186,10,60.0,England,80 runs,New Zealand
+ODIWC-1975-6,1975,Group A,6,1975-06-11,"Headingley, Leeds",England,East Africa,120,10,55.3,India,123,0,29.5,India,10 wickets,East Africa
+ODIWC-1975-7,1975,Group B,7,1975-06-11,"Kennington Oval, London",England,Australia,328,5,60.0,Sri Lanka,276,4,60.0,Australia,52 runs,Sri Lanka
+ODIWC-1975-8,1975,Group B,8,1975-06-11,"Edgbaston, Birmingham",England,Pakistan,266,7,60.0,West Indies,267,9,59.4,West Indies,1 wickets,Pakistan
+ODIWC-1975-9,1975,Group A,9,1975-06-14,"Edgbaston, Birmingham",England,England,290,5,60.0,East Africa,94,10,52.3,England,196 runs,East Africa
+ODIWC-1975-10,1975,Group A,10,1975-06-14,"Old Trafford, Manchester",England,India,230,10,60.0,New Zealand,233,6,58.5,New Zealand,4 wickets,India
+ODIWC-1975-11,1975,Group B,11,1975-06-14,"Kennington Oval, London",England,Australia,192,10,53.4,West Indies,195,3,46.0,West Indies,7 wickets,West Indies
+ODIWC-1975-12,1975,Group B,12,1975-06-14,"Trent Bridge, Nottingham",England,Pakistan,330,6,60.0,Sri Lanka,138,10,50.1,Pakistan,192 runs,Sri Lanka
+ODIWC-1975-13,1975,tournament semi-finals,13,1975-06-18,"Headingley, Leeds",England,England,93,10,36.2,Australia,94,6,28.4,Australia,4 wickets,Australia
+ODIWC-1975-14,1975,tournament semi-finals,14,1975-06-18,"Kennington Oval, London",England,New Zealand,158,10,52.2,West Indies,159,5,40.1,West Indies,5 wickets,West Indies
+ODIWC-1975-15,1975,tournament finals,15,1975-06-21,"Lord's, London",England,West Indies,291,8,60.0,Australia,274,10,58.4,West Indies,17 runs,Australia
+ODIWC-1979-1,1979,Group B,1,1979-06-09,"Edgbaston, Birmingham",England,India,190,10,53.1,West Indies,194,1,51.3,West Indies,9 wickets,West Indies
+ODIWC-1979-2,1979,Group B,2,1979-06-09,"Trent Bridge, Nottingham",England,Sri Lanka,189,10,56.5,New Zealand,190,1,47.4,New Zealand,9 wickets,New Zealand
+ODIWC-1979-3,1979,Group A,3,1979-06-09,"Lord's, London",England,Australia,159,9,60.0,England,160,4,47.1,England,6 wickets,England
+ODIWC-1979-4,1979,Group A,4,1979-06-09,"Headingley, Leeds",England,Canada,139,9,60.0,Pakistan,140,2,40.1,Pakistan,8 wickets,Canada
+ODIWC-1979-5,1979,Group B,5,1979-06-13,"Kennington Oval, London",England,Sri Lanka,0,0,0.0,West Indies,0,0,0.0,No Result,,
+ODIWC-1979-6,1979,Group B,6,1979-06-13,"Headingley, Leeds",England,India,182,10,55.5,New Zealand,183,2,57.0,New Zealand,8 wickets,New Zealand
+ODIWC-1979-7,1979,Group A,7,1979-06-13,"Trent Bridge, Nottingham",England,Pakistan,286,7,60.0,Australia,197,10,57.1,Pakistan,89 runs,Australia
+ODIWC-1979-8,1979,Group A,8,1979-06-13,"Old Trafford, Manchester",England,Canada,45,10,40.3,England,46,2,13.5,England,8 wickets,Canada
+ODIWC-1979-9,1979,Group B,9,1979-06-16,"Old Trafford, Manchester",England,Sri Lanka,238,5,60.0,India,191,10,54.1,Sri Lanka,47 runs,India
+ODIWC-1979-10,1979,Group B,10,1979-06-16,"Trent Bridge, Nottingham",England,West Indies,244,7,60.0,New Zealand,212,9,60.0,West Indies,32 runs,New Zealand
+ODIWC-1979-11,1979,Group A,11,1979-06-16,"Edgbaston, Birmingham",England,Canada,105,10,33.2,Australia,106,3,26.0,Australia,7 wickets,Australia
+ODIWC-1979-12,1979,Group A,12,1979-06-16,"Headingley, Leeds",England,England,165,9,60.0,Pakistan,151,10,56.0,England,14 runs,Pakistan
+ODIWC-1979-13,1979,tournament semi-finals,13,1979-06-20,"Old Trafford, Manchester",England,England,221,8,60.0,New Zealand,212,9,60.0,England,9 runs,New Zealand
+ODIWC-1979-14,1979,tournament semi-finals,14,1979-06-20,"Kennington Oval, London",England,West Indies,293,6,60.0,Pakistan,250,10,56.2,West Indies,43 runs,Pakistan
+ODIWC-1979-15,1979,tournament finals,15,1979-06-23,"Lord's, London",England,West Indies,286,9,60.0,England,194,10,51.0,West Indies,92 runs,England
+ODIWC-1983-1,1983,Group A,1,1983-06-09,"Kennington Oval, London",England,England,322,6,60.0,New Zealand,216,10,59.0,England,106 runs,England
+ODIWC-1983-2,1983,Group A,2,1983-06-09,"St Helen's, Swansea",England,Pakistan,338,5,60.0,Sri Lanka,288,9,60.0,Pakistan,50 runs,Sri Lanka
+ODIWC-1983-3,1983,Group B,3,1983-06-09,"Trent Bridge, Nottingham",England,Zimbabwe,239,6,60.0,Australia,226,7,60.0,Zimbabwe,13 runs,Australia
+ODIWC-1983-4,1983,Group B,4,1983-06-09,"Old Trafford, Manchester",England,India,262,8,60.0,West Indies,228,10,54.1,India,34 runs,West Indies
+ODIWC-1983-5,1983,Group A,5,1983-06-11,"County Ground, Taunton",England,England,333,9,60.0,Sri Lanka,286,10,58.0,England,47 runs,England
+ODIWC-1983-6,1983,Group A,6,1983-06-11,"Edgbaston, Birmingham",England,New Zealand,238,9,60.0,Pakistan,186,10,55.2,New Zealand,52 runs,Pakistan
+ODIWC-1983-7,1983,Group B,7,1983-06-11,"Headingley, Leeds",England,West Indies,252,9,60.0,Australia,151,9,30.3,West Indies,101 runs,Australia
+ODIWC-1983-8,1983,Group B,8,1983-06-11,"Grace Road, Leicester",England,Zimbabwe,155,10,51.4,India,157,5,37.3,India,5 wickets,India
+ODIWC-1983-9,1983,Group A,9,1983-06-13,"Lord's, London",England,Pakistan,193,8,60.0,England,199,2,50.4,England,8 wickets,Pakistan
+ODIWC-1983-10,1983,Group A,10,1983-06-13,"Phoenix County Ground, Bristol",England,Sri Lanka,206,10,56.1,New Zealand,209,5,39.2,New Zealand,5 wickets,New Zealand
+ODIWC-1983-11,1983,Group B,11,1983-06-13,"Trent Bridge, Nottingham",England,Australia,320,9,60.0,India,158,10,37.5,Australia,162 runs,Australia
+ODIWC-1983-12,1983,Group B,12,1983-06-13,"County Ground, New Road, Worcester",England,Zimbabwe,217,7,60.0,West Indies,218,2,48.3,West Indies,8 wickets,West Indies
+ODIWC-1983-13,1983,Group A,13,1983-06-15,"Edgbaston, Birmingham",England,England,234,10,55.2,New Zealand,238,8,59.5,New Zealand,2 wickets,England
+ODIWC-1983-14,1983,Group B,14,1983-06-15,"Kennington Oval, London",England,West Indies,282,9,60.0,India,216,9,53.1,West Indies,66 runs,West Indies
+ODIWC-1983-15,1983,Group A,15,1983-06-16,"Headingley, Leeds",England,Pakistan,235,7,60.0,Sri Lanka,224,10,58.3,Pakistan,11 runs,Sri Lanka
+ODIWC-1983-16,1983,Group B,16,1983-06-16,"County Ground, Southampton",England,Australia,272,7,60.0,Zimbabwe,240,10,59.5,Australia,32 runs,Australia
+ODIWC-1983-17,1983,Group A,17,1983-06-18,"Old Trafford, Manchester",England,Pakistan,232,8,60.0,England,233,3,57.2,England,7 wickets,Pakistan
+ODIWC-1983-18,1983,Group A,18,1983-06-18,"County Ground, Derby",England,New Zealand,181,10,58.2,Sri Lanka,184,7,52.5,Sri Lanka,3 wickets,Sri Lanka
+ODIWC-1983-19,1983,Group B,19,1983-06-18,"Lord's, London",England,Australia,273,6,60.0,West Indies,276,3,57.5,West Indies,7 wickets,Australia
+ODIWC-1983-20,1983,Group B,20,1983-06-18,"Nevill Ground, Tunbridge Wells",England,India,266,8,60.0,Zimbabwe,235,10,57.0,India,31 runs,India
+ODIWC-1983-21,1983,Group A,21,1983-06-20,"Headingley, Leeds",England,Sri Lanka,136,10,50.4,England,137,1,24.1,England,9 wickets,England
+ODIWC-1983-22,1983,Group A,22,1983-06-20,"Trent Bridge, Nottingham",England,Pakistan,261,3,60.0,New Zealand,250,10,59.1,Pakistan,11 runs,Pakistan
+ODIWC-1983-23,1983,Group B,23,1983-06-20,"County Ground, Chelmsford",England,India,247,10,55.5,Australia,129,10,38.2,India,118 runs,India
+ODIWC-1983-24,1983,Group B,24,1983-06-20,"Edgbaston, Birmingham",England,Zimbabwe,171,10,60.0,West Indies,172,0,45.1,West Indies,10 wickets,Zimbabwe
+ODIWC-1983-25,1983,tournament semi-finals,25,1983-06-22,"Old Trafford, Manchester",England,England,213,10,60.0,India,217,4,54.4,India,6 wickets,England
+ODIWC-1983-26,1983,tournament semi-finals,26,1983-06-22,"Kennington Oval, London",England,Pakistan,184,8,60.0,West Indies,188,2,48.4,West Indies,8 wickets,West Indies
+ODIWC-1983-27,1983,tournament finals,27,1983-06-25,"Lord's, London",England,India,183,10,54.4,West Indies,140,10,52.0,India,43 runs,West Indies
+ODIWC-1987-1,1987,Group B,1,1987-10-08,"Niaz Stadium, Hyderabad, Sind",Pakistan,Pakistan,267,6,50.0,Sri Lanka,252,10,49.2,Pakistan,15 runs,Pakistan
+ODIWC-1987-2,1987,Group B,2,1987-10-09,"Municipal Stadium, Gujranwala",Pakistan,West Indies,243,7,50.0,England,246,8,49.3,England,2 wickets,England
+ODIWC-1987-3,1987,Group A,3,1987-10-09,"MA Chidambaram Stadium, Chepauk, Madras",India,Australia,270,6,50.0,India,269,10,49.5,Australia,1 runs,India
+ODIWC-1987-4,1987,Group A,4,1987-10-10,"Lal Bahadur Shastri Stadium, Hyderabad, Deccan",India,New Zealand,242,7,50.0,Zimbabwe,239,10,49.4,New Zealand,3 runs,Zimbabwe
+ODIWC-1987-5,1987,Group B,5,1987-10-12,"Pindi Club Ground, Rawalpindi",Pakistan,Pakistan,239,7,50.0,England,221,10,48.4,Pakistan,18 runs,England
+ODIWC-1987-6,1987,Group A,6,1987-10-13,"MA Chidambaram Stadium, Chepauk, Madras",India,Australia,235,9,50.0,Zimbabwe,139,10,42.4,Australia,96 runs,Zimbabwe
+ODIWC-1987-7,1987,Group B,7,1987-10-13,"National Stadium, Karachi",Pakistan,West Indies,360,4,50.0,Sri Lanka,169,4,50.0,West Indies,191 runs,Sri Lanka
+ODIWC-1987-8,1987,Group A,8,1987-10-14,"M Chinnaswamy Stadium, Bangalore",India,India,252,7,50.0,New Zealand,236,8,50.0,India,16 runs,New Zealand
+ODIWC-1987-9,1987,Group B,9,1987-10-16,"Gaddafi Stadium, Lahore",Pakistan,West Indies,216,10,49.3,Pakistan,217,9,50.0,Pakistan,1 wickets,West Indies
+ODIWC-1987-10,1987,Group B,10,1987-10-17,"Arbab Niaz Stadium, Peshawar",Pakistan,England,296,4,50.0,Sri Lanka,158,8,45.0,England,108 runs,England
+ODIWC-1987-11,1987,Group A,11,1987-10-17,"Wankhede Stadium, Bombay",India,Zimbabwe,135,10,44.2,India,136,2,27.5,India,8 wickets,Zimbabwe
+ODIWC-1987-12,1987,Group A,12,1987-10-18,"Nehru Stadium, Indore",India,Australia,199,4,30.0,New Zealand,196,9,30.0,Australia,3 runs,New Zealand
+ODIWC-1987-13,1987,Group B,13,1987-10-20,"National Stadium, Karachi",Pakistan,England,244,9,50.0,Pakistan,247,3,49.0,Pakistan,7 wickets,Pakistan
+ODIWC-1987-14,1987,Group B,14,1987-10-21,"Green Park, Kanpur",India,West Indies,236,8,50.0,Sri Lanka,211,8,50.0,West Indies,25 runs,Sri Lanka
+ODIWC-1987-15,1987,Group A,15,1987-10-22,"Feroz Shah Kotla, Delhi",India,India,289,6,50.0,Australia,233,10,49.0,India,56 runs,Australia
+ODIWC-1987-16,1987,Group A,16,1987-10-23,"Eden Gardens, Calcutta",India,Zimbabwe,227,5,50.0,New Zealand,228,6,47.4,New Zealand,4 wickets,New Zealand
+ODIWC-1987-17,1987,Group B,17,1987-10-25,"Iqbal Stadium, Faisalabad",Pakistan,Pakistan,297,7,50.0,Sri Lanka,184,8,50.0,Pakistan,113 runs,Pakistan
+ODIWC-1987-18,1987,Group B,18,1987-10-26,"Sawai Mansingh Stadium, Jaipur",India,England,269,5,50.0,West Indies,235,10,48.1,England,34 runs,West Indies
+ODIWC-1987-19,1987,Group A,19,1987-10-26,"Gujarat Stadium, Motera, Ahmedabad",India,Zimbabwe,191,7,50.0,India,194,3,42.0,India,7 wickets,India
+ODIWC-1987-20,1987,Group A,20,1987-10-27,"Sector 16 Stadium, Chandigarh",India,Australia,251,8,50.0,New Zealand,234,10,48.4,Australia,17 runs,Australia
+ODIWC-1987-21,1987,Group A,21,1987-10-30,"Barabati Stadium, Cuttack",India,Australia,266,5,50.0,Zimbabwe,196,6,50.0,Australia,70 runs,Zimbabwe
+ODIWC-1987-22,1987,Group B,22,1987-10-30,"Nehru Stadium, Pune",India,Sri Lanka,218,7,50.0,England,219,2,41.2,England,8 wickets,Sri Lanka
+ODIWC-1987-23,1987,Group B,23,1987-10-30,"National Stadium, Karachi",Pakistan,West Indies,258,7,50.0,Pakistan,230,9,50.0,West Indies,28 runs,West Indies
+ODIWC-1987-24,1987,Group A,24,1987-10-31,"Vidarbha Cricket Association Ground, Nagpur",India,New Zealand,221,9,50.0,India,224,1,32.1,India,9 wickets,New Zealand
+ODIWC-1987-25,1987,tournament semi-finals,25,1987-11-04,"Gaddafi Stadium, Lahore",Pakistan,Australia,267,8,50.0,Pakistan,249,10,49.0,Australia,18 runs,Australia
+ODIWC-1987-26,1987,tournament semi-finals,26,1987-11-05,"Wankhede Stadium, Bombay",India,England,254,6,50.0,India,219,10,45.3,England,35 runs,India
+ODIWC-1987-27,1987,tournament finals,27,1987-11-08,"Eden Gardens, Calcutta",India,Australia,253,5,50.0,England,246,8,50.0,Australia,7 runs,Australia
+ODIWC-1992-1,1992,Round,1,1992-02-22,"Eden Park, Auckland",New Zealand,New Zealand,248,6,50.0,Australia,211,10,48.1,New Zealand,37 runs,New Zealand
+ODIWC-1992-2,1992,Round,2,1992-02-22,"Western Australia Cricket Association Ground, Perth",Australia,England,236,9,50.0,India,227,10,49.2,England,9 runs,England
+ODIWC-1992-3,1992,Round,3,1992-02-23,"Pukekura Park, New Plymouth",New Zealand,Zimbabwe,312,4,50.0,Sri Lanka,313,7,49.2,Sri Lanka,3 wickets,Sri Lanka
+ODIWC-1992-4,1992,Round,4,1992-02-23,Melbourne Cricket Ground,Australia,Pakistan,220,2,50.0,West Indies,221,0,46.5,West Indies,10 wickets,West Indies
+ODIWC-1992-5,1992,Round,5,1992-02-25,"Trust Bank Park, Hamilton",New Zealand,Sri Lanka,206,9,50.0,New Zealand,210,4,48.2,New Zealand,6 wickets,New Zealand
+ODIWC-1992-6,1992,Round,6,1992-02-26,Sydney Cricket Ground,Australia,Australia,170,9,49.0,South Africa,171,1,46.5,South Africa,9 wickets,Australia
+ODIWC-1992-7,1992,Round,7,1992-02-27,"Bellerive Oval, Hobart",Australia,Pakistan,254,4,50.0,Zimbabwe,201,7,50.0,Pakistan,53 runs,Zimbabwe
+ODIWC-1992-8,1992,Round,8,1992-02-27,Melbourne Cricket Ground,Australia,West Indies,157,10,49.2,England,160,4,39.5,England,6 wickets,England
+ODIWC-1992-9,1992,Round,9,1992-02-28,"Ray Mitchell Oval, Harrup Park, Mackay",Australia,India,1,0,0.2,Sri Lanka,0,0,0.0,No Result,,Sri Lanka
+ODIWC-1992-10,1992,Round,10,1992-02-29,"Eden Park, Auckland",New Zealand,South Africa,190,7,50.0,New Zealand,191,3,34.3,New Zealand,7 wickets,South Africa
+ODIWC-1992-11,1992,Round,11,1992-02-29,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,West Indies,264,8,50.0,Zimbabwe,189,7,50.0,West Indies,75 runs,Zimbabwe
+ODIWC-1992-12,1992,Round,12,1992-03-01,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,Australia,237,9,50.0,India,234,10,47.0,Australia,1 runs,Australia
+ODIWC-1992-13,1992,Round,13,1992-03-01,Adelaide Oval,Australia,Pakistan,74,10,40.2,England,24,1,8.0,No Result,,England
+ODIWC-1992-14,1992,Round,14,1992-03-02,"Basin Reserve, Wellington",New Zealand,South Africa,195,10,50.0,Sri Lanka,198,7,49.5,Sri Lanka,3 wickets,Sri Lanka
+ODIWC-1992-15,1992,Round,15,1992-03-03,"McLean Park, Napier",New Zealand,New Zealand,162,3,20.5,Zimbabwe,105,7,18.0,New Zealand,48 runs,Zimbabwe
+ODIWC-1992-16,1992,Round,16,1992-03-04,Sydney Cricket Ground,Australia,India,216,7,49.0,Pakistan,173,10,48.1,India,43 runs,India
+ODIWC-1992-17,1992,Round,17,1992-03-05,"Lancaster Park, Christchurch",New Zealand,South Africa,200,8,50.0,West Indies,136,10,38.4,South Africa,64 runs,West Indies
+ODIWC-1992-18,1992,Round,18,1992-03-05,Sydney Cricket Ground,Australia,Australia,171,10,49.0,England,173,2,40.5,England,8 wickets,Australia
+ODIWC-1992-19,1992,Round,19,1992-03-07,"Trust Bank Park, Hamilton",New Zealand,India,203,7,32.0,Zimbabwe,104,1,19.1,India,55 runs,India
+ODIWC-1992-20,1992,Round,20,1992-03-07,Adelaide Oval,Australia,Sri Lanka,189,9,50.0,Australia,190,3,44.0,Australia,7 wickets,Australia
+ODIWC-1992-21,1992,Round,21,1992-03-08,"Eden Park, Auckland",New Zealand,West Indies,203,7,50.0,New Zealand,206,5,48.3,New Zealand,5 wickets,New Zealand
+ODIWC-1992-22,1992,Round,22,1992-03-08,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,South Africa,211,7,50.0,Pakistan,173,8,36.0,South Africa,20 runs,Pakistan
+ODIWC-1992-23,1992,Round,23,1992-03-09,"Eastern Oval, Ballarat",Australia,England,280,6,50.0,Sri Lanka,174,10,44.0,England,106 runs,England
+ODIWC-1992-24,1992,Round,24,1992-03-10,"Basin Reserve, Wellington",New Zealand,India,197,10,49.4,West Indies,195,5,40.2,West Indies,5 wickets,India
+ODIWC-1992-25,1992,Round,25,1992-03-10,"Manuka Oval, Canberra",Australia,Zimbabwe,163,10,48.3,South Africa,164,3,45.1,South Africa,7 wickets,South Africa
+ODIWC-1992-26,1992,Round,26,1992-03-11,"Western Australia Cricket Association Ground, Perth",Australia,Pakistan,220,9,50.0,Australia,172,10,45.2,Pakistan,48 runs,Pakistan
+ODIWC-1992-27,1992,Round,27,1992-03-12,"Carisbrook, Dunedin",New Zealand,India,230,6,50.0,New Zealand,231,6,47.1,New Zealand,4 wickets,New Zealand
+ODIWC-1992-28,1992,Round,28,1992-03-12,Melbourne Cricket Ground,Australia,South Africa,236,4,50.0,England,226,7,40.5,England,3 wickets,England
+ODIWC-1992-29,1992,Round,29,1992-03-13,Berri Oval,Australia,West Indies,268,8,50.0,Sri Lanka,177,9,50.0,West Indies,91 runs,Sri Lanka
+ODIWC-1992-30,1992,Round,30,1992-03-14,"Bellerive Oval, Hobart",Australia,Australia,265,6,46.0,Zimbabwe,137,10,41.4,Australia,128 runs,Australia
+ODIWC-1992-31,1992,Round,31,1992-03-15,"Basin Reserve, Wellington",New Zealand,England,200,8,50.0,New Zealand,201,3,40.5,New Zealand,7 wickets,New Zealand
+ODIWC-1992-32,1992,Round,32,1992-03-15,Adelaide Oval,Australia,India,180,6,30.0,South Africa,181,4,29.1,South Africa,6 wickets,South Africa
+ODIWC-1992-33,1992,Round,33,1992-03-15,"Western Australia Cricket Association Ground, Perth",Australia,Sri Lanka,212,6,50.0,Pakistan,216,6,49.1,Pakistan,4 wickets,Sri Lanka
+ODIWC-1992-34,1992,Round,34,1992-03-18,"Lancaster Park, Christchurch",New Zealand,New Zealand,166,10,48.2,Pakistan,167,3,44.4,Pakistan,7 wickets,Pakistan
+ODIWC-1992-35,1992,Round,35,1992-03-18,"Lavington Sports Oval, Albury",Australia,Zimbabwe,134,10,46.1,England,125,10,49.1,Zimbabwe,9 runs,England
+ODIWC-1992-36,1992,Round,36,1992-03-18,Melbourne Cricket Ground,Australia,Australia,216,6,50.0,West Indies,159,10,42.4,Australia,57 runs,Australia
+ODIWC-1992-37,1992,tournament semi-finals,37,1992-03-21,"Eden Park, Auckland",New Zealand,New Zealand,262,7,50.0,Pakistan,264,6,49.0,Pakistan,4 wickets,New Zealand
+ODIWC-1992-38,1992,tournament semi-finals,38,1992-03-22,Sydney Cricket Ground,Australia,England,252,6,45.0,South Africa,232,6,43.0,England,19 runs,South Africa
+ODIWC-1992-39,1992,tournament finals,39,1992-03-25,Melbourne Cricket Ground,Australia,Pakistan,249,6,50.0,England,227,10,49.2,Pakistan,22 runs,Pakistan
+ODIWC-1996-1,1996,Group B,1,1996-02-14,"Gujarat Stadium, Motera, Ahmedabad",India,New Zealand,239,6,50.0,England,228,9,50.0,New Zealand,11 runs,England
+ODIWC-1996-2,1996,Group B,2,1996-02-16,Rawalpindi Cricket Stadium,Pakistan,South Africa,321,2,50.0,United Arab Emirates,152,8,50.0,South Africa,169 runs,United Arab Emirates
+ODIWC-1996-3,1996,Group A,3,1996-02-16,"Lal Bahadur Shastri Stadium, Hyderabad, Deccan",India,Zimbabwe,151,9,50.0,West Indies,155,4,29.3,West Indies,6 wickets,Zimbabwe
+ODIWC-1996-4,1996,Group B,4,1996-02-17,"Indian Petrochemicals Corporation Limited Sports Complex Ground, Baroda",India,New Zealand,307,8,50.0,Netherlands,188,7,50.0,New Zealand,119 runs,New Zealand
+ODIWC-1996-5,1996,Group A,5,1996-02-17,"R Premadasa Stadium, Colombo",Sri Lanka,Sri Lanka,0,0,0.0,Australia,0,0,0.0,Sri Lanka,Walkover,
+ODIWC-1996-6,1996,Group A,6,1996-02-18,"Barabati Stadium, Cuttack",India,Kenya,199,6,50.0,India,203,3,41.5,India,7 wickets,India
+ODIWC-1996-7,1996,Group B,7,1996-02-18,"Arbab Niaz Stadium, Peshawar",Pakistan,United Arab Emirates,136,10,48.3,England,140,2,35.0,England,8 wickets,United Arab Emirates
+ODIWC-1996-8,1996,Group B,8,1996-02-20,"Iqbal Stadium, Faisalabad",Pakistan,New Zealand,177,9,50.0,South Africa,178,5,37.3,South Africa,5 wickets,New Zealand
+ODIWC-1996-9,1996,Group A,9,1996-02-21,"Sinhalese Sports Club Ground, Colombo",Sri Lanka,Zimbabwe,228,6,50.0,Sri Lanka,229,4,37.0,Sri Lanka,6 wickets,Zimbabwe
+ODIWC-1996-10,1996,Group A,10,1996-02-21,"Captain Roop Singh Stadium, Gwalior",India,West Indies,173,10,50.0,India,174,5,39.4,India,5 wickets,West Indies
+ODIWC-1996-11,1996,Group B,11,1996-02-22,"Arbab Niaz Stadium, Peshawar",Pakistan,England,279,4,50.0,Netherlands,230,6,50.0,England,49 runs,England
+ODIWC-1996-12,1996,Group A,12,1996-02-23,"Indira Priyadarshini Stadium, Visakhapatnam",India,Australia,304,7,50.0,Kenya,207,7,50.0,Australia,97 runs,Kenya
+ODIWC-1996-13,1996,Group B,13,1996-02-24,"Jinnah Stadium, Gujranwala",Pakistan,United Arab Emirates,109,9,33.0,Pakistan,112,1,18.0,Pakistan,9 wickets,Pakistan
+ODIWC-1996-14,1996,Group B,14,1996-02-25,Rawalpindi Cricket Stadium,Pakistan,South Africa,230,10,50.0,England,152,10,44.3,South Africa,78 runs,South Africa
+ODIWC-1996-15,1996,Group A,15,1996-02-25,"R Premadasa Stadium, Colombo",Sri Lanka,Sri Lanka,0,0,0.0,West Indies,0,0,0.0,Sri Lanka,Walkover,
+ODIWC-1996-16,1996,Group A,16,1996-02-27,"Moin-ul-Haq Stadium, Patna",India,Kenya,134,10,49.4,Zimbabwe,137,5,42.2,Zimbabwe,5 wickets,Zimbabwe
+ODIWC-1996-17,1996,Group B,17,1996-02-26,"Gaddafi Stadium, Lahore",Pakistan,Netherlands,145,7,50.0,Pakistan,151,2,30.4,Pakistan,8 wickets,Netherlands
+ODIWC-1996-18,1996,Group B,18,1996-02-27,"Iqbal Stadium, Faisalabad",Pakistan,New Zealand,276,8,47.0,United Arab Emirates,167,9,47.0,New Zealand,109 runs,United Arab Emirates
+ODIWC-1996-19,1996,Group A,19,1996-02-27,"Wankhede Stadium, Mumbai",India,Australia,258,10,50.0,India,242,10,48.0,Australia,16 runs,Australia
+ODIWC-1996-20,1996,Group A,20,1996-02-29,"Nehru Stadium, Poona",India,Kenya,166,10,49.3,West Indies,93,10,35.2,Kenya,73 runs,West Indies
+ODIWC-1996-21,1996,Group B,21,1996-02-29,"National Stadium, Karachi",Pakistan,Pakistan,242,6,50.0,South Africa,243,5,44.2,South Africa,5 wickets,Pakistan
+ODIWC-1996-22,1996,Group A,22,1996-03-01,"Vidarbha Cricket Association Ground, Nagpur",India,Zimbabwe,154,10,45.3,Australia,158,2,36.0,Australia,8 wickets,Zimbabwe
+ODIWC-1996-23,1996,Group B,23,1996-03-01,"Gaddafi Stadium, Lahore",Pakistan,Netherlands,216,9,50.0,United Arab Emirates,220,3,44.2,United Arab Emirates,7 wickets,United Arab Emirates
+ODIWC-1996-24,1996,Group A,24,1996-03-02,"Feroz Shah Kotla, Delhi",India,India,271,3,50.0,Sri Lanka,272,4,48.4,Sri Lanka,6 wickets,Sri Lanka
+ODIWC-1996-25,1996,Group B,25,1996-03-03,"National Stadium, Karachi",Pakistan,England,249,9,50.0,Pakistan,250,3,47.4,Pakistan,7 wickets,England
+ODIWC-1996-26,1996,Group A,26,1996-03-04,"Sawai Mansingh Stadium, Jaipur",India,Australia,229,6,50.0,West Indies,232,6,48.5,West Indies,4 wickets,Australia
+ODIWC-1996-27,1996,Group B,27,1996-03-05,Rawalpindi Cricket Stadium,Pakistan,South Africa,328,3,50.0,Netherlands,168,8,50.0,South Africa,160 runs,South Africa
+ODIWC-1996-28,1996,Group A,28,1996-03-06,"Asgiriya Stadium, Kandy",Sri Lanka,Sri Lanka,398,5,50.0,Kenya,254,7,50.0,Sri Lanka,144 runs,Kenya
+ODIWC-1996-29,1996,Group A,29,1996-03-06,"Green Park, Kanpur",India,India,247,5,50.0,Zimbabwe,207,10,49.4,India,40 runs,Zimbabwe
+ODIWC-1996-30,1996,Group B,30,1996-03-06,"Gaddafi Stadium, Lahore",Pakistan,Pakistan,281,5,50.0,New Zealand,235,9,47.3,Pakistan,46 runs,New Zealand
+ODIWC-1996-31,1996,tournament quarter-finals,31,1996-03-09,"Iqbal Stadium, Faisalabad",Pakistan,England,235,8,50.0,Sri Lanka,236,5,40.4,Sri Lanka,5 wickets,England
+ODIWC-1996-32,1996,tournament quarter-finals,32,1996-03-09,"M Chinnaswamy Stadium, Bangalore",India,India,287,8,50.0,Pakistan,248,9,49.0,India,39 runs,India
+ODIWC-1996-33,1996,tournament quarter-finals,33,1996-03-11,"National Stadium, Karachi",Pakistan,West Indies,264,8,50.0,South Africa,245,10,49.3,West Indies,19 runs,West Indies
+ODIWC-1996-34,1996,tournament quarter-finals,34,1996-03-11,"MA Chidambaram Stadium, Chepauk, Madras",India,New Zealand,286,9,50.0,Australia,289,4,47.5,Australia,6 wickets,New Zealand
+ODIWC-1996-35,1996,tournament semi-finals,35,1996-03-13,"Eden Gardens, Calcutta",India,Sri Lanka,251,8,50.0,India,120,8,34.1,Sri Lanka,0 default,India
+ODIWC-1996-36,1996,tournament semi-finals,36,1996-03-14,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,Australia,207,8,50.0,West Indies,202,10,49.3,Australia,5 runs,Australia
+ODIWC-1996-37,1996,tournament finals,37,1996-03-17,"Gaddafi Stadium, Lahore",Pakistan,Australia,241,7,50.0,Sri Lanka,245,3,46.2,Sri Lanka,7 wickets,Sri Lanka
+ODIWC-1999-1,1999,Group A,1,1999-05-14,"Lord's, London",England,Sri Lanka,204,10,48.4,England,207,2,46.5,England,8 wickets,England
+ODIWC-1999-2,1999,Group A,2,1999-05-15,"New County Ground, Hove, Brighton",England,India,253,5,50.0,South Africa,254,6,47.2,South Africa,4 wickets,India
+ODIWC-1999-3,1999,Group A,3,1999-05-15,"County Ground, Taunton",England,Kenya,229,7,50.0,Zimbabwe,231,5,41.0,Zimbabwe,5 wickets,Zimbabwe
+ODIWC-1999-4,1999,Group B,4,1999-05-16,"County Ground, New Road, Worcester",England,Scotland,181,7,50.0,Australia,182,4,44.5,Australia,6 wickets,Australia
+ODIWC-1999-5,1999,Group B,5,1999-05-16,"County Ground, Bristol",England,Pakistan,229,8,50.0,West Indies,202,10,48.5,Pakistan,27 runs,Pakistan
+ODIWC-1999-6,1999,Group B,6,1999-05-17,"County Ground, Chelmsford",England,Bangladesh,116,10,37.4,New Zealand,117,4,33.0,New Zealand,6 wickets,New Zealand
+ODIWC-1999-7,1999,Group A,7,1999-05-18,"St Lawrence Ground, Canterbury",England,Kenya,203,10,49.4,England,204,1,39.0,England,9 wickets,England
+ODIWC-1999-8,1999,Group A,8,1999-05-19,"Grace Road, Leicester",England,Zimbabwe,252,9,50.0,India,249,10,45.0,Zimbabwe,3 runs,India
+ODIWC-1999-9,1999,Group A,9,1999-05-19,"County Ground, Northampton",England,South Africa,199,9,50.0,Sri Lanka,110,10,35.2,South Africa,89 runs,Sri Lanka
+ODIWC-1999-10,1999,Group B,10,1999-05-20,"Sophia Gardens, Cardiff",England,Australia,213,8,50.0,New Zealand,214,5,45.2,New Zealand,5 wickets,Australia
+ODIWC-1999-11,1999,Group B,11,1999-05-20,"Riverside Ground, Chester-le-Street",England,Pakistan,261,6,50.0,Scotland,167,10,38.5,Pakistan,94 runs,Scotland
+ODIWC-1999-12,1999,Group B,12,1999-05-21,"Clontarf Cricket Club Ground, Dublin",Ireland,Bangladesh,182,10,49.2,West Indies,183,3,46.3,West Indies,7 wickets,Bangladesh
+ODIWC-1999-13,1999,Group A,13,1999-05-22,"Kennington Oval, London",England,South Africa,225,7,50.0,England,103,10,41.0,South Africa,122 runs,England
+ODIWC-1999-14,1999,Group A,14,1999-05-22,"County Ground, New Road, Worcester",England,Zimbabwe,197,9,50.0,Sri Lanka,198,6,46.0,Sri Lanka,4 wickets,Sri Lanka
+ODIWC-1999-15,1999,Group A,15,1999-05-23,"County Ground, Bristol",England,India,329,2,50.0,Kenya,235,7,50.0,India,94 runs,Kenya
+ODIWC-1999-16,1999,Group B,16,1999-05-23,"Headingley, Leeds",England,Pakistan,275,8,50.0,Australia,265,10,49.5,Pakistan,10 runs,Australia
+ODIWC-1999-17,1999,Group B,17,1999-05-24,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,Bangladesh,185,9,50.0,Scotland,163,10,46.2,Bangladesh,22 runs,Scotland
+ODIWC-1999-18,1999,Group B,18,1999-05-24,"County Ground, Southampton",England,New Zealand,156,10,48.1,West Indies,158,3,44.2,West Indies,7 wickets,West Indies
+ODIWC-1999-19,1999,Group A,19,1999-05-25,"Trent Bridge, Nottingham",England,Zimbabwe,167,8,50.0,England,168,3,38.3,England,7 wickets,England
+ODIWC-1999-20,1999,Group A,20,1999-05-26,"VRA Ground, Amstelveen",Netherlands,Kenya,152,10,44.3,South Africa,153,3,41.0,South Africa,7 wickets,South Africa
+ODIWC-1999-21,1999,Group A,21,1999-05-26,"County Ground, Taunton",England,India,373,6,50.0,Sri Lanka,216,10,42.3,India,157 runs,Sri Lanka
+ODIWC-1999-22,1999,Group B,22,1999-05-27,"Riverside Ground, Chester-le-Street",England,Bangladesh,178,7,50.0,Australia,181,3,19.5,Australia,7 wickets,Australia
+ODIWC-1999-23,1999,Group B,23,1999-05-27,"Grace Road, Leicester",England,Scotland,68,10,31.3,West Indies,70,2,10.1,West Indies,8 wickets,Scotland
+ODIWC-1999-24,1999,Group B,24,1999-05-28,"County Ground, Derby",England,Pakistan,269,8,50.0,New Zealand,207,8,50.0,Pakistan,62 runs,New Zealand
+ODIWC-1999-25,1999,Group A,25,1999-05-29,"Edgbaston, Birmingham",England,India,232,8,50.0,England,169,10,45.2,India,63 runs,England
+ODIWC-1999-26,1999,Group A,26,1999-05-29,"County Ground, Chelmsford",England,Zimbabwe,233,6,50.0,South Africa,185,10,47.2,Zimbabwe,48 runs,Zimbabwe
+ODIWC-1999-27,1999,Group A,27,1999-05-30,"County Ground, Southampton",England,Sri Lanka,275,8,50.0,Kenya,230,6,50.0,Sri Lanka,45 runs,Kenya
+ODIWC-1999-28,1999,Group B,28,1999-05-30,"Old Trafford, Manchester",England,West Indies,110,10,46.4,Australia,111,4,40.4,Australia,6 wickets,Australia
+ODIWC-1999-29,1999,Group B,29,1999-05-31,"County Ground, Northampton",England,Bangladesh,223,9,50.0,Pakistan,161,10,44.3,Bangladesh,62 runs,Pakistan
+ODIWC-1999-30,1999,Group B,30,1999-05-31,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,Scotland,121,10,42.1,New Zealand,123,4,17.5,New Zealand,6 wickets,New Zealand
+ODIWC-1999-31,1999,Super Sixes,31,1999-06-04,"Kennington Oval, London",England,Australia,282,6,50.0,India,205,10,48.2,Australia,77 runs,India
+ODIWC-1999-32,1999,Super Sixes,32,1999-06-05,"Trent Bridge, Nottingham",England,Pakistan,220,7,50.0,South Africa,221,7,49.0,South Africa,3 wickets,Pakistan
+ODIWC-1999-33,1999,Super Sixes,33,1999-06-06,"Headingley, Leeds",England,Zimbabwe,175,10,49.3,New Zealand,70,3,15.0,No Result,,Zimbabwe
+ODIWC-1999-34,1999,Super Sixes,34,1999-06-08,"Old Trafford, Manchester",England,India,227,6,50.0,Pakistan,180,10,45.3,India,47 runs,India
+ODIWC-1999-35,1999,Super Sixes,35,1999-06-09,"Lord's, London",England,Australia,303,4,50.0,Zimbabwe,259,6,50.0,Australia,44 runs,Zimbabwe
+ODIWC-1999-36,1999,Super Sixes,36,1999-06-10,"Edgbaston, Birmingham",England,South Africa,287,5,50.0,New Zealand,213,8,50.0,South Africa,74 runs,South Africa
+ODIWC-1999-37,1999,Super Sixes,37,1999-06-11,"Kennington Oval, London",England,Pakistan,271,9,50.0,Zimbabwe,123,10,40.3,Pakistan,148 runs,Pakistan
+ODIWC-1999-38,1999,Super Sixes,38,1999-06-12,"Trent Bridge, Nottingham",England,India,251,6,50.0,New Zealand,253,5,48.2,New Zealand,5 wickets,India
+ODIWC-1999-39,1999,Super Sixes,39,1999-06-13,"Headingley, Leeds",England,South Africa,271,7,50.0,Australia,272,5,49.4,Australia,5 wickets,South Africa
+ODIWC-1999-40,1999,Semi Final,40,1999-06-16,"Old Trafford, Manchester",England,New Zealand,241,7,50.0,Pakistan,242,1,47.3,Pakistan,9 wickets,New Zealand
+ODIWC-1999-41,1999,Semi Final,41,1999-06-17,"Edgbaston, Birmingham",England,Australia,213,10,49.2,South Africa,213,10,49.4,Australia,Super Sixes position,South Africa
+ODIWC-1999-42,1999,Final,42,1999-06-20,"Lord's, London",England,Pakistan,132,10,39.0,Australia,133,2,20.1,Australia,8 wickets,Pakistan
+ODIWC-2003-1,2003,Pool B,1,2003-02-09,"Newlands, Cape Town",South Africa,West Indies,278,5,50.0,South Africa,275,9,49.0,West Indies,3 runs,West Indies
+ODIWC-2003-2,2003,Pool A,2,2003-02-10,Harare Sports Club,Zimbabwe,Zimbabwe,340,2,50.0,Namibia,104,5,25.1,Zimbabwe,86 runs,Namibia
+ODIWC-2003-3,2003,Pool B,3,2003-02-10,"Goodyear Park, Bloemfontein",South Africa,Sri Lanka,272,7,50.0,New Zealand,225,10,45.3,Sri Lanka,47 runs,New Zealand
+ODIWC-2003-4,2003,Pool A,4,2003-02-11,"New Wanderers Stadium, Johannesburg",South Africa,Australia,310,8,50.0,Pakistan,228,10,44.3,Australia,82 runs,Pakistan
+ODIWC-2003-5,2003,Pool B,5,2003-02-11,"Kingsmead, Durban",South Africa,Canada,180,10,49.1,Bangladesh,120,10,28.0,Canada,60 runs,Canada
+ODIWC-2003-6,2003,Pool B,6,2003-02-12,"North West Cricket Stadium, Potchefstroom",South Africa,Kenya,140,10,38.0,South Africa,142,0,21.2,South Africa,10 wickets,Kenya
+ODIWC-2003-7,2003,Pool A,7,2003-02-12,"Boland Bank Park, Paarl",South Africa,India,204,10,48.5,Netherlands,136,10,48.1,India,68 runs,India
+ODIWC-2003-8,2003,Pool A,8,2003-02-13,Harare Sports Club,Zimbabwe,Zimbabwe,0,0,0.0,England,0,0,0.0,Zimbabwe,Walkover,
+ODIWC-2003-9,2003,Pool B,9,2003-02-13,"St George's Park, Port Elizabeth",South Africa,New Zealand,241,7,50.0,West Indies,221,10,49.4,New Zealand,20 runs,West Indies
+ODIWC-2003-10,2003,Pool B,10,2003-02-14,"City Oval, Pietermaritzburg",South Africa,Bangladesh,124,10,31.1,Sri Lanka,126,0,21.1,Sri Lanka,10 wickets,Sri Lanka
+ODIWC-2003-11,2003,Pool A,11,2003-02-15,"SuperSport Park, Centurion",South Africa,India,125,10,41.4,Australia,128,1,22.2,Australia,9 wickets,India
+ODIWC-2003-12,2003,Pool B,12,2003-02-15,"Newlands, Cape Town",South Africa,Canada,197,10,49.0,Kenya,198,6,48.3,Kenya,4 wickets,Canada
+ODIWC-2003-13,2003,Pool A,13,2003-02-16,"Buffalo Park, East London",South Africa,Netherlands,142,9,50.0,England,144,4,23.2,England,6 wickets,England
+ODIWC-2003-14,2003,Pool A,14,2003-02-16,"De Beers Diamond Oval, Kimberley",South Africa,Pakistan,255,9,50.0,Namibia,84,10,17.4,Pakistan,171 runs,Pakistan
+ODIWC-2003-15,2003,Pool B,15,2003-02-16,"New Wanderers Stadium, Johannesburg",South Africa,South Africa,306,6,50.0,New Zealand,229,1,36.5,New Zealand,9 wickets,South Africa
+ODIWC-2003-16,2003,Pool B,16,2003-02-18,"Willowmoore Park, Benoni",South Africa,West Indies,244,9,50.0,Bangladesh,32,2,8.1,No Result,,Bangladesh
+ODIWC-2003-17,2003,Pool A,17,2003-02-19,Harare Sports Club,Zimbabwe,India,255,7,50.0,Zimbabwe,172,10,44.4,India,83 runs,Zimbabwe
+ODIWC-2003-18,2003,Pool B,18,2003-02-19,"Boland Bank Park, Paarl",South Africa,Canada,36,10,18.4,Sri Lanka,37,1,4.4,Sri Lanka,9 wickets,Sri Lanka
+ODIWC-2003-19,2003,Pool A,19,2003-02-19,"St George's Park, Port Elizabeth",South Africa,England,272,10,50.0,Namibia,217,9,50.0,England,55 runs,Namibia
+ODIWC-2003-20,2003,Pool A,20,2003-02-20,"North West Cricket Stadium, Potchefstroom",South Africa,Australia,170,2,36.0,Netherlands,122,10,30.2,Australia,75 runs,Netherlands
+ODIWC-2003-21,2003,Pool B,21,2003-02-21,"Gymkhana Club Ground, Nairobi",Kenya,Kenya,0,0,0.0,New Zealand,0,0,0.0,Kenya,Walkover,
+ODIWC-2003-22,2003,Pool B,22,2003-02-22,"Goodyear Park, Bloemfontein",South Africa,Bangladesh,108,10,35.1,South Africa,109,0,12.0,South Africa,10 wickets,South Africa
+ODIWC-2003-23,2003,Pool A,23,2003-02-22,"Newlands, Cape Town",South Africa,England,246,8,50.0,Pakistan,134,10,31.0,England,112 runs,England
+ODIWC-2003-24,2003,Pool B,24,2003-02-23,"SuperSport Park, Centurion",South Africa,Canada,202,10,42.5,West Indies,206,3,20.3,West Indies,7 wickets,West Indies
+ODIWC-2003-25,2003,Pool A,25,2003-02-23,"City Oval, Pietermaritzburg",South Africa,India,311,2,50.0,Namibia,130,10,42.3,India,181 runs,Namibia
+ODIWC-2003-26,2003,Pool B,26,2003-02-24,"Gymkhana Club Ground, Nairobi",Kenya,Kenya,210,9,50.0,Sri Lanka,157,10,45.0,Kenya,53 runs,Sri Lanka
+ODIWC-2003-27,2003,Pool A,27,2003-02-24,"Queens Sports Club, Bulawayo",Zimbabwe,Zimbabwe,246,9,50.0,Australia,248,3,47.3,Australia,7 wickets,Zimbabwe
+ODIWC-2003-28,2003,Pool A,28,2003-02-25,"Boland Bank Park, Paarl",South Africa,Pakistan,253,9,50.0,Netherlands,156,10,39.3,Pakistan,97 runs,Netherlands
+ODIWC-2003-29,2003,Pool B,29,2003-02-26,"De Beers Diamond Oval, Kimberley",South Africa,Bangladesh,198,7,50.0,New Zealand,199,3,33.3,New Zealand,7 wickets,Bangladesh
+ODIWC-2003-30,2003,Pool A,30,2003-02-26,"Kingsmead, Durban",South Africa,India,250,9,50.0,England,168,10,45.3,India,82 runs,India
+ODIWC-2003-31,2003,Pool A,31,2003-02-27,"North West Cricket Stadium, Potchefstroom",South Africa,Australia,301,6,50.0,Namibia,45,10,14.0,Australia,256 runs,Australia
+ODIWC-2003-32,2003,Pool B,32,2003-02-27,"Buffalo Park, East London",South Africa,South Africa,254,8,50.0,Canada,136,5,50.0,South Africa,118 runs,Canada
+ODIWC-2003-33,2003,Pool A,33,2003-02-28,"Queens Sports Club, Bulawayo",Zimbabwe,Zimbabwe,301,8,50.0,Netherlands,202,9,50.0,Zimbabwe,99 runs,Netherlands
+ODIWC-2003-34,2003,Pool B,34,2003-02-28,"Newlands, Cape Town",South Africa,Sri Lanka,228,6,50.0,West Indies,222,9,50.0,Sri Lanka,6 runs,Sri Lanka
+ODIWC-2003-35,2003,Pool B,35,2003-03-01,"New Wanderers Stadium, Johannesburg",South Africa,Kenya,217,7,50.0,Bangladesh,185,10,47.2,Kenya,32 runs,Kenya
+ODIWC-2003-36,2003,Pool A,36,2003-03-01,"SuperSport Park, Centurion",South Africa,Pakistan,273,7,50.0,India,276,4,45.4,India,6 wickets,Pakistan
+ODIWC-2003-37,2003,Pool A,37,2003-03-02,"St George's Park, Port Elizabeth",South Africa,England,204,8,50.0,Australia,208,8,49.4,Australia,2 wickets,England
+ODIWC-2003-38,2003,Pool B,38,2003-03-03,"Willowmoore Park, Benoni",South Africa,Canada,196,10,47.0,New Zealand,197,5,23.0,New Zealand,5 wickets,New Zealand
+ODIWC-2003-39,2003,Pool A,39,2003-03-03,"Goodyear Park, Bloemfontein",South Africa,Netherlands,314,4,50.0,Namibia,250,10,46.5,Netherlands,64 runs,Netherlands
+ODIWC-2003-40,2003,Pool B,40,2003-03-03,"Kingsmead, Durban",South Africa,Sri Lanka,268,9,50.0,South Africa,229,6,45.0,Tie,,Sri Lanka
+ODIWC-2003-41,2003,Pool A,41,2003-03-04,"Queens Sports Club, Bulawayo",Zimbabwe,Pakistan,73,3,14.0,Zimbabwe,0,0,0.0,No Result,,Pakistan
+ODIWC-2003-42,2003,Pool B,42,2003-03-04,"De Beers Diamond Oval, Kimberley",South Africa,West Indies,246,7,50.0,Kenya,104,10,35.5,West Indies,142 runs,West Indies
+ODIWC-2003-43,2003,Super Sixes,43,2003-03-07,"SuperSport Park, Centurion",South Africa,Australia,319,5,50.0,Sri Lanka,223,9,47.4,Australia,96 runs,Australia
+ODIWC-2003-44,2003,Super Sixes,44,2003-03-07,"Newlands, Cape Town",South Africa,Kenya,225,6,50.0,India,226,4,47.5,India,6 wickets,Kenya
+ODIWC-2003-45,2003,Super Sixes,45,2003-03-08,"Goodyear Park, Bloemfontein",South Africa,Zimbabwe,252,7,50.0,New Zealand,253,4,47.2,New Zealand,6 wickets,Zimbabwe
+ODIWC-2003-46,2003,Super Sixes,46,2003-03-10,"New Wanderers Stadium, Johannesburg",South Africa,India,292,6,50.0,Sri Lanka,109,10,23.0,India,183 runs,Sri Lanka
+ODIWC-2003-47,2003,Super Sixes,47,2003-03-11,"St George's Park, Port Elizabeth",South Africa,Australia,208,9,50.0,New Zealand,112,10,30.1,Australia,96 runs,New Zealand
+ODIWC-2003-48,2003,Super Sixes,48,2003-03-12,"Goodyear Park, Bloemfontein",South Africa,Zimbabwe,133,10,44.1,Kenya,135,3,26.0,Kenya,7 wickets,Zimbabwe
+ODIWC-2003-49,2003,Super Sixes,49,2003-03-14,"SuperSport Park, Centurion",South Africa,New Zealand,146,10,45.1,India,150,3,40.4,India,7 wickets,India
+ODIWC-2003-50,2003,Super Sixes,50,2003-03-15,"Buffalo Park, East London",South Africa,Sri Lanka,256,5,50.0,Zimbabwe,182,10,41.5,Sri Lanka,74 runs,Sri Lanka
+ODIWC-2003-51,2003,Super Sixes,51,2003-03-15,"Kingsmead, Durban",South Africa,Kenya,174,8,50.0,Australia,178,5,31.2,Australia,5 wickets,Australia
+ODIWC-2003-52,2003,Semi Final,52,2003-03-18,"St George's Park, Port Elizabeth",South Africa,Australia,212,7,50.0,Sri Lanka,123,7,38.1,Australia,48 runs,Australia
+ODIWC-2003-53,2003,Semi Final,53,2003-03-20,"Kingsmead, Durban",South Africa,India,270,4,50.0,Kenya,179,10,46.2,India,91 runs,India
+ODIWC-2003-54,2003,Final,54,2003-03-23,"New Wanderers Stadium, Johannesburg",South Africa,Australia,359,2,50.0,India,234,10,39.2,Australia,125 runs,India
+ODIWC-2007-1,2007,Group D,1,2007-03-13,"Sabina Park, Kingston, Jamaica",West Indies,West Indies,241,9,50.0,Pakistan,187,10,47.2,West Indies,54 runs,Pakistan
+ODIWC-2007-2,2007,Group A,2,2007-03-14,"Warner Park, Basseterre, St Kitts",West Indies,Australia,334,6,50.0,Scotland,131,9,40.1,Australia,203 runs,Scotland
+ODIWC-2007-3,2007,Group C,3,2007-03-14,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,Canada,199,10,50.0,Kenya,203,3,43.2,Kenya,7 wickets,Kenya
+ODIWC-2007-4,2007,Group B,4,2007-03-15,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,Sri Lanka,321,6,50.0,Bermuda,78,10,24.4,Sri Lanka,243 runs,Sri Lanka
+ODIWC-2007-5,2007,Group D,5,2007-03-15,"Sabina Park, Kingston, Jamaica",West Indies,Ireland,221,9,50.0,Zimbabwe,221,10,50.0,No Result,,Zimbabwe
+ODIWC-2007-6,2007,Group C,6,2007-03-16,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,England,209,7,50.0,New Zealand,210,4,41.0,New Zealand,6 wickets,New Zealand
+ODIWC-2007-7,2007,Group A,7,2007-03-16,"Warner Park, Basseterre, St Kitts",West Indies,South Africa,353,3,40.0,Netherlands,132,9,40.0,South Africa,221 runs,Netherlands
+ODIWC-2007-8,2007,Group B,8,2007-03-17,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,India,191,10,49.3,Bangladesh,192,5,48.3,Bangladesh,5 wickets,India
+ODIWC-2007-9,2007,Group D,9,2007-03-17,"Sabina Park, Kingston, Jamaica",West Indies,Pakistan,132,10,45.4,Ireland,133,7,41.4,Ireland,3 wickets,Ireland
+ODIWC-2007-10,2007,Group A,10,2007-03-18,"Warner Park, Basseterre, St Kitts",West Indies,Australia,358,5,50.0,Netherlands,129,10,26.5,Australia,229 runs,Australia
+ODIWC-2007-11,2007,Group C,11,2007-03-18,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,England,279,6,50.0,Canada,228,7,50.0,England,51 runs,Canada
+ODIWC-2007-12,2007,Group B,12,2007-03-19,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,India,413,5,50.0,Bermuda,156,10,43.1,India,257 runs,Bermuda
+ODIWC-2007-13,2007,Group D,13,2007-03-19,"Sabina Park, Kingston, Jamaica",West Indies,Zimbabwe,202,5,50.0,West Indies,204,4,47.5,West Indies,6 wickets,West Indies
+ODIWC-2007-14,2007,Group C,14,2007-03-20,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,New Zealand,331,7,50.0,Kenya,183,10,49.2,New Zealand,148 runs,Kenya
+ODIWC-2007-15,2007,Group A,15,2007-03-20,"Warner Park, Basseterre, St Kitts",West Indies,Scotland,186,8,50.0,South Africa,188,3,23.2,South Africa,7 wickets,South Africa
+ODIWC-2007-16,2007,Group B,16,2007-03-21,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,Sri Lanka,318,4,50.0,Bangladesh,112,10,37.0,Sri Lanka,198 runs,Bangladesh
+ODIWC-2007-17,2007,Group D,17,2007-03-21,"Sabina Park, Kingston, Jamaica",West Indies,Pakistan,349,10,49.5,Zimbabwe,99,10,19.1,Pakistan,93 runs,Zimbabwe
+ODIWC-2007-18,2007,Group C,18,2007-03-22,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,New Zealand,363,5,50.0,Canada,249,9,49.2,New Zealand,114 runs,Canada
+ODIWC-2007-19,2007,Group A,19,2007-03-22,"Warner Park, Basseterre, St Kitts",West Indies,Scotland,136,10,34.1,Netherlands,140,2,23.5,Netherlands,8 wickets,Netherlands
+ODIWC-2007-20,2007,Group B,20,2007-03-23,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,Sri Lanka,254,6,50.0,India,185,10,43.3,Sri Lanka,69 runs,India
+ODIWC-2007-21,2007,Group D,21,2007-03-23,"Sabina Park, Kingston, Jamaica",West Indies,Ireland,183,8,48.0,West Indies,190,2,38.1,West Indies,8 wickets,Ireland
+ODIWC-2007-22,2007,Group A,22,2007-03-24,"Warner Park, Basseterre, St Kitts",West Indies,Australia,377,6,50.0,South Africa,294,10,48.0,Australia,83 runs,South Africa
+ODIWC-2007-23,2007,Group C,23,2007-03-24,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,Kenya,177,10,43.0,England,178,3,33.0,England,7 wickets,Kenya
+ODIWC-2007-24,2007,Group B,24,2007-03-25,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,Bermuda,94,9,21.0,Bangladesh,96,3,17.3,Bangladesh,7 wickets,Bangladesh
+ODIWC-2007-25,2007,Super Eights,25,2007-03-27,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,Australia,322,6,50.0,West Indies,219,10,45.3,Australia,103 runs,West Indies
+ODIWC-2007-26,2007,Super Eights,26,2007-03-28,"Providence Stadium, Guyana",West Indies,Sri Lanka,209,10,49.3,South Africa,212,9,48.2,South Africa,1 wickets,Sri Lanka
+ODIWC-2007-27,2007,Super Eights,27,2007-03-29,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,West Indies,177,10,44.4,New Zealand,179,3,39.2,New Zealand,7 wickets,New Zealand
+ODIWC-2007-28,2007,Super Eights,28,2007-03-30,"Providence Stadium, Guyana",West Indies,England,266,7,50.0,Ireland,218,10,48.1,England,48 runs,England
+ODIWC-2007-29,2007,Super Eights,29,2007-03-31,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,Bangladesh,104,6,22.0,Australia,106,0,13.5,Australia,10 wickets,Australia
+ODIWC-2007-30,2007,Super Eights,30,2007-04-01,"Providence Stadium, Guyana",West Indies,Sri Lanka,303,5,50.0,West Indies,190,10,44.3,Sri Lanka,113 runs,West Indies
+ODIWC-2007-31,2007,Super Eights,31,2007-04-02,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,Bangladesh,174,10,48.3,New Zealand,178,1,29.2,New Zealand,9 wickets,New Zealand
+ODIWC-2007-32,2007,Super Eights,32,2007-04-03,"Providence Stadium, Guyana",West Indies,Ireland,152,8,35.0,South Africa,165,3,31.3,South Africa,7 wickets,South Africa
+ODIWC-2007-33,2007,Super Eights,33,2007-04-04,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,Sri Lanka,235,10,50.0,England,233,8,50.0,Sri Lanka,2 runs,England
+ODIWC-2007-34,2007,Super Eights,34,2007-04-07,"Providence Stadium, Guyana",West Indies,Bangladesh,251,8,50.0,South Africa,184,10,48.4,Bangladesh,67 runs,South Africa
+ODIWC-2007-35,2007,Super Eights,35,2007-04-08,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,England,247,10,49.5,Australia,248,3,47.2,Australia,7 wickets,England
+ODIWC-2007-36,2007,Super Eights,36,2007-04-09,"Providence Stadium, Guyana",West Indies,New Zealand,263,8,50.0,Ireland,134,10,37.4,New Zealand,129 runs,New Zealand
+ODIWC-2007-37,2007,Super Eights,37,2007-04-10,"National Cricket Stadium, St George's, Grenada",West Indies,South Africa,356,4,50.0,West Indies,289,9,50.0,South Africa,67 runs,West Indies
+ODIWC-2007-38,2007,Super Eights,38,2007-04-11,"Kensington Oval, Bridgetown, Barbados",West Indies,Bangladesh,143,10,37.2,England,147,6,44.5,England,4 wickets,England
+ODIWC-2007-39,2007,Super Eights,39,2007-04-12,"National Cricket Stadium, St George's, Grenada",West Indies,New Zealand,219,7,50.0,Sri Lanka,222,4,45.1,Sri Lanka,6 wickets,New Zealand
+ODIWC-2007-40,2007,Super Eights,40,2007-04-13,"Kensington Oval, Bridgetown, Barbados",West Indies,Ireland,91,10,30.0,Australia,92,1,12.2,Australia,9 wickets,Australia
+ODIWC-2007-41,2007,Super Eights,41,2007-04-14,"National Cricket Stadium, St George's, Grenada",West Indies,South Africa,193,7,50.0,New Zealand,196,5,48.2,New Zealand,5 wickets,New Zealand
+ODIWC-2007-42,2007,Super Eights,42,2007-04-15,"Kensington Oval, Bridgetown, Barbados",West Indies,Ireland,243,7,50.0,Bangladesh,169,10,41.2,Ireland,74 runs,Ireland
+ODIWC-2007-43,2007,Super Eights,43,2007-04-16,"National Cricket Stadium, St George's, Grenada",West Indies,Sri Lanka,226,10,49.4,Australia,232,3,42.4,Australia,7 wickets,Sri Lanka
+ODIWC-2007-44,2007,Super Eights,44,2007-04-17,"Kensington Oval, Bridgetown, Barbados",West Indies,England,154,10,48.0,South Africa,157,1,19.2,South Africa,9 wickets,England
+ODIWC-2007-45,2007,Super Eights,45,2007-04-18,"National Cricket Stadium, St George's, Grenada",West Indies,Ireland,77,10,27.4,Sri Lanka,81,2,10.0,Sri Lanka,8 wickets,Sri Lanka
+ODIWC-2007-46,2007,Super Eights,46,2007-04-19,"Kensington Oval, Bridgetown, Barbados",West Indies,West Indies,230,5,50.0,Bangladesh,131,10,43.5,West Indies,99 runs,Bangladesh
+ODIWC-2007-47,2007,Super Eights,47,2007-04-20,"National Cricket Stadium, St George's, Grenada",West Indies,Australia,348,6,50.0,New Zealand,133,10,25.5,Australia,215 runs,Australia
+ODIWC-2007-48,2007,Super Eights,48,2007-04-21,"Kensington Oval, Bridgetown, Barbados",West Indies,West Indies,300,10,49.5,England,301,9,49.5,England,1 wickets,England
+ODIWC-2007-49,2007,Semi Final,49,2007-04-24,"Sabina Park, Kingston, Jamaica",West Indies,Sri Lanka,289,5,50.0,New Zealand,208,10,41.4,Sri Lanka,81 runs,Sri Lanka
+ODIWC-2007-50,2007,Semi Final,50,2007-04-25,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,South Africa,149,10,43.5,Australia,153,3,31.3,Australia,7 wickets,South Africa
+ODIWC-2007-51,2007,Final,51,2007-04-28,"Kensington Oval, Bridgetown, Barbados",West Indies,Australia,281,4,38.0,Sri Lanka,215,8,36.0,Australia,53 runs,Australia
+ODIWC-2011-1,2011,Group B,1,2011-02-19,"Shere Bangla National Stadium, Mirpur",Bangladesh,India,370,4,50.0,Bangladesh,283,9,50.0,India,87 runs,Bangladesh
+ODIWC-2011-2,2011,Group A,2,2011-02-20,"MA Chidambaram Stadium, Chepauk, Chennai",India,Kenya,69,10,23.5,New Zealand,72,0,8.0,New Zealand,10 wickets,Kenya
+ODIWC-2011-3,2011,Group A,3,2011-02-20,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Sri Lanka,Sri Lanka,332,7,50.0,Canada,122,10,36.5,Sri Lanka,210 runs,Sri Lanka
+ODIWC-2011-4,2011,Group A,4,2011-02-21,"Sardar Patel Stadium, Motera, Ahmedabad",India,Australia,262,6,50.0,Zimbabwe,171,10,46.2,Australia,91 runs,Australia
+ODIWC-2011-5,2011,Group B,5,2011-02-22,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,Netherlands,292,6,50.0,England,296,4,48.4,England,6 wickets,Netherlands
+ODIWC-2011-6,2011,Group A,6,2011-02-23,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",Sri Lanka,Pakistan,317,7,50.0,Kenya,112,10,33.1,Pakistan,205 runs,Pakistan
+ODIWC-2011-7,2011,Group B,7,2011-02-24,"Feroz Shah Kotla, Delhi",India,West Indies,222,10,47.3,South Africa,223,3,42.5,South Africa,7 wickets,South Africa
+ODIWC-2011-8,2011,Group A,8,2011-02-25,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,New Zealand,206,10,45.1,Australia,207,3,34.0,Australia,7 wickets,Australia
+ODIWC-2011-9,2011,Group B,9,2011-02-25,"Shere Bangla National Stadium, Mirpur",Bangladesh,Bangladesh,205,10,49.2,Ireland,178,10,45.0,Bangladesh,27 runs,Bangladesh
+ODIWC-2011-10,2011,Group A,10,2011-02-26,"R Premadasa Stadium, Colombo",Sri Lanka,Pakistan,277,7,50.0,Sri Lanka,266,9,50.0,Pakistan,11 runs,Pakistan
+ODIWC-2011-11,2011,Group B,11,2011-02-27,"M Chinnaswamy Stadium, Bangalore",India,India,338,10,49.5,England,338,8,50.0,Tie,,India
+ODIWC-2011-12,2011,Group A,12,2011-02-28,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,Zimbabwe,298,9,50.0,Canada,123,10,42.1,Zimbabwe,175 runs,Zimbabwe
+ODIWC-2011-13,2011,Group B,13,2011-02-28,"Feroz Shah Kotla, Delhi",India,West Indies,330,8,50.0,Netherlands,115,10,31.3,West Indies,215 runs,Netherlands
+ODIWC-2011-14,2011,Group A,14,2011-03-01,"R Premadasa Stadium, Colombo",Sri Lanka,Kenya,142,10,43.4,Sri Lanka,146,1,18.4,Sri Lanka,9 wickets,Kenya
+ODIWC-2011-15,2011,Group B,15,2011-03-02,"M Chinnaswamy Stadium, Bangalore",India,England,327,8,50.0,Ireland,329,7,49.1,Ireland,3 wickets,England
+ODIWC-2011-16,2011,Group B,16,2011-03-03,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,South Africa,351,5,50.0,Netherlands,120,10,34.5,South Africa,231 runs,Netherlands
+ODIWC-2011-17,2011,Group A,17,2011-03-03,"R Premadasa Stadium, Colombo",Sri Lanka,Pakistan,184,10,43.0,Canada,138,10,42.5,Pakistan,46 runs,Pakistan
+ODIWC-2011-18,2011,Group A,18,2011-03-04,"Sardar Patel Stadium, Motera, Ahmedabad",India,Zimbabwe,162,10,46.2,New Zealand,166,0,33.3,New Zealand,10 wickets,Zimbabwe
+ODIWC-2011-19,2011,Group B,19,2011-03-04,"Shere Bangla National Stadium, Mirpur",Bangladesh,Bangladesh,58,10,18.5,West Indies,59,1,12.2,West Indies,9 wickets,Bangladesh
+ODIWC-2011-20,2011,Group A,20,2011-03-05,"R Premadasa Stadium, Colombo",Sri Lanka,Sri Lanka,146,3,32.5,Australia,0,0,0.0,No Result,,Sri Lanka
+ODIWC-2011-21,2011,Group B,21,2011-03-06,"MA Chidambaram Stadium, Chepauk, Chennai",India,England,171,10,45.4,South Africa,165,10,47.4,England,6 runs,England
+ODIWC-2011-22,2011,Group B,22,2011-03-06,"M Chinnaswamy Stadium, Bangalore",India,Ireland,207,10,47.5,India,210,5,46.0,India,5 wickets,India
+ODIWC-2011-23,2011,Group A,23,2011-03-07,"Feroz Shah Kotla, Delhi",India,Kenya,198,10,50.0,Canada,199,5,45.3,Canada,5 wickets,Kenya
+ODIWC-2011-24,2011,Group A,24,2011-03-08,Pallekele International Cricket Stadium,Sri Lanka,New Zealand,302,7,50.0,Pakistan,192,10,41.4,New Zealand,110 runs,New Zealand
+ODIWC-2011-25,2011,Group B,25,2011-03-09,"Feroz Shah Kotla, Delhi",India,Netherlands,189,10,46.4,India,191,5,36.3,India,5 wickets,Netherlands
+ODIWC-2011-26,2011,Group A,26,2011-03-10,Pallekele International Cricket Stadium,Sri Lanka,Sri Lanka,327,6,50.0,Zimbabwe,188,10,39.0,Sri Lanka,139 runs,Zimbabwe
+ODIWC-2011-27,2011,Group B,27,2011-03-11,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,West Indies,275,10,50.0,Ireland,231,10,49.0,West Indies,44 runs,Ireland
+ODIWC-2011-28,2011,Group B,28,2011-03-11,"Zahur Ahmed Chowdhury Stadium, Chittagong",Bangladesh,England,225,10,49.4,Bangladesh,227,8,49.0,Bangladesh,2 wickets,Bangladesh
+ODIWC-2011-29,2011,Group B,29,2011-03-12,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,India,296,10,48.4,South Africa,300,7,49.4,South Africa,3 wickets,India
+ODIWC-2011-30,2011,Group A,30,2011-03-13,"Wankhede Stadium, Mumbai",India,New Zealand,358,6,50.0,Canada,261,9,50.0,New Zealand,97 runs,Canada
+ODIWC-2011-31,2011,Group A,31,2011-03-13,"M Chinnaswamy Stadium, Bangalore",India,Australia,324,6,50.0,Kenya,264,6,50.0,Australia,60 runs,Australia
+ODIWC-2011-32,2011,Group B,32,2011-03-14,"Zahur Ahmed Chowdhury Stadium, Chittagong",Bangladesh,Netherlands,160,10,46.2,Bangladesh,166,4,41.2,Bangladesh,6 wickets,Netherlands
+ODIWC-2011-33,2011,Group A,33,2011-03-14,Pallekele International Cricket Stadium,Sri Lanka,Zimbabwe,151,7,39.4,Pakistan,164,3,34.1,Pakistan,7 wickets,Zimbabwe
+ODIWC-2011-34,2011,Group B,34,2011-03-15,"Eden Gardens, Kolkata",India,South Africa,272,7,50.0,Ireland,141,10,33.2,South Africa,131 runs,Ireland
+ODIWC-2011-35,2011,Group A,35,2011-03-16,"M Chinnaswamy Stadium, Bangalore",India,Canada,211,10,45.4,Australia,212,3,34.5,Australia,7 wickets,Canada
+ODIWC-2011-36,2011,Group B,36,2011-03-17,"MA Chidambaram Stadium, Chepauk, Chennai",India,England,243,10,48.4,West Indies,225,10,44.4,England,18 runs,England
+ODIWC-2011-37,2011,Group B,37,2011-03-18,"Eden Gardens, Kolkata",India,Netherlands,306,10,50.0,Ireland,307,4,47.4,Ireland,6 wickets,Ireland
+ODIWC-2011-38,2011,Group A,38,2011-03-18,"Wankhede Stadium, Mumbai",India,Sri Lanka,265,9,50.0,New Zealand,153,10,35.0,Sri Lanka,112 runs,Sri Lanka
+ODIWC-2011-39,2011,Group B,39,2011-03-19,"Shere Bangla National Stadium, Mirpur",Bangladesh,South Africa,284,8,50.0,Bangladesh,78,10,28.0,South Africa,206 runs,South Africa
+ODIWC-2011-40,2011,Group A,40,2011-03-19,"R Premadasa Stadium, Colombo",Sri Lanka,Australia,176,10,46.4,Pakistan,178,6,41.0,Pakistan,4 wickets,Australia
+ODIWC-2011-41,2011,Group A,41,2011-03-20,"Eden Gardens, Kolkata",India,Zimbabwe,308,6,50.0,Kenya,147,10,36.0,Zimbabwe,161 runs,Zimbabwe
+ODIWC-2011-42,2011,Group B,42,2011-03-20,"MA Chidambaram Stadium, Chepauk, Chennai",India,India,268,10,49.1,West Indies,188,10,43.0,India,80 runs,India
+ODIWC-2011-43,2011,Quarter Final,43,2011-03-23,"Shere Bangla National Stadium, Mirpur",Bangladesh,West Indies,112,10,43.3,Pakistan,113,0,20.5,Pakistan,10 wickets,West Indies
+ODIWC-2011-44,2011,Quarter Final,44,2011-03-24,"Sardar Patel Stadium, Motera, Ahmedabad",India,Australia,260,6,50.0,India,261,5,47.4,India,5 wickets,Australia
+ODIWC-2011-45,2011,Quarter Final,45,2011-03-25,"Shere Bangla National Stadium, Mirpur",Bangladesh,New Zealand,221,8,50.0,South Africa,172,10,43.2,New Zealand,49 runs,New Zealand
+ODIWC-2011-46,2011,Quarter Final,46,2011-03-26,"R Premadasa Stadium, Colombo",Sri Lanka,England,229,6,50.0,Sri Lanka,231,0,39.3,Sri Lanka,10 wickets,England
+ODIWC-2011-47,2011,Semi Final,47,2011-03-29,"R Premadasa Stadium, Colombo",Sri Lanka,New Zealand,217,10,48.5,Sri Lanka,220,5,47.5,Sri Lanka,5 wickets,New Zealand
+ODIWC-2011-48,2011,Semi Final,48,2011-03-30,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,India,260,9,50.0,Pakistan,231,10,49.5,India,29 runs,India
+ODIWC-2011-49,2011,Final,49,2011-04-02,"Wankhede Stadium, Mumbai",India,Sri Lanka,274,6,50.0,India,277,4,48.2,India,6 wickets,Sri Lanka
+ODIWC-2015-1,2015,Pool A,1,2015-02-14,"Hagley Oval, Christchurch",New Zealand,New Zealand,331,6,50.0,Sri Lanka,233,10,46.1,New Zealand,98 runs,Sri Lanka
+ODIWC-2015-2,2015,Pool A,2,2015-02-14,Melbourne Cricket Ground,Australia,Australia,342,9,50.0,England,231,10,41.5,Australia,111 runs,England
+ODIWC-2015-3,2015,Pool B,3,2015-02-15,"Seddon Park, Hamilton",New Zealand,South Africa,339,4,50.0,Zimbabwe,277,10,48.2,South Africa,62 runs,Zimbabwe
+ODIWC-2015-4,2015,Pool B,4,2015-02-15,Adelaide Oval,Australia,India,300,7,50.0,Pakistan,224,10,47.0,India,76 runs,India
+ODIWC-2015-5,2015,Pool B,5,2015-02-16,"Saxton Oval, Nelson",New Zealand,West Indies,304,7,50.0,Ireland,307,6,45.5,Ireland,4 wickets,Ireland
+ODIWC-2015-6,2015,Pool A,6,2015-02-17,"University Oval, Dunedin",New Zealand,Scotland,142,10,36.2,New Zealand,146,7,24.5,New Zealand,3 wickets,New Zealand
+ODIWC-2015-7,2015,Pool A,7,2015-02-18,"Manuka Oval, Canberra",Australia,Bangladesh,267,10,50.0,Afghanistan,162,10,42.5,Bangladesh,105 runs,Bangladesh
+ODIWC-2015-8,2015,Pool B,8,2015-02-19,"Saxton Oval, Nelson",New Zealand,United Arab Emirates,285,7,50.0,Zimbabwe,286,6,48.0,Zimbabwe,4 wickets,Zimbabwe
+ODIWC-2015-9,2015,Pool A,9,2015-02-20,"Westpac Stadium, Wellington",New Zealand,England,123,10,33.2,New Zealand,125,2,12.2,New Zealand,8 wickets,England
+ODIWC-2015-10,2015,Pool B,10,2015-02-21,"Hagley Oval, Christchurch",New Zealand,West Indies,310,6,50.0,Pakistan,160,10,39.0,West Indies,150 runs,Pakistan
+ODIWC-2015-11,2015,Pool A,11,2015-02-21,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,Australia,0,0,0.0,Bangladesh,0,0,0.0,No Result,,
+ODIWC-2015-12,2015,Pool A,12,2015-02-22,"University Oval, Dunedin",New Zealand,Afghanistan,232,10,49.4,Sri Lanka,236,6,48.2,Sri Lanka,4 wickets,Sri Lanka
+ODIWC-2015-13,2015,Pool B,13,2015-02-22,Melbourne Cricket Ground,Australia,India,307,7,50.0,South Africa,177,10,40.2,India,130 runs,India
+ODIWC-2015-14,2015,Pool A,14,2015-02-23,"Hagley Oval, Christchurch",New Zealand,England,303,8,50.0,Scotland,184,10,42.2,England,119 runs,Scotland
+ODIWC-2015-15,2015,Pool B,15,2015-02-24,"Manuka Oval, Canberra",Australia,West Indies,372,2,50.0,Zimbabwe,289,10,44.3,West Indies,73 runs,West Indies
+ODIWC-2015-16,2015,Pool B,16,2015-02-25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,United Arab Emirates,278,9,50.0,Ireland,279,8,49.2,Ireland,2 wickets,Ireland
+ODIWC-2015-17,2015,Pool A,17,2015-02-26,"University Oval, Dunedin",New Zealand,Scotland,210,10,50.0,Afghanistan,211,9,49.3,Afghanistan,1 wickets,Afghanistan
+ODIWC-2015-18,2015,Pool A,18,2015-02-26,Melbourne Cricket Ground,Australia,Sri Lanka,332,1,50.0,Bangladesh,240,10,47.0,Sri Lanka,92 runs,Sri Lanka
+ODIWC-2015-19,2015,Pool B,19,2015-02-27,Sydney Cricket Ground,Australia,South Africa,408,5,50.0,West Indies,151,10,33.1,South Africa,257 runs,South Africa
+ODIWC-2015-20,2015,Pool A,20,2015-02-28,"Eden Park, Auckland",New Zealand,Australia,151,10,32.2,New Zealand,152,9,23.1,New Zealand,1 wickets,Australia
+ODIWC-2015-21,2015,Pool B,21,2015-02-28,"Western Australia Cricket Association Ground, Perth",Australia,United Arab Emirates,102,10,31.3,India,104,1,18.5,India,9 wickets,United Arab Emirates
+ODIWC-2015-22,2015,Pool A,22,2015-03-01,"Westpac Stadium, Wellington",New Zealand,England,309,6,50.0,Sri Lanka,312,1,47.2,Sri Lanka,9 wickets,England
+ODIWC-2015-23,2015,Pool B,23,2015-03-01,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,Pakistan,235,7,50.0,Zimbabwe,215,10,49.4,Pakistan,20 runs,Pakistan
+ODIWC-2015-24,2015,Pool B,24,2015-03-03,"Manuka Oval, Canberra",Australia,South Africa,411,4,50.0,Ireland,210,10,45.0,South Africa,201 runs,South Africa
+ODIWC-2015-25,2015,Pool B,25,2015-03-04,"McLean Park, Napier",New Zealand,Pakistan,339,6,50.0,United Arab Emirates,210,8,50.0,Pakistan,129 runs,United Arab Emirates
+ODIWC-2015-26,2015,Pool A,26,2015-03-04,"Western Australia Cricket Association Ground, Perth",Australia,Australia,417,6,50.0,Afghanistan,142,10,37.3,Australia,275 runs,Afghanistan
+ODIWC-2015-27,2015,Pool A,27,2015-03-05,"Saxton Oval, Nelson",New Zealand,Scotland,318,8,50.0,Bangladesh,322,4,48.1,Bangladesh,6 wickets,Bangladesh
+ODIWC-2015-28,2015,Pool B,28,2015-03-06,"Western Australia Cricket Association Ground, Perth",Australia,West Indies,182,10,44.2,India,185,6,39.1,India,4 wickets,West Indies
+ODIWC-2015-29,2015,Pool B,29,2015-03-07,"Eden Park, Auckland",New Zealand,Pakistan,222,10,46.4,South Africa,202,10,33.3,Pakistan,29 runs,South Africa
+ODIWC-2015-30,2015,Pool B,30,2015-03-07,"Bellerive Oval, Hobart",Australia,Ireland,331,8,50.0,Zimbabwe,326,10,49.3,Ireland,5 runs,Zimbabwe
+ODIWC-2015-31,2015,Pool A,31,2015-03-08,"McLean Park, Napier",New Zealand,Afghanistan,186,10,47.4,New Zealand,188,4,36.1,New Zealand,6 wickets,Afghanistan
+ODIWC-2015-32,2015,Pool A,32,2015-03-08,Sydney Cricket Ground,Australia,Australia,376,9,50.0,Sri Lanka,312,9,46.2,Australia,64 runs,Australia
+ODIWC-2015-33,2015,Pool A,33,2015-03-09,Adelaide Oval,Australia,Bangladesh,275,7,50.0,England,260,10,48.3,Bangladesh,15 runs,England
+ODIWC-2015-34,2015,Pool B,34,2015-03-10,"Seddon Park, Hamilton",New Zealand,Ireland,259,10,49.0,India,260,2,36.5,India,8 wickets,Ireland
+ODIWC-2015-35,2015,Pool A,35,2015-03-11,"Bellerive Oval, Hobart",Australia,Sri Lanka,363,9,50.0,Scotland,215,10,43.1,Sri Lanka,148 runs,Sri Lanka
+ODIWC-2015-36,2015,Pool B,36,2015-03-12,"Westpac Stadium, Wellington",New Zealand,South Africa,341,6,50.0,United Arab Emirates,195,9,47.3,South Africa,146 runs,United Arab Emirates
+ODIWC-2015-37,2015,Pool A,37,2015-03-13,"Seddon Park, Hamilton",New Zealand,Bangladesh,288,7,50.0,New Zealand,290,7,48.5,New Zealand,3 wickets,New Zealand
+ODIWC-2015-38,2015,Pool A,38,2015-03-13,Sydney Cricket Ground,Australia,Afghanistan,111,7,36.2,England,101,1,18.1,England,9 wickets,England
+ODIWC-2015-39,2015,Pool B,39,2015-03-14,"Eden Park, Auckland",New Zealand,Zimbabwe,287,10,48.5,India,288,4,48.4,India,6 wickets,India
+ODIWC-2015-40,2015,Pool A,40,2015-03-14,"Bellerive Oval, Hobart",Australia,Scotland,130,10,25.4,Australia,133,3,15.2,Australia,7 wickets,Australia
+ODIWC-2015-41,2015,Pool B,41,2015-03-15,"McLean Park, Napier",New Zealand,United Arab Emirates,175,10,47.4,West Indies,176,4,30.3,West Indies,6 wickets,West Indies
+ODIWC-2015-42,2015,Pool B,42,2015-03-15,Adelaide Oval,Australia,Ireland,237,10,50.0,Pakistan,241,3,46.1,Pakistan,7 wickets,Ireland
+ODIWC-2015-43,2015,Quarter Final,43,2015-03-18,Sydney Cricket Ground,Australia,Sri Lanka,133,10,37.2,South Africa,134,1,18.0,South Africa,9 wickets,Sri Lanka
+ODIWC-2015-44,2015,Quarter Final,44,2015-03-19,Melbourne Cricket Ground,Australia,India,302,6,50.0,Bangladesh,193,10,45.0,India,109 runs,India
+ODIWC-2015-45,2015,Quarter Final,45,2015-03-20,Adelaide Oval,Australia,Pakistan,213,10,49.5,Australia,216,4,33.5,Australia,6 wickets,Pakistan
+ODIWC-2015-46,2015,Quarter Final,46,2015-03-21,"Westpac Stadium, Wellington",New Zealand,New Zealand,393,6,50.0,West Indies,250,10,30.3,New Zealand,143 runs,New Zealand
+ODIWC-2015-47,2015,Semi Final,47,2015-03-24,"Eden Park, Auckland",New Zealand,South Africa,281,5,43.0,New Zealand,299,6,42.5,New Zealand,4 wickets,South Africa
+ODIWC-2015-48,2015,Semi Final,48,2015-03-26,Sydney Cricket Ground,Australia,Australia,328,7,50.0,India,233,10,46.5,Australia,95 runs,Australia
+ODIWC-2015-49,2015,Final,49,2015-03-29,Melbourne Cricket Ground,Australia,New Zealand,183,10,45.0,Australia,186,3,33.1,Australia,7 wickets,New Zealand
+ODIWC-2019-1,2019,Round,1,2019-05-30,"Kennington Oval, London",England,England,311,8,50.0,South Africa,207,10,39.5,England,104 runs,South Africa
+ODIWC-2019-2,2019,Round,2,2019-05-31,"Trent Bridge, Nottingham",England,Pakistan,105,10,21.4,West Indies,108,3,13.4,West Indies,7 wickets,West Indies
+ODIWC-2019-3,2019,Round,3,2019-06-01,"Sophia Gardens, Cardiff",England,Sri Lanka,136,10,29.2,New Zealand,137,0,16.1,New Zealand,10 wickets,New Zealand
+ODIWC-2019-4,2019,Round,4,2019-06-01,"County Ground, Bristol",England,Afghanistan,207,10,38.2,Australia,209,3,34.5,Australia,7 wickets,Afghanistan
+ODIWC-2019-5,2019,Round,5,2019-06-02,"Kennington Oval, London",England,Bangladesh,330,6,50.0,South Africa,309,8,50.0,Bangladesh,21 runs,South Africa
+ODIWC-2019-6,2019,Round,6,2019-06-03,"Trent Bridge, Nottingham",England,Pakistan,348,8,50.0,England,334,9,50.0,Pakistan,14 runs,England
+ODIWC-2019-7,2019,Round,7,2019-06-04,"Sophia Gardens, Cardiff",England,Sri Lanka,201,10,36.5,Afghanistan,152,10,32.4,Sri Lanka,34 runs,Afghanistan
+ODIWC-2019-8,2019,Round,8,2019-06-05,"The Rose Bowl, Southampton",England,South Africa,227,9,50.0,India,230,4,47.3,India,6 wickets,South Africa
+ODIWC-2019-9,2019,Round,9,2019-06-05,"Kennington Oval, London",England,Bangladesh,244,10,49.2,New Zealand,248,8,47.1,New Zealand,2 wickets,New Zealand
+ODIWC-2019-10,2019,Round,10,2019-06-06,"Trent Bridge, Nottingham",England,Australia,288,10,49.0,West Indies,273,9,50.0,Australia,15 runs,West Indies
+ODIWC-2019-11,2019,Round,11,2019-06-07,"County Ground, Bristol",England,Pakistan,0,0,0.0,Sri Lanka,0,0,0.0,No Result,,
+ODIWC-2019-12,2019,Round,12,2019-06-08,"Sophia Gardens, Cardiff",England,England,386,6,50.0,Bangladesh,280,10,48.5,England,106 runs,Bangladesh
+ODIWC-2019-13,2019,Round,13,2019-06-08,"The Cooper Associates County Ground, Taunton",England,Afghanistan,172,10,41.1,New Zealand,173,3,32.1,New Zealand,7 wickets,New Zealand
+ODIWC-2019-14,2019,Round,14,2019-06-09,"Kennington Oval, London",England,India,352,5,50.0,Australia,316,10,50.0,India,36 runs,India
+ODIWC-2019-15,2019,Round,15,2019-06-10,"The Rose Bowl, Southampton",England,South Africa,29,2,7.3,West Indies,0,0,0.0,No Result,,West Indies
+ODIWC-2019-16,2019,Round,16,2019-06-11,"County Ground, Bristol",England,Bangladesh,0,0,0.0,Sri Lanka,0,0,0.0,No Result,,
+ODIWC-2019-17,2019,Round,17,2019-06-12,"The Cooper Associates County Ground, Taunton",England,Australia,307,10,49.0,Pakistan,266,10,45.4,Australia,41 runs,Pakistan
+ODIWC-2019-18,2019,Round,18,2019-06-13,"Trent Bridge, Nottingham",England,India,0,0,0.0,New Zealand,0,0,0.0,No Result,,
+ODIWC-2019-19,2019,Round,19,2019-06-14,"The Rose Bowl, Southampton",England,West Indies,212,10,44.4,England,213,2,33.1,England,8 wickets,England
+ODIWC-2019-20,2019,Round,20,2019-06-15,"Kennington Oval, London",England,Australia,334,7,50.0,Sri Lanka,247,10,45.5,Australia,87 runs,Sri Lanka
+ODIWC-2019-21,2019,Round,21,2019-06-15,"Sophia Gardens, Cardiff",England,Afghanistan,125,10,34.1,South Africa,131,1,28.4,South Africa,9 wickets,South Africa
+ODIWC-2019-22,2019,Round,22,2019-06-16,"Old Trafford, Manchester",England,India,336,5,50.0,Pakistan,212,6,40.0,India,89 runs,Pakistan
+ODIWC-2019-23,2019,Round,23,2019-06-17,"The Cooper Associates County Ground, Taunton",England,West Indies,321,8,50.0,Bangladesh,322,3,41.3,Bangladesh,7 wickets,Bangladesh
+ODIWC-2019-24,2019,Round,24,2019-06-18,"Old Trafford, Manchester",England,England,397,6,50.0,Afghanistan,247,8,50.0,England,150 runs,England
+ODIWC-2019-25,2019,Round,25,2019-06-19,"Edgbaston, Birmingham",England,South Africa,241,6,49.0,New Zealand,245,6,48.3,New Zealand,4 wickets,New Zealand
+ODIWC-2019-26,2019,Round,26,2019-06-20,"Trent Bridge, Nottingham",England,Australia,381,5,50.0,Bangladesh,333,8,50.0,Australia,48 runs,Australia
+ODIWC-2019-27,2019,Round,27,2019-06-21,"Headingley, Leeds",England,Sri Lanka,232,9,50.0,England,212,10,47.0,Sri Lanka,20 runs,Sri Lanka
+ODIWC-2019-28,2019,Round,28,2019-06-22,"The Rose Bowl, Southampton",England,India,224,8,50.0,Afghanistan,213,10,49.5,India,11 runs,India
+ODIWC-2019-29,2019,Round,29,2019-06-22,"Old Trafford, Manchester",England,New Zealand,291,8,50.0,West Indies,286,10,49.0,New Zealand,5 runs,West Indies
+ODIWC-2019-30,2019,Round,30,2019-06-23,"Lord's, London",England,Pakistan,308,7,50.0,South Africa,259,9,50.0,Pakistan,49 runs,Pakistan
+ODIWC-2019-31,2019,Round,31,2019-06-24,"The Rose Bowl, Southampton",England,Bangladesh,262,7,50.0,Afghanistan,200,10,47.0,Bangladesh,62 runs,Afghanistan
+ODIWC-2019-32,2019,Round,32,2019-06-25,"Lord's, London",England,Australia,285,7,50.0,England,221,10,44.4,Australia,64 runs,England
+ODIWC-2019-33,2019,Round,33,2019-06-26,"Edgbaston, Birmingham",England,New Zealand,237,6,50.0,Pakistan,241,4,49.1,Pakistan,6 wickets,New Zealand
+ODIWC-2019-34,2019,Round,34,2019-06-27,"Old Trafford, Manchester",England,India,268,7,50.0,West Indies,143,10,34.2,India,125 runs,India
+ODIWC-2019-35,2019,Round,35,2019-06-28,"Riverside Ground, Chester-le-Street",England,Sri Lanka,203,10,49.3,South Africa,206,1,37.2,South Africa,9 wickets,South Africa
+ODIWC-2019-36,2019,Round,36,2019-06-29,"Headingley, Leeds",England,Afghanistan,227,9,50.0,Pakistan,230,7,49.4,Pakistan,3 wickets,Afghanistan
+ODIWC-2019-37,2019,Round,37,2019-06-29,"Lord's, London",England,Australia,243,9,50.0,New Zealand,157,10,43.4,Australia,86 runs,Australia
+ODIWC-2019-38,2019,Round,38,2019-06-30,"Edgbaston, Birmingham",England,England,337,7,50.0,India,306,5,50.0,England,31 runs,England
+ODIWC-2019-39,2019,Round,39,2019-07-01,"Riverside Ground, Chester-le-Street",England,Sri Lanka,338,6,50.0,West Indies,315,9,50.0,Sri Lanka,23 runs,West Indies
+ODIWC-2019-40,2019,Round,40,2019-07-02,"Edgbaston, Birmingham",England,India,314,9,50.0,Bangladesh,286,10,48.0,India,28 runs,India
+ODIWC-2019-41,2019,Round,41,2019-07-03,"Riverside Ground, Chester-le-Street",England,England,305,8,50.0,New Zealand,186,10,45.0,England,119 runs,England
+ODIWC-2019-42,2019,Round,42,2019-07-04,"Headingley, Leeds",England,West Indies,311,6,50.0,Afghanistan,288,10,50.0,West Indies,23 runs,West Indies
+ODIWC-2019-43,2019,Round,43,2019-07-05,"Lord's, London",England,Pakistan,315,9,50.0,Bangladesh,221,10,44.1,Pakistan,94 runs,Pakistan
+ODIWC-2019-44,2019,Round,44,2019-07-06,"Headingley, Leeds",England,Sri Lanka,264,7,50.0,India,265,3,43.3,India,7 wickets,Sri Lanka
+ODIWC-2019-45,2019,Round,45,2019-07-06,"Old Trafford, Manchester",England,South Africa,325,6,50.0,Australia,315,10,49.5,South Africa,10 runs,South Africa
+ODIWC-2019-46,2019,Semi Final,46,2019-07-09,"Old Trafford, Manchester",England,New Zealand,239,8,50.0,India,221,10,49.3,New Zealand,18 runs,New Zealand
+ODIWC-2019-47,2019,Semi Final,47,2019-07-11,"Edgbaston, Birmingham",England,Australia,223,10,49.0,England,226,2,32.1,England,8 wickets,Australia
+ODIWC-2019-48,2019,Final,48,2019-07-14,"Lord's, London",England,New Zealand,241,8,50.0,England,241,10,50.0,England,Boundary Count,New Zealand
+ODIWC-2023-1,2023,Round,1,2023-10-05,"Narendra Modi Stadium, Ahmedabad",India,England,282,9,50.0,New Zealand,283,1,36.2,New Zealand,9 wickets,New Zealand
+ODIWC-2023-2,2023,Round,2,2023-10-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,Pakistan,286,10,49.0,Netherlands,205,10,41.0,Pakistan,81 runs,Netherlands
+ODIWC-2023-3,2023,Round,3,2023-10-07,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,Afghanistan,156,10,37.2,Bangladesh,158,4,34.4,Bangladesh,6 wickets,Bangladesh
+ODIWC-2023-4,2023,Round,4,2023-10-07,"Arun Jaitley Stadium, Delhi",India,South Africa,428,5,50.0,Sri Lanka,326,10,44.5,South Africa,102 runs,Sri Lanka
+ODIWC-2023-5,2023,Round,5,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",India,Australia,199,10,49.3,India,201,4,41.2,India,6 wickets,Australia
+ODIWC-2023-6,2023,Round,6,2023-10-09,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,New Zealand,322,7,50.0,Netherlands,223,10,46.3,New Zealand,99 runs,Netherlands
+ODIWC-2023-7,2023,Round,7,2023-10-10,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,England,364,9,50.0,Bangladesh,227,10,48.2,England,137 runs,Bangladesh
+ODIWC-2023-8,2023,Round,8,2023-10-10,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,Sri Lanka,344,9,50.0,Pakistan,345,4,48.2,Pakistan,6 wickets,Sri Lanka
+ODIWC-2023-9,2023,Round,9,2023-10-11,"Arun Jaitley Stadium, Delhi",India,Afghanistan,272,8,50.0,India,273,2,35.0,India,8 wickets,Afghanistan
+ODIWC-2023-10,2023,Round,10,2023-10-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,South Africa,311,7,50.0,Australia,177,10,40.5,South Africa,134 runs,Australia
+ODIWC-2023-11,2023,Round,11,2023-10-13,"MA Chidambaram Stadium, Chepauk, Chennai",India,Bangladesh,245,9,50.0,New Zealand,248,2,42.5,New Zealand,8 wickets,New Zealand
+ODIWC-2023-12,2023,Round,12,2023-10-14,"Narendra Modi Stadium, Ahmedabad",India,Pakistan,191,10,42.5,India,192,3,30.3,India,7 wickets,India
+ODIWC-2023-13,2023,Round,13,2023-10-15,"Arun Jaitley Stadium, Delhi",India,Afghanistan,284,10,49.5,England,215,10,40.3,Afghanistan,69 runs,England
+ODIWC-2023-14,2023,Round,14,2023-10-16,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,Sri Lanka,209,10,43.3,Australia,215,5,35.2,Australia,5 wickets,Sri Lanka
+ODIWC-2023-15,2023,Round,15,2023-10-17,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,Netherlands,245,8,43.0,South Africa,207,10,42.5,Netherlands,38 runs,South Africa
+ODIWC-2023-16,2023,Round,16,2023-10-18,"MA Chidambaram Stadium, Chepauk, Chennai",India,New Zealand,288,6,50.0,Afghanistan,139,10,34.4,New Zealand,149 runs,Afghanistan
+ODIWC-2023-17,2023,Round,17,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",India,Bangladesh,256,8,50.0,India,261,3,41.3,India,7 wickets,Bangladesh
+ODIWC-2023-18,2023,Round,18,2023-10-20,"M Chinnaswamy Stadium, Bengaluru",India,Australia,367,9,50.0,Pakistan,305,10,45.3,Australia,62 runs,Pakistan
+ODIWC-2023-19,2023,Round,19,2023-10-21,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,Netherlands,262,10,49.4,Sri Lanka,263,5,48.2,Sri Lanka,5 wickets,Netherlands
+ODIWC-2023-20,2023,Round,20,2023-10-21,"Wankhede Stadium, Mumbai",India,South Africa,399,7,50.0,England,170,9,22.0,South Africa,229 runs,England
+ODIWC-2023-21,2023,Round,21,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,New Zealand,273,10,50.0,India,274,6,48.0,India,4 wickets,India
+ODIWC-2023-22,2023,Round,22,2023-10-23,"MA Chidambaram Stadium, Chepauk, Chennai",India,Pakistan,282,7,50.0,Afghanistan,286,2,49.0,Afghanistan,8 wickets,Pakistan
+ODIWC-2023-23,2023,Round,23,2023-10-24,"Wankhede Stadium, Mumbai",India,South Africa,382,5,50.0,Bangladesh,233,10,46.4,South Africa,149 runs,South Africa
+ODIWC-2023-24,2023,Round,24,2023-10-25,"Arun Jaitley Stadium, Delhi",India,Australia,399,8,50.0,Netherlands,90,10,21.0,Australia,309 runs,Australia
+ODIWC-2023-25,2023,Round,25,2023-10-26,"M Chinnaswamy Stadium, Bengaluru",India,England,156,10,33.2,Sri Lanka,160,2,25.4,Sri Lanka,8 wickets,England
+ODIWC-2023-26,2023,Round,26,2023-10-27,"MA Chidambaram Stadium, Chepauk, Chennai",India,Pakistan,270,10,46.4,South Africa,271,9,47.2,South Africa,1 wickets,Pakistan
+ODIWC-2023-27,2023,Round,27,2023-10-28,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,Australia,388,10,49.2,New Zealand,383,9,50.0,Australia,5 runs,New Zealand
+ODIWC-2023-28,2023,Round,28,2023-10-28,"Eden Gardens, Kolkata",India,Netherlands,229,10,50.0,Bangladesh,142,10,42.2,Netherlands,87 runs,Netherlands
+ODIWC-2023-29,2023,Round,29,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,India,229,9,50.0,England,129,10,34.5,India,100 runs,England
+ODIWC-2023-30,2023,Round,30,2023-10-30,"Maharashtra Cricket Association Stadium, Pune",India,Sri Lanka,241,10,49.3,Afghanistan,242,3,45.2,Afghanistan,7 wickets,Afghanistan
+ODIWC-2023-31,2023,Round,31,2023-10-31,"Eden Gardens, Kolkata",India,Bangladesh,204,10,45.1,Pakistan,205,3,32.3,Pakistan,7 wickets,Bangladesh
+ODIWC-2023-32,2023,Round,32,2023-11-01,"Maharashtra Cricket Association Stadium, Pune",India,South Africa,357,4,50.0,New Zealand,167,10,35.3,South Africa,190 runs,New Zealand
+ODIWC-2023-33,2023,Round,33,2023-11-02,"Wankhede Stadium, Mumbai",India,India,357,8,50.0,Sri Lanka,55,10,19.4,India,302 runs,Sri Lanka
+ODIWC-2023-34,2023,Round,34,2023-11-03,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,Netherlands,179,10,46.3,Afghanistan,181,3,31.3,Afghanistan,7 wickets,Netherlands
+ODIWC-2023-35,2023,Round,35,2023-11-04,"M Chinnaswamy Stadium, Bengaluru",India,New Zealand,401,6,50.0,Pakistan,200,1,25.3,Pakistan,21 runs,Pakistan
+ODIWC-2023-36,2023,Round,36,2023-11-04,"Narendra Modi Stadium, Ahmedabad",India,Australia,286,10,49.3,England,253,10,48.1,Australia,33 runs,England
+ODIWC-2023-37,2023,Round,37,2023-11-05,"Eden Gardens, Kolkata",India,India,326,5,50.0,South Africa,83,10,27.1,India,243 runs,India
+ODIWC-2023-38,2023,Round,38,2023-11-06,"Arun Jaitley Stadium, Delhi",India,Sri Lanka,279,10,49.3,Bangladesh,282,7,41.1,Bangladesh,3 wickets,Bangladesh
+ODIWC-2023-39,2023,Round,39,2023-11-07,"Wankhede Stadium, Mumbai",India,Afghanistan,291,5,50.0,Australia,293,7,46.5,Australia,3 wickets,Afghanistan
+ODIWC-2023-40,2023,Round,40,2023-11-08,"Maharashtra Cricket Association Stadium, Pune",India,England,339,9,50.0,Netherlands,179,10,37.2,England,160 runs,England
+ODIWC-2023-41,2023,Round,41,2023-11-09,"M Chinnaswamy Stadium, Bengaluru",India,Sri Lanka,171,10,46.4,New Zealand,172,5,23.2,New Zealand,5 wickets,New Zealand
+ODIWC-2023-42,2023,Round,42,2023-11-10,"Narendra Modi Stadium, Ahmedabad",India,Afghanistan,244,10,50.0,South Africa,247,5,47.3,South Africa,5 wickets,Afghanistan
+ODIWC-2023-43,2023,Round,43,2023-11-11,"Maharashtra Cricket Association Stadium, Pune",India,Bangladesh,306,8,50.0,Australia,307,2,44.4,Australia,8 wickets,Australia
+ODIWC-2023-44,2023,Round,44,2023-11-11,"Eden Gardens, Kolkata",India,England,337,9,50.0,Pakistan,244,10,43.3,England,93 runs,England
+ODIWC-2023-45,2023,Round,45,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",India,India,410,4,50.0,Netherlands,250,10,47.5,India,160 runs,India
+ODIWC-2023-46,2023,Semi Final,46,2023-11-15,"Wankhede Stadium, Mumbai",India,India,397,4,50.0,New Zealand,327,10,48.5,India,70 runs,India
+ODIWC-2023-47,2023,Semi Final,47,2023-11-16,"Eden Gardens, Kolkata",India,South Africa,212,10,49.4,Australia,215,7,47.2,Australia,3 wickets,South Africa
+ODIWC-2023-48,2023,Final,48,2023-11-19,"Narendra Modi Stadium, Ahmedabad",India,India,240,10,50.0,Australia,241,4,43.0,Australia,6 wickets,Australia

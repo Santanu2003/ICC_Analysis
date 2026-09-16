@@ -1,0 +1,185 @@
+Tournament,Year,Stage,Group,Pos,Seed,Team,Pld,W,L,T,NR,Pts,NRR
+T20 World Cup,2007,Group Stage,A,1,A1,South Africa,2,2,0,0,0,4,0.974
+T20 World Cup,2007,Group Stage,A,2,A3,Bangladesh,2,1,1,0,0,2,0.149
+T20 World Cup,2007,Group Stage,A,3,A2,West Indies,2,0,2,0,0,0,-1.233
+T20 World Cup,2007,Group Stage,B,1,B1,Australia,2,1,1,0,0,2,0.987
+T20 World Cup,2007,Group Stage,B,2,B2,England,2,1,1,0,0,2,0.209
+T20 World Cup,2007,Group Stage,B,3,B3,Zimbabwe,2,1,1,0,0,2,-1.196
+T20 World Cup,2007,Group Stage,C,1,C2,Sri Lanka,2,2,0,0,0,4,4.721
+T20 World Cup,2007,Group Stage,C,2,C1,New Zealand,2,1,1,0,0,2,2.396
+T20 World Cup,2007,Group Stage,C,3,C3,Kenya,2,0,2,0,0,0,-8.047
+T20 World Cup,2007,Group Stage,D,1,D2,India,2,1,0,1,0,3,0.0
+T20 World Cup,2007,Group Stage,D,2,D1,Pakistan,2,1,1,0,0,2,1.275
+T20 World Cup,2007,Group Stage,D,3,D3,Scotland,2,0,1,0,1,1,-2.55
+T20 World Cup,2007,Super Eight,E,1,,India,3,2,1,0,0,4,0.75
+T20 World Cup,2007,Super Eight,E,2,,New Zealand,3,2,1,0,0,4,0.05
+T20 World Cup,2007,Super Eight,E,3,,South Africa,3,2,1,0,0,4,-0.116
+T20 World Cup,2007,Super Eight,E,4,,England,3,0,3,0,0,0,-0.7
+T20 World Cup,2007,Super Eight,F,1,,Pakistan,3,3,0,0,0,6,0.843
+T20 World Cup,2007,Super Eight,F,2,,Australia,3,2,1,0,0,4,2.256
+T20 World Cup,2007,Super Eight,F,3,,Sri Lanka,3,1,2,0,0,2,-0.697
+T20 World Cup,2007,Super Eight,F,4,,Bangladesh,3,0,3,0,0,0,-2.031
+T20 World Cup,2009,Group Stage,A,1,A1,India,2,2,0,0,0,4,1.227
+T20 World Cup,2009,Group Stage,A,2,A2,Ireland,2,1,1,0,0,2,-0.162
+T20 World Cup,2009,Group Stage,A,3,,Bangladesh,2,0,2,0,0,0,-0.966
+T20 World Cup,2009,Group Stage,B,1,B2,England,2,1,1,0,0,2,1.175
+T20 World Cup,2009,Group Stage,B,2,B1,Pakistan,2,1,1,0,0,2,0.85
+T20 World Cup,2009,Group Stage,B,3,,Netherlands,2,1,1,0,0,2,-2.025
+T20 World Cup,2009,Group Stage,C,1,C2,Sri Lanka,2,2,0,0,0,4,0.626
+T20 World Cup,2009,Group Stage,C,2,C1,West Indies,2,1,1,0,0,2,0.715
+T20 World Cup,2009,Group Stage,C,3,,Australia,2,0,2,0,0,0,-1.331
+T20 World Cup,2009,Group Stage,D,1,D2,South Africa,2,2,0,0,0,4,3.275
+T20 World Cup,2009,Group Stage,D,2,D1,New Zealand,2,1,1,0,0,2,0.309
+T20 World Cup,2009,Group Stage,D,3,,Scotland,2,0,2,0,0,0,-5.281
+T20 World Cup,2009,Super Eight,E,1,,South Africa,3,3,0,0,0,6,0.787
+T20 World Cup,2009,Super Eight,E,2,,West Indies,3,2,1,0,0,4,0.063
+T20 World Cup,2009,Super Eight,E,3,,England,3,1,2,0,0,2,-0.414
+T20 World Cup,2009,Super Eight,E,4,,India,3,0,3,0,0,0,-0.466
+T20 World Cup,2009,Super Eight,F,1,,Sri Lanka,3,3,0,0,0,6,1.267
+T20 World Cup,2009,Super Eight,F,2,,Pakistan,3,2,1,0,0,4,1.185
+T20 World Cup,2009,Super Eight,F,3,,New Zealand,3,1,2,0,0,2,-0.232
+T20 World Cup,2009,Super Eight,F,4,,Ireland,3,0,3,0,0,0,-2.183
+T20 World Cup,2010,Group Stage,A,1,A2,Australia,2,2,0,0,0,4,1.525
+T20 World Cup,2010,Group Stage,A,2,A1,Pakistan,2,1,1,0,0,2,-0.325
+T20 World Cup,2010,Group Stage,A,3,,Bangladesh,2,0,2,0,0,0,-1.2
+T20 World Cup,2010,Group Stage,B,1,B2,New Zealand,2,2,0,0,0,4,0.428
+T20 World Cup,2010,Group Stage,B,2,B1,Sri Lanka,2,1,1,0,0,2,0.355
+T20 World Cup,2010,Group Stage,B,3,,Zimbabwe,2,0,2,0,0,0,-1.595
+T20 World Cup,2010,Group Stage,C,1,C2,India,2,2,0,0,0,4,1.495
+T20 World Cup,2010,Group Stage,C,2,C1,South Africa,2,1,1,0,0,2,1.125
+T20 World Cup,2010,Group Stage,C,3,,Afghanistan,2,0,2,0,0,0,-2.446
+T20 World Cup,2010,Group Stage,D,1,D1,West Indies,2,2,0,0,0,4,2.78
+T20 World Cup,2010,Group Stage,D,2,D2,England,2,0,1,0,1,1,-0.452
+T20 World Cup,2010,Group Stage,D,3,,Ireland,2,0,1,0,1,1,-3.5
+T20 World Cup,2010,Super Eight,E,1,D2,England,3,3,0,0,0,6,0.962
+T20 World Cup,2010,Super Eight,E,2,A1,Pakistan,3,1,2,0,0,2,0.041
+T20 World Cup,2010,Super Eight,E,3,B2,New Zealand,3,1,2,0,0,2,-0.373
+T20 World Cup,2010,Super Eight,E,4,C1,South Africa,3,1,2,0,0,2,-0.617
+T20 World Cup,2010,Super Eight,F,1,A2,Australia,3,3,0,0,0,6,2.733
+T20 World Cup,2010,Super Eight,F,2,B1,Sri Lanka,3,2,1,0,0,4,-0.333
+T20 World Cup,2010,Super Eight,F,3,D1,West Indies,3,1,2,0,0,2,-1.281
+T20 World Cup,2010,Super Eight,F,4,C2,India,3,0,3,0,0,0,-1.117
+T20 World Cup,2012,Group Stage,A,1,A2,India,2,2,0,0,0,4,2.825
+T20 World Cup,2012,Group Stage,A,2,A1,England,2,1,1,0,0,2,0.65
+T20 World Cup,2012,Group Stage,A,3,,Afghanistan,2,0,2,0,0,0,-3.475
+T20 World Cup,2012,Group Stage,B,1,B1,Australia,2,2,0,0,0,4,2.184
+T20 World Cup,2012,Group Stage,B,2,B2,West Indies,2,0,1,0,1,1,-1.855
+T20 World Cup,2012,Group Stage,B,3,,Ireland,2,0,1,0,1,1,-2.092
+T20 World Cup,2012,Group Stage,C,1,C2,South Africa,2,2,0,0,0,4,3.598
+T20 World Cup,2012,Group Stage,C,2,C1,Sri Lanka,2,1,1,0,0,2,1.852
+T20 World Cup,2012,Group Stage,C,3,,Zimbabwe,2,0,2,0,0,0,-3.624
+T20 World Cup,2012,Group Stage,D,1,D1,Pakistan,2,2,0,0,0,4,0.706
+T20 World Cup,2012,Group Stage,D,2,D2,New Zealand,2,1,1,0,0,2,1.15
+T20 World Cup,2012,Group Stage,D,3,,Bangladesh,2,0,2,0,0,0,-1.868
+T20 World Cup,2012,Super Eight,E,1,,Sri Lanka,3,3,0,0,0,6,0.998
+T20 World Cup,2012,Super Eight,E,2,,West Indies,3,2,1,0,0,4,-0.375
+T20 World Cup,2012,Super Eight,E,3,,England,3,1,2,0,0,2,-0.397
+T20 World Cup,2012,Super Eight,E,4,,New Zealand,3,0,3,0,0,0,-0.169
+T20 World Cup,2012,Super Eight,F,1,,Australia,3,2,1,0,0,4,0.464
+T20 World Cup,2012,Super Eight,F,2,,Pakistan,3,2,1,0,0,4,0.273
+T20 World Cup,2012,Super Eight,F,3,,India,3,2,1,0,0,4,-0.274
+T20 World Cup,2012,Super Eight,F,4,,South Africa,3,0,3,0,0,0,-0.421
+T20 World Cup,2014,First Round,A,1,,Bangladesh,3,2,1,0,0,4,1.466
+T20 World Cup,2014,First Round,A,2,,Nepal,3,2,1,0,0,4,0.933
+T20 World Cup,2014,First Round,A,3,,Afghanistan,3,1,2,0,0,2,-0.981
+T20 World Cup,2014,First Round,A,4,,Hong Kong,3,1,2,0,0,2,-1.455
+T20 World Cup,2014,First Round,B,1,,Netherlands,3,2,1,0,0,4,1.109
+T20 World Cup,2014,First Round,B,2,,Zimbabwe,3,2,1,0,0,4,0.957
+T20 World Cup,2014,First Round,B,3,,Ireland,3,2,1,0,0,4,-0.701
+T20 World Cup,2014,First Round,B,4,,United Arab Emirates,3,0,3,0,0,0,-1.541
+T20 World Cup,2014,Super 10,Group 1,1,,Sri Lanka,4,3,1,0,0,6,2.233
+T20 World Cup,2014,Super 10,Group 1,2,,South Africa,4,3,1,0,0,6,0.075
+T20 World Cup,2014,Super 10,Group 1,3,,New Zealand,4,2,2,0,0,4,-0.678
+T20 World Cup,2014,Super 10,Group 1,4,,England,4,1,3,0,0,2,-0.776
+T20 World Cup,2014,Super 10,Group 1,5,,Netherlands,4,1,3,0,0,2,-0.866
+T20 World Cup,2014,Super 10,Group 2,1,,India,4,4,0,0,0,8,1.28
+T20 World Cup,2014,Super 10,Group 2,2,,West Indies,4,3,1,0,0,6,1.971
+T20 World Cup,2014,Super 10,Group 2,3,,Pakistan,4,2,2,0,0,4,-0.384
+T20 World Cup,2014,Super 10,Group 2,4,,Australia,4,1,3,0,0,2,-0.875
+T20 World Cup,2014,Super 10,Group 2,5,,Bangladesh,4,0,4,0,0,0,-2.072
+T20 World Cup,2016,First Round,A,1,,Bangladesh,3,2,0,0,1,5,1.938
+T20 World Cup,2016,First Round,A,2,,Netherlands,3,1,1,0,1,3,0.154
+T20 World Cup,2016,First Round,A,3,,Oman,3,1,1,0,1,3,-0.685
+T20 World Cup,2016,First Round,A,4,,Ireland,3,0,2,0,1,1,-0.685
+T20 World Cup,2016,First Round,B,1,,Afghanistan,3,3,0,0,0,6,1.54
+T20 World Cup,2016,First Round,B,2,,Zimbabwe,3,2,1,0,0,4,-0.567
+T20 World Cup,2016,First Round,B,3,,Scotland,3,1,2,0,0,2,-0.132
+T20 World Cup,2016,First Round,B,4,,Hong Kong,3,0,3,0,0,0,-1.017
+T20 World Cup,2016,Super 10,Group 1,1,,West Indies,4,3,1,0,0,6,0.359
+T20 World Cup,2016,Super 10,Group 1,2,,England,4,3,1,0,0,6,0.145
+T20 World Cup,2016,Super 10,Group 1,3,,South Africa,4,2,2,0,0,4,0.651
+T20 World Cup,2016,Super 10,Group 1,4,,Sri Lanka,4,1,3,0,0,2,-0.461
+T20 World Cup,2016,Super 10,Group 1,5,,Afghanistan,4,1,3,0,0,2,-0.715
+T20 World Cup,2016,Super 10,Group 2,1,,New Zealand,4,4,0,0,0,8,1.9
+T20 World Cup,2016,Super 10,Group 2,2,,India,4,3,1,0,0,6,-0.305
+T20 World Cup,2016,Super 10,Group 2,3,,Australia,4,2,2,0,0,4,0.233
+T20 World Cup,2016,Super 10,Group 2,4,,Pakistan,4,1,3,0,0,2,-0.093
+T20 World Cup,2016,Super 10,Group 2,5,,Bangladesh,4,0,4,0,0,0,-1.805
+T20 World Cup,2021,First Round,A,1,,Sri Lanka,3,3,0,0,0,6,3.754
+T20 World Cup,2021,First Round,A,2,,Namibia,3,2,1,0,0,4,-0.523
+T20 World Cup,2021,First Round,A,3,,Ireland,3,1,2,0,0,2,-0.853
+T20 World Cup,2021,First Round,A,4,,Netherlands,3,0,3,0,0,0,-2.46
+T20 World Cup,2021,First Round,B,1,,Scotland,3,3,0,0,0,6,0.775
+T20 World Cup,2021,First Round,B,2,,Bangladesh,3,2,1,0,0,4,1.733
+T20 World Cup,2021,First Round,B,3,,Oman,3,1,2,0,0,2,-0.025
+T20 World Cup,2021,First Round,B,4,,Papua New Guinea,3,0,3,0,0,0,-2.655
+T20 World Cup,2021,Super 12,Group 1,1,,England,5,4,1,0,0,8,2.464
+T20 World Cup,2021,Super 12,Group 1,2,,Australia,5,4,1,0,0,8,1.216
+T20 World Cup,2021,Super 12,Group 1,3,,South Africa,5,4,1,0,0,8,0.739
+T20 World Cup,2021,Super 12,Group 1,4,,Sri Lanka,5,2,3,0,0,4,-0.269
+T20 World Cup,2021,Super 12,Group 1,5,,West Indies,5,1,4,0,0,2,-1.641
+T20 World Cup,2021,Super 12,Group 1,6,,Bangladesh,5,0,5,0,0,0,-2.383
+T20 World Cup,2021,Super 12,Group 2,1,,Pakistan,5,5,0,0,0,10,1.583
+T20 World Cup,2021,Super 12,Group 2,2,,New Zealand,5,4,1,0,0,8,1.162
+T20 World Cup,2021,Super 12,Group 2,3,,India,5,3,2,0,0,6,1.747
+T20 World Cup,2021,Super 12,Group 2,4,,Afghanistan,5,2,3,0,0,4,1.053
+T20 World Cup,2021,Super 12,Group 2,5,,Namibia,5,1,4,0,0,2,-1.89
+T20 World Cup,2021,Super 12,Group 2,6,,Scotland,5,0,5,0,0,0,-3.543
+T20 World Cup,2022,First Round,A,1,,Sri Lanka,3,2,1,0,0,4,0.667
+T20 World Cup,2022,First Round,A,2,,Netherlands,3,2,1,0,0,4,-0.162
+T20 World Cup,2022,First Round,A,3,,Namibia,3,1,2,0,0,2,0.73
+T20 World Cup,2022,First Round,A,4,,United Arab Emirates,3,1,2,0,0,2,-1.235
+T20 World Cup,2022,First Round,B,1,,Zimbabwe,3,2,1,0,0,4,0.2
+T20 World Cup,2022,First Round,B,2,,Ireland,3,2,1,0,0,4,0.105
+T20 World Cup,2022,First Round,B,3,,Scotland,3,1,2,0,0,2,0.304
+T20 World Cup,2022,First Round,B,4,,West Indies,3,1,2,0,0,2,-0.563
+T20 World Cup,2022,Super 12,Group 1,1,,New Zealand,5,3,1,1,0,7,2.113
+T20 World Cup,2022,Super 12,Group 1,2,,England,5,3,1,1,0,7,0.473
+T20 World Cup,2022,Super 12,Group 1,3,,Australia,5,3,1,1,0,7,-0.173
+T20 World Cup,2022,Super 12,Group 1,4,,Sri Lanka,5,2,3,0,0,4,-0.422
+T20 World Cup,2022,Super 12,Group 1,5,,Ireland,5,1,3,1,0,3,-1.615
+T20 World Cup,2022,Super 12,Group 1,6,,Afghanistan,5,0,3,2,0,2,-0.571
+T20 World Cup,2022,Super 12,Group 2,1,,India,5,4,1,0,0,8,1.319
+T20 World Cup,2022,Super 12,Group 2,2,,Pakistan,5,3,2,0,0,6,1.028
+T20 World Cup,2022,Super 12,Group 2,3,,South Africa,5,2,2,1,0,5,0.874
+T20 World Cup,2022,Super 12,Group 2,4,,Netherlands,5,2,3,0,0,4,-0.849
+T20 World Cup,2022,Super 12,Group 2,5,,Bangladesh,5,2,3,0,0,4,-1.176
+T20 World Cup,2022,Super 12,Group 2,6,,Zimbabwe,5,1,3,1,0,3,-1.138
+T20 World Cup,2024,Group Stage,A,1,,India,4,3,0,0,1,7,1.137
+T20 World Cup,2024,Group Stage,A,2,,United States,4,2,1,0,1,5,0.127
+T20 World Cup,2024,Group Stage,A,3,,Pakistan,4,2,2,0,0,4,0.294
+T20 World Cup,2024,Group Stage,A,4,,Canada,4,1,2,0,1,3,-0.493
+T20 World Cup,2024,Group Stage,A,5,,Ireland,4,0,3,0,1,1,-1.293
+T20 World Cup,2024,Group Stage,B,1,,Australia,4,4,0,0,0,8,2.791
+T20 World Cup,2024,Group Stage,B,2,,England,4,2,1,0,1,5,3.611
+T20 World Cup,2024,Group Stage,B,3,,Scotland,4,2,1,0,1,5,1.255
+T20 World Cup,2024,Group Stage,B,4,,Namibia,4,1,3,0,0,2,-2.585
+T20 World Cup,2024,Group Stage,B,5,,Oman,4,0,4,0,0,0,-3.062
+T20 World Cup,2024,Group Stage,C,1,,West Indies,4,4,0,0,0,8,3.257
+T20 World Cup,2024,Group Stage,C,2,,Afghanistan,4,3,1,0,0,6,1.835
+T20 World Cup,2024,Group Stage,C,3,,New Zealand,4,2,2,0,0,4,0.415
+T20 World Cup,2024,Group Stage,C,4,,Uganda,4,1,3,0,0,2,-4.51
+T20 World Cup,2024,Group Stage,C,5,,Papua New Guinea,4,0,4,0,0,0,-1.268
+T20 World Cup,2024,Group Stage,D,1,,South Africa,4,4,0,0,0,8,0.47
+T20 World Cup,2024,Group Stage,D,2,,Bangladesh,4,3,1,0,0,6,0.616
+T20 World Cup,2024,Group Stage,D,3,,Sri Lanka,4,1,2,0,1,3,0.863
+T20 World Cup,2024,Group Stage,D,4,,Netherlands,4,1,3,0,0,2,-1.358
+T20 World Cup,2024,Group Stage,D,5,,Nepal,4,0,3,0,1,1,-0.542
+T20 World Cup,2024,Super 8,Group 1,1,,India,3,3,0,0,0,6,2.017
+T20 World Cup,2024,Super 8,Group 1,2,,Afghanistan,3,2,1,0,0,4,-0.305
+T20 World Cup,2024,Super 8,Group 1,3,,Australia,3,1,2,0,0,2,-0.331
+T20 World Cup,2024,Super 8,Group 1,4,,Bangladesh,3,0,3,0,0,0,-1.709
+T20 World Cup,2024,Super 8,Group 2,1,,South Africa,3,3,0,0,0,6,0.599
+T20 World Cup,2024,Super 8,Group 2,2,,England,3,2,1,0,0,4,1.992
+T20 World Cup,2024,Super 8,Group 2,3,,West Indies,3,1,2,0,0,2,0.963
+T20 World Cup,2024,Super 8,Group 2,4,,United States,3,0,3,0,0,0,-3.906

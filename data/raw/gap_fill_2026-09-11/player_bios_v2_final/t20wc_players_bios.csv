@@ -1,0 +1,959 @@
+Tournament,Player_Name,Team,Nationality,DOB,Right_Arm_Bowl,Right_Handed_Bat,Bowling_Style,Matched
+T20 World Cup,Nawroz Mangal,Afghanistan,Afghan,1984-07-15,False,True,,True
+T20 World Cup,Asghar Afghan,Afghanistan,Afghan,1987-12-26,True,True,MEDIUM_SEAM,True
+T20 World Cup,Karim Sadiq,Afghanistan,Afghan,1984-01-05,False,True,,True
+T20 World Cup,Mohammad Shahzad,Afghanistan,Afghan,1987-01-10,True,True,,True
+T20 World Cup,Noor Ali Zadran,Afghanistan,Afghan,1988-07-10,True,True,MEDIUM_SEAM,True
+T20 World Cup,Raees Ahmadzai,Afghanistan,,,,,,False
+T20 World Cup,Shabir Noori,Afghanistan,Afghan,1992-02-22,False,True,,True
+T20 World Cup,Shafiqullah,Afghanistan,Afghan,1989-08-07,False,True,,True
+T20 World Cup,Mohammad Nabi,Afghanistan,Afghan,1985-01-01,True,True,OFF_SPIN,True
+T20 World Cup,Samiullah Shinwari,Afghanistan,Afghan,1987-12-31,True,True,LEG_SPIN,True
+T20 World Cup,Dawlat Ahmadzai,Afghanistan,,,,,,False
+T20 World Cup,Hamid Hassan,Afghanistan,Afghan,1987-06-01,True,True,FAST_SEAM,True
+T20 World Cup,Mirwais Ashraf,Afghanistan,Afghan,1988-09-04,False,True,,True
+T20 World Cup,Shapoor Zadran,Afghanistan,Afghan,1987-07-08,False,False,FAST_SEAM,True
+T20 World Cup,Sayed Nasratullah,Afghanistan,,,,,,False
+T20 World Cup,Javed Ahmadi,Afghanistan,Afghan,1992-01-02,True,True,OFF_SPIN,True
+T20 World Cup,Najibullah Zadran,Afghanistan,Afghan,1993-02-28,True,False,OFF_SPIN,True
+T20 World Cup,Gulbadin Naib,Afghanistan,Afghan,1991-03-16,True,True,MEDIUM_SEAM,True
+T20 World Cup,Dawlat Zadran,Afghanistan,Afghan,1988-03-19,True,True,FAST_SEAM,True
+T20 World Cup,Izatullah Dawlatzai,Afghanistan,,,True,True,,True
+T20 World Cup,Mohammad Nasim Baras,Afghanistan,,,,,,False
+T20 World Cup,Najeeb Tarakai,Afghanistan,Afghan,1991-02-02,True,True,OFF_SPIN,True
+T20 World Cup,Amir Hamza,Afghanistan,Afghan,1991-08-15,False,True,,True
+T20 World Cup,Aftab Alam,Afghanistan,Afghan,1992-11-30,True,True,MEDIUM_SEAM,True
+T20 World Cup,Usman Ghani,Afghanistan,Afghan,1996-11-20,False,True,,True
+T20 World Cup,Rashid Khan,Afghanistan,Pakistani,1959-12-15,False,True,,True
+T20 World Cup,Hashmatullah Shahidi,Afghanistan,Afghan,1994-11-04,True,False,OFF_SPIN,True
+T20 World Cup,Hazratullah Zazai,Afghanistan,Afghan,1998-03-23,False,False,ORTHODOX,True
+T20 World Cup,Rahmanullah Gurbaz,Afghanistan,Afghan,2001-11-28,True,True,MEDIUM_SEAM,True
+T20 World Cup,Karim Janat,Afghanistan,Afghan,1998-08-11,False,True,,True
+T20 World Cup,Sharafuddin Ashraf,Afghanistan,Afghan,1995-01-10,False,True,ORTHODOX,True
+T20 World Cup,Fareed Ahmad,Afghanistan,Afghan,1994-08-10,False,False,,True
+T20 World Cup,Mujeeb Ur Rahman,Afghanistan,Afghan,2001-03-28,True,True,OFF_SPIN,True
+T20 World Cup,Naveen-ul-Haq,Afghanistan,Afghan,1999-09-23,True,True,MEDIUM_SEAM,True
+T20 World Cup,Darwish Rasooli,Afghanistan,,,,,,False
+T20 World Cup,Ibrahim Zadran,Afghanistan,Afghan,2001-12-12,True,True,MEDIUM_SEAM,True
+T20 World Cup,Azmatullah Omarzai,Afghanistan,,2000-03-24,,True,Right-arm medium fast,True
+T20 World Cup,Fazalhaq Farooqi,Afghanistan,,2000-09-22,,True,Left-arm fast medium,True
+T20 World Cup,Mohammad Saleem,Afghanistan,,2002-09-09,,True,Right-arm fast,True
+T20 World Cup,Qais Ahmad,Afghanistan,,,,,,False
+T20 World Cup,Mohammad Ishaq,Afghanistan,Pakistani,1963-03-07,False,True,,True
+T20 World Cup,Nangeyalia Kharote,Afghanistan,,,,,,False
+T20 World Cup,Noor Ahmad,Afghanistan,,2005-01-03,,False,Left-arm unorthodox spin,True
+T20 World Cup,Adam Gilchrist,Australia,Australian,1971-11-14,True,False,OFF_SPIN,True
+T20 World Cup,Michael Clarke,Australia,Australian,1981-04-02,False,True,ORTHODOX,True
+T20 World Cup,Brad Haddin,Australia,Australian,1977-10-23,False,True,,True
+T20 World Cup,Matthew Hayden,Australia,Australian,1971-10-29,True,False,MEDIUM_SEAM,True
+T20 World Cup,Brad Hodge,Australia,Australian,1974-12-29,False,False,,True
+T20 World Cup,Michael Hussey,Australia,Australian,1975-05-27,True,False,MEDIUM_SEAM,True
+T20 World Cup,Brad Hogg,Australia,Australian,1971-02-06,False,False,,True
+T20 World Cup,Andrew Symonds,Australia,Australian,1975-06-09,True,True,MEDIUM_SEAM,True
+T20 World Cup,Nathan Bracken,Australia,Australian,1977-09-12,False,True,FAST_SEAM,True
+T20 World Cup,Stuart Clark,Australia,Australian,1975-09-28,False,True,,True
+T20 World Cup,Ben Hilfenhaus,Australia,,,,,,False
+T20 World Cup,Mitchell Johnson,Australia,Australian,1981-11-02,False,False,FAST_SEAM,True
+T20 World Cup,Brett Lee,Australia,Australian,1976-11-08,True,True,FAST_SEAM,True
+T20 World Cup,Ricky Ponting,Australia,Australian,1974-12-19,True,True,MEDIUM_SEAM,True
+T20 World Cup,David Warner,Australia,Australian,1986-10-27,True,False,LEG_SPIN,True
+T20 World Cup,Cameron White,Australia,Australian,1983-08-18,False,False,,True
+T20 World Cup,James Hopes,Australia,,,,,,False
+T20 World Cup,David Hussey,Australia,Australian,1977-07-15,False,False,,True
+T20 World Cup,Shane Watson,Australia,Australian,1981-06-17,True,True,MEDIUM_SEAM,True
+T20 World Cup,Nathan Hauritz,Australia,,,,,,False
+T20 World Cup,Peter Siddle,Australia,Australian,1984-11-25,True,True,FAST_SEAM,True
+T20 World Cup,Tim Paine,Australia,Australian,1984-12-08,True,True,MEDIUM_SEAM,True
+T20 World Cup,Steven Smith,Australia,Australian,1989-06-02,True,True,LEG_SPIN,True
+T20 World Cup,Dan Christian,Australia,Australian,1983-05-04,True,True,MEDIUM_SEAM,True
+T20 World Cup,Ryan Harris,Australia,,,,,,False
+T20 World Cup,Dirk Nannes,Australia,,,,,,False
+T20 World Cup,Shaun Tait,Australia,Australian,1983-02-22,False,False,,True
+T20 World Cup,George Bailey,Australia,Australian,1982-09-07,False,False,,True
+T20 World Cup,Matthew Wade,Australia,Australian,1987-12-26,True,False,MEDIUM_SEAM,True
+T20 World Cup,Glenn Maxwell,Australia,Australian,1988-10-14,True,True,OFF_SPIN,True
+T20 World Cup,Pat Cummins,Australia,Australian,1993-05-08,True,True,FAST_SEAM,True
+T20 World Cup,Xavier Doherty,Australia,Australian,1982-11-22,False,True,,True
+T20 World Cup,Clint McKay,Australia,Australian,1983-02-22,False,True,,True
+T20 World Cup,Mitchell Starc,Australia,Australian,1990-01-30,False,False,FAST_SEAM,True
+T20 World Cup,Aaron Finch,Australia,Australian,1986-11-17,False,True,ORTHODOX,True
+T20 World Cup,Nathan Coulter-Nile,Australia,Australian,1987-10-11,True,True,FAST_SEAM,True
+T20 World Cup,James Faulkner,Australia,Australian,1990-04-29,False,True,,True
+T20 World Cup,Doug Bollinger,Australia,,,,,,False
+T20 World Cup,James Muirhead,Australia,,,,,,False
+T20 World Cup,Usman Khawaja,Australia,Australian,1986-12-18,True,False,MEDIUM_SEAM,True
+T20 World Cup,Peter Nevill,Australia,,,,,,False
+T20 World Cup,John Hastings,Australia,Australian,1985-11-04,False,True,,True
+T20 World Cup,Mitchell Marsh,Australia,Australian,1991-10-20,True,True,MEDIUM_SEAM,True
+T20 World Cup,Ashton Agar,Australia,Australian,1993-10-14,False,False,ORTHODOX,True
+T20 World Cup,Josh Hazlewood,Australia,Australian,1991-01-08,True,False,FAST_SEAM,True
+T20 World Cup,Andrew Tye,Australia,Australian,1986-12-12,True,True,MEDIUM_SEAM,True
+T20 World Cup,Adam Zampa,Australia,Australian,1992-03-31,True,True,LEG_SPIN,True
+T20 World Cup,Josh Inglis,Australia,,1995-03-04,,True,,True
+T20 World Cup,Daniel Sams,Australia,,,,,,False
+T20 World Cup,Marcus Stoinis,Australia,Australian,1989-08-16,True,True,MEDIUM_SEAM,True
+T20 World Cup,Nathan Ellis,Australia,,1994-09-22,,True,Right-arm fast medium,True
+T20 World Cup,Kane Richardson,Australia,Australian,1991-02-12,True,True,FAST_SEAM,True
+T20 World Cup,Mitchell Swepson,Australia,,,,,,False
+T20 World Cup,Tim David,Australia,,1996-03-16,,True,Right-arm off break,True
+T20 World Cup,Cameron Green,Australia,,1999-06-03,True,True,FAST_SEAM,True
+T20 World Cup,Travis Head,Australia,Australian,1993-12-29,True,False,OFF_SPIN,True
+T20 World Cup,Mohammad Ashraful,Bangladesh,Bangladeshi,1984-07-07,False,True,,True
+T20 World Cup,Aftab Ahmed,Bangladesh,Bangladeshi,1985-11-10,False,True,,True
+T20 World Cup,Zunaed Siddique,Bangladesh,,,,,,False
+T20 World Cup,Mushfiqur Rahim,Bangladesh,Bangladeshi,1987-05-09,True,True,,True
+T20 World Cup,Nadif Chowdhury,Bangladesh,,,,,,False
+T20 World Cup,Nazimuddin,Bangladesh,,,,,,False
+T20 World Cup,Tamim Iqbal,Bangladesh,Bangladeshi,1989-03-20,False,False,,True
+T20 World Cup,Alok Kapali,Bangladesh,Bangladeshi,1984-01-01,False,True,,True
+T20 World Cup,Farhad Reza,Bangladesh,,,,,,False
+T20 World Cup,Mahmudullah,Bangladesh,BD,1986-02-04,True,True,,True
+T20 World Cup,Shakib Al Hasan,Bangladesh,Bangladeshi,1987-03-24,False,False,ORTHODOX,True
+T20 World Cup,Ziaur Rahman,Bangladesh,Bangladeshi,2012-08-16,False,True,,True
+T20 World Cup,Mashrafe Mortaza,Bangladesh,Bangladeshi,1983-10-05,True,True,FAST_SEAM,True
+T20 World Cup,Abdur Razzak,Bangladesh,Bangladeshi,1982-06-15,False,False,ORTHODOX,True
+T20 World Cup,Syed Rasel,Bangladesh,Bangladeshi,1984-07-03,False,True,,True
+T20 World Cup,Mohammad Mithun,Bangladesh,Bangladeshi,1991-03-02,True,True,,True
+T20 World Cup,Raqibul Hasan,Bangladesh,Bangladeshi,1987-10-08,False,True,,True
+T20 World Cup,Shamsur Rahman,Bangladesh,Bangladeshi,1988-06-05,False,True,,True
+T20 World Cup,Naeem Islam,Bangladesh,Bangladeshi,1986-12-31,False,True,,True
+T20 World Cup,Rubel Hossain,Bangladesh,Bangladeshi,1990-01-01,True,True,FAST_SEAM,True
+T20 World Cup,Shahadat Hossain,Bangladesh,Bangladeshi,1986-08-07,False,True,,True
+T20 World Cup,Imrul Kayes,Bangladesh,Bangladeshi,1987-02-02,False,False,ORTHODOX,True
+T20 World Cup,Jahurul Islam,Bangladesh,Bangladeshi,2012-08-16,False,True,,True
+T20 World Cup,Shafiul Islam,Bangladesh,Bangladeshi,1989-10-06,True,True,FAST_SEAM,True
+T20 World Cup,Sohrawordi Shuvo,Bangladesh,,,,,,False
+T20 World Cup,Nasir Hossain,Bangladesh,Bangladeshi,1991-11-30,False,True,,True
+T20 World Cup,Abul Hasan,Bangladesh,Bangladeshi,1992-08-05,True,False,MEDIUM_SEAM,True
+T20 World Cup,Elias Sunny,Bangladesh,,,,,,False
+T20 World Cup,Anamul Haque,Bangladesh,Bangladeshi,1993-12-16,True,True,,True
+T20 World Cup,Mominul Haque,Bangladesh,Bangladeshi,1991-09-29,False,False,ORTHODOX,True
+T20 World Cup,Sabbir Rahman,Bangladesh,Bangladeshi,1991-11-22,True,True,LEG_SPIN,True
+T20 World Cup,Al-Amin Hossain,Bangladesh,Bangladeshi,1990-01-01,True,True,MEDIUM_SEAM,True
+T20 World Cup,Sohag Gazi,Bangladesh,Bangladeshi,1991-08-05,False,True,,True
+T20 World Cup,Taskin Ahmed,Bangladesh,BD,1995-04-03,True,False,FAST_SEAM,True
+T20 World Cup,Nurul Hasan,Bangladesh,Bangladeshi,1993-11-21,False,True,,True
+T20 World Cup,Shuvagata Hom,Bangladesh,,,,,,False
+T20 World Cup,Soumya Sarkar,Bangladesh,Bangladeshi,1993-02-25,True,False,MEDIUM_SEAM,True
+T20 World Cup,Abu Hider,Bangladesh,Bangladeshi,1996-02-14,False,True,,True
+T20 World Cup,Mustafizur Rahman,Bangladesh,Bangladeshi,1995-09-06,False,False,FAST_SEAM,True
+T20 World Cup,Saqlain Sajib,Bangladesh,,,,,,False
+T20 World Cup,Litton Das,Bangladesh,Bangladeshi,1994-10-13,True,True,,True
+T20 World Cup,Mohammad Naim,Bangladesh,Bangladeshi,1999-08-22,False,False,,True
+T20 World Cup,Afif Hossain,Bangladesh,Bangladeshi,1999-09-22,True,False,OFF_SPIN,True
+T20 World Cup,Mahedi Hasan,Bangladesh,Bangladeshi,1994-12-12,True,True,OFF_SPIN,True
+T20 World Cup,Shamim Hossain,Bangladesh,,,,,,False
+T20 World Cup,Nasum Ahmed,Bangladesh,,,,,,False
+T20 World Cup,Shoriful Islam,Bangladesh,Bangladeshi,2001-06-03,False,False,FAST_SEAM,True
+T20 World Cup,Mosaddek Hossain,Bangladesh,Bangladeshi,1995-12-10,True,True,OFF_SPIN,True
+T20 World Cup,Najmul Hossain Shanto,Bangladesh,Bangladeshi,1998-08-25,True,False,OFF_SPIN,True
+T20 World Cup,Yasir Ali,Bangladesh,Bangladeshi,1996-03-06,True,True,,True
+T20 World Cup,Mehidy Hasan Miraz,Bangladesh,,,,,,False
+T20 World Cup,Ebadot Hossain,Bangladesh,,,,,,False
+T20 World Cup,Hasan Mahmud,Bangladesh,Bangladeshi,1999-10-12,True,True,MEDIUM_SEAM,True
+T20 World Cup,Jaker Ali,Bangladesh,,1998-02-22,,True,,True
+T20 World Cup,Tanzid Hasan,Bangladesh,,2000-12-01,,False,,True
+T20 World Cup,Towhid Hridoy,Bangladesh,,2000-12-04,,True,Right-arm off break,True
+T20 World Cup,Rishad Hossain,Bangladesh,,2002-07-15,,True,Right-arm leg break,True
+T20 World Cup,Tanvir Islam,Bangladesh,,1996-10-25,,False,Slow left-arm orthodox,True
+T20 World Cup,Tanzim Hasan Sakib,Bangladesh,,2002-10-20,,True,Right-arm fast medium,True
+T20 World Cup,Navneet Dhaliwal,Canada,,1988-10-10,,True,Right-arm medium,True
+T20 World Cup,Aaron Johnson,Canada,CA,1991-03-16,True,True,,True
+T20 World Cup,Shreyas Movva,Canada,,1993-09-04,,True,,True
+T20 World Cup,Ravinderpal Singh,Canada,CA,1988-10-14,True,True,,True
+T20 World Cup,Saad Bin Zafar,Canada,CA,1986-11-10,False,False,,True
+T20 World Cup,Dilpreet Bajwa,Canada,,2001-01-04,,True,Right-arm off break,True
+T20 World Cup,Junaid Siddiqui,Canada,Bangladeshi,1987-10-30,False,False,,True
+T20 World Cup,Nicholas Kirton,Canada,CA,1998-05-06,True,False,MEDIUM_SEAM,True
+T20 World Cup,Pargat Singh,Canada,CA,1992-04-13,True,True,,True
+T20 World Cup,Rayyan Pathan,Canada,,1991-12-06,,True,Right-arm medium,True
+T20 World Cup,Nikhil Dutta,Canada,CA,1994-10-13,True,True,,True
+T20 World Cup,Jeremy Gordon,Canada,CA,1987-01-20,True,True,,True
+T20 World Cup,Dilon Heyliger,Canada,,,,,,False
+T20 World Cup,Rishiv Joshi,Canada,,2000-10-04,,True,Left-arm medium fast,True
+T20 World Cup,Kaleem Sana,Canada,CA,1994-01-01,False,True,,True
+T20 World Cup,Kevin Pietersen,England,English,1980-06-27,True,True,OFF_SPIN,True
+T20 World Cup,Matt Prior,England,English,1982-02-26,False,True,,True
+T20 World Cup,Owais Shah,England,,,,,,False
+T20 World Cup,Vikram Solanki,England,,,,,,False
+T20 World Cup,Luke Wright,England,English,1985-03-07,False,False,,True
+T20 World Cup,Paul Collingwood,England,English,1976-05-26,True,True,MEDIUM_SEAM,True
+T20 World Cup,Andrew Flintoff,England,English,1977-12-06,True,True,FAST_SEAM,True
+T20 World Cup,Darren Maddy,England,,,,,,False
+T20 World Cup,Dimitri Mascarenhas,England,,,,,,False
+T20 World Cup,Chris Schofield,England,,,,,,False
+T20 World Cup,James Anderson,England,English,1982-07-30,True,False,FAST_SEAM,True
+T20 World Cup,Stuart Broad,England,English,1986-06-24,True,False,FAST_SEAM,True
+T20 World Cup,James Kirtley,England,,,,,,False
+T20 World Cup,Jeremy Snape,England,,,,,,False
+T20 World Cup,Chris Tremlett,England,English,1981-09-02,False,True,,True
+T20 World Cup,James Foster,England,,,,,,False
+T20 World Cup,Rob Key,England,,,,,,False
+T20 World Cup,Eoin Morgan,England,ENG,1986-09-10,True,False,MEDIUM_SEAM,True
+T20 World Cup,Ravi Bopara,England,English,1985-05-04,False,True,,True
+T20 World Cup,Graham Napier,England,,,,,,False
+T20 World Cup,Adil Rashid,England,English,1988-02-17,True,True,LEG_SPIN,True
+T20 World Cup,Ryan Sidebottom,England,,,,,,False
+T20 World Cup,Graeme Swann,England,English,1979-03-24,True,True,OFF_SPIN,True
+T20 World Cup,Craig Kieswetter,England,English,1987-11-28,False,True,,True
+T20 World Cup,Michael Lumb,England,English,1980-12-02,False,True,,True
+T20 World Cup,Tim Bresnan,England,English,1985-02-28,False,True,,True
+T20 World Cup,James Tredwell,England,English,1982-02-27,False,False,,True
+T20 World Cup,Michael Yardy,England,English,1980-11-27,False,True,,True
+T20 World Cup,Ajmal Shahzad,England,English,1985-07-27,False,True,,True
+T20 World Cup,Jonny Bairstow,England,English,1989-09-26,True,True,MEDIUM_SEAM,True
+T20 World Cup,Jos Buttler,England,English,1990-09-08,True,True,,True
+T20 World Cup,Alex Hales,England,English,1989-01-03,True,True,MEDIUM_SEAM,True
+T20 World Cup,Samit Patel,England,English,1984-11-30,False,True,,True
+T20 World Cup,Danny Briggs,England,,,,,,False
+T20 World Cup,Jade Dernbach,England,English,1986-04-03,False,True,,True
+T20 World Cup,Steven Finn,England,English,1989-04-04,False,True,,True
+T20 World Cup,Ian Bell,England,English,1982-04-11,True,True,MEDIUM_SEAM,True
+T20 World Cup,Moeen Ali,England,English,1987-06-18,True,False,OFF_SPIN,True
+T20 World Cup,Chris Woakes,England,English,1989-03-02,True,True,FAST_SEAM,True
+T20 World Cup,Chris Jordan,England,English,1988-10-04,True,True,FAST_SEAM,True
+T20 World Cup,Stephen Parry,England,English,1986-01-12,False,True,,True
+T20 World Cup,Sam Billings,England,English,1991-06-15,True,True,,True
+T20 World Cup,Joe Root,England,English,1990-12-30,True,True,OFF_SPIN,True
+T20 World Cup,Jason Roy,England,English,1990-07-21,True,True,,True
+T20 World Cup,James Vince,England,English,1991-03-14,True,True,MEDIUM_SEAM,True
+T20 World Cup,Liam Dawson,England,English,1990-03-01,False,True,,True
+T20 World Cup,Ben Stokes,England,English,1991-06-04,True,False,FAST_SEAM,True
+T20 World Cup,David Willey,England,English,1990-02-28,False,False,FAST_SEAM,True
+T20 World Cup,Liam Plunkett,England,English,1985-04-06,True,True,FAST_SEAM,True
+T20 World Cup,Reece Topley,England,English,1994-02-21,False,True,,True
+T20 World Cup,Dawid Malan,England,English,1987-09-03,True,False,LEG_SPIN,True
+T20 World Cup,Tom Curran,England,English,1995-03-12,True,True,FAST_SEAM,True
+T20 World Cup,Liam Livingstone,England,English,1993-08-04,True,True,LEG_SPIN,True
+T20 World Cup,Mark Wood,England,English,1990-01-11,True,True,FAST_SEAM,True
+T20 World Cup,Harry Brook,England,,1999-02-22,,True,Right-arm medium,True
+T20 World Cup,Phil Salt,England,,,True,True,,True
+T20 World Cup,Sam Curran,England,English,1998-06-03,False,False,MEDIUM_SEAM,True
+T20 World Cup,Tymal Mills,England,,,,,,False
+T20 World Cup,Ben Duckett,England,English,1994-10-17,False,False,,True
+T20 World Cup,Will Jacks,England,,1998-11-21,,True,Right-arm off spin,True
+T20 World Cup,Jofra Archer,England,English,1995-04-01,True,True,FAST_SEAM,True
+T20 World Cup,Tom Hartley,England,,1999-05-03,,False,Slow left-arm orthodox,True
+T20 World Cup,Jamie Atkinson,Hong Kong,Hong Konger,1990-08-13,False,True,,True
+T20 World Cup,Waqas Barkat,Hong Kong,Hong Konger,1990-02-17,False,True,,True
+T20 World Cup,Babar Hayat,Hong Kong,Hong Konger,1992-01-05,False,True,,True
+T20 World Cup,Kinchit Shah,Hong Kong,Hong Konger,1995-12-09,False,False,,True
+T20 World Cup,Aizaz Khan,Hong Kong,Hong Konger,1993-03-21,False,True,,True
+T20 World Cup,Mark Chapman,Hong Kong,New Zealander,1994-06-27,False,False,ORTHODOX,True
+T20 World Cup,Irfan Ahmed,Hong Kong,,,,,,False
+T20 World Cup,Roy Lamsam,Hong Kong,,,,,,False
+T20 World Cup,Munir Dar,Hong Kong,,,,,,False
+T20 World Cup,Najeeb Amar,Hong Kong,,,,,,False
+T20 World Cup,Nizakat Khan,Hong Kong,Hong Konger,1992-07-08,False,True,,True
+T20 World Cup,Tanwir Afzal,Hong Kong,Hong Konger,1988-06-12,False,True,,True
+T20 World Cup,Ehsan Nawaz,Hong Kong,Hong Konger,1995-03-21,False,True,,True
+T20 World Cup,Haseeb Amjad,Hong Kong,,,,,,False
+T20 World Cup,Nadeem Ahmed,Hong Kong,Hong Konger,1987-09-28,False,True,,True
+T20 World Cup,Waqas Khan,Hong Kong,Hong Konger,1999-10-10,False,True,,True
+T20 World Cup,Anshy Rath,Hong Kong,Hong Konger,1997-11-05,False,False,ORTHODOX,True
+T20 World Cup,Ryan Campbell,Hong Kong,,,,,,False
+T20 World Cup,Christopher Carter,Hong Kong,Hong Konger,1997-09-09,False,True,,True
+T20 World Cup,Adil Mehmood,Hong Kong,,,,,,False
+T20 World Cup,MS Dhoni,India,Indian,1981-07-07,True,True,MEDIUM_SEAM,True
+T20 World Cup,Yuvraj Singh,India,Indian,1981-12-12,False,False,ORTHODOX,True
+T20 World Cup,Gautam Gambhir,India,Indian,1981-10-14,True,False,LEG_SPIN,True
+T20 World Cup,Dinesh Karthik,India,Indian,1985-06-01,True,True,OFF_SPIN,True
+T20 World Cup,Virender Sehwag,India,Indian,1978-10-20,True,True,OFF_SPIN,True
+T20 World Cup,Rohit Sharma,India,Indian,1987-04-30,True,True,OFF_SPIN,True
+T20 World Cup,Robin Uthappa,India,Indian,1985-11-11,True,True,,True
+T20 World Cup,Piyush Chawla,India,Indian,1988-12-24,True,False,LEG_SPIN,True
+T20 World Cup,Joginder Sharma,India,,,,,,False
+T20 World Cup,Yusuf Pathan,India,Indian,1982-11-17,False,True,,True
+T20 World Cup,Irfan Pathan,India,,,,,,False
+T20 World Cup,Ajit Agarkar,India,Indian,1977-12-04,True,True,FAST_SEAM,True
+T20 World Cup,Harbhajan Singh,India,Indian,1980-07-03,True,True,OFF_SPIN,True
+T20 World Cup,RP Singh,India,,,,,,False
+T20 World Cup,Sreesanth,India,,,,,,False
+T20 World Cup,Suresh Raina,India,Indian,1986-11-27,True,False,OFF_SPIN,True
+T20 World Cup,Ravindra Jadeja,India,Indian,1988-12-06,False,False,ORTHODOX,True
+T20 World Cup,Zaheer Khan,India,Indian,1978-10-07,False,True,FAST_SEAM,True
+T20 World Cup,Praveen Kumar,India,,,,,,False
+T20 World Cup,Pragyan Ojha,India,,,,,,False
+T20 World Cup,Ishant Sharma,India,Indian,1988-09-02,True,True,FAST_SEAM,True
+T20 World Cup,Murali Vijay,India,Indian,1984-04-01,False,False,,True
+T20 World Cup,Ashish Nehra,India,Indian,1979-04-29,False,True,MEDIUM_SEAM,True
+T20 World Cup,Vinay Kumar,India,Indian,1984-02-12,True,True,,True
+T20 World Cup,Umesh Yadav,India,Indian,1987-10-25,True,True,FAST_SEAM,True
+T20 World Cup,Virat Kohli,India,Indian,1988-11-05,True,True,MEDIUM_SEAM,True
+T20 World Cup,Manoj Tiwary,India,Indian,1985-11-14,True,True,,True
+T20 World Cup,Ravichandran Ashwin,India,Indian,1986-09-17,True,True,OFF_SPIN,True
+T20 World Cup,Lakshmipathy Balaji,India,,,,,,False
+T20 World Cup,Ashok Dinda,India,Indian,1984-03-25,True,True,,True
+T20 World Cup,Shikhar Dhawan,India,Indian,1985-12-05,True,False,OFF_SPIN,True
+T20 World Cup,Ajinkya Rahane,India,Indian,1988-06-06,True,True,MEDIUM_SEAM,True
+T20 World Cup,Stuart Binny,India,Indian,1984-06-03,True,True,,True
+T20 World Cup,Varun Aaron,India,Indian,1989-10-29,True,True,,True
+T20 World Cup,Bhuvneshwar Kumar,India,Indian,1990-02-05,True,True,MEDIUM_SEAM,True
+T20 World Cup,Amit Mishra,India,Indian,1982-11-24,True,True,LEG_SPIN,True
+T20 World Cup,Mohammed Shami,India,Indian,1990-09-03,True,True,FAST_SEAM,True
+T20 World Cup,Mohit Sharma,India,Indian,1991-12-19,False,True,,True
+T20 World Cup,Manish Pandey,India,Indian,1989-09-10,True,True,MEDIUM_SEAM,True
+T20 World Cup,Hardik Pandya,India,Indian,1993-10-11,True,True,MEDIUM_SEAM,True
+T20 World Cup,Jasprit Bumrah,India,Indian,1993-12-06,True,True,FAST_SEAM,True
+T20 World Cup,Pawan Negi,India,,,,,,False
+T20 World Cup,Ishan Kishan,India,Indian,1998-07-18,False,False,,True
+T20 World Cup,Rishabh Pant,India,IN,1997-10-04,True,False,,True
+T20 World Cup,KL Rahul,India,Indian,1992-04-18,True,True,,True
+T20 World Cup,Suryakumar Yadav,India,Indian,1990-09-14,True,True,,True
+T20 World Cup,Rahul Chahar,India,Indian,1999-08-04,True,True,LEG_SPIN,True
+T20 World Cup,Shardul Thakur,India,Indian,1991-10-16,True,True,MEDIUM_SEAM,True
+T20 World Cup,Varun Chakravarthy,India,,,,,,False
+T20 World Cup,Deepak Hooda,India,,,,,,False
+T20 World Cup,Axar Patel,India,Indian,1994-01-20,False,False,ORTHODOX,True
+T20 World Cup,Arshdeep Singh,India,,1999-02-05,,False,Left-arm medium fast,True
+T20 World Cup,Yuzvendra Chahal,India,Indian,1990-07-23,True,True,LEG_SPIN,True
+T20 World Cup,Harshal Patel,India,,,,,,False
+T20 World Cup,Yashasvi Jaiswal,India,,2001-12-28,,False,Right-arm leg break,True
+T20 World Cup,Sanju Samson,India,Indian,1994-11-11,True,True,,True
+T20 World Cup,Shivam Dube,India,Indian,1993-06-26,True,False,MEDIUM_SEAM,True
+T20 World Cup,Kuldeep Yadav,India,Indian,1994-12-14,False,False,UNORTHODOX,True
+T20 World Cup,Mohammed Siraj,India,Indian,1994-03-13,True,True,MEDIUM_SEAM,True
+T20 World Cup,Tanmay Mishra,Kenya,Kenyan,1986-12-22,False,True,,True
+T20 World Cup,Alex Obanda,Kenya,Kenyan,1987-12-25,False,True,,True
+T20 World Cup,David Obuya,Kenya,Kenyan,1979-08-14,False,True,,True
+T20 World Cup,Morris Ouma,Kenya,Kenyan,1982-11-08,False,True,,True
+T20 World Cup,Steve Tikolo,Kenya,Kenyan,1971-06-25,False,True,,True
+T20 World Cup,Collins Obuya,Kenya,Kenyan,1981-07-27,False,True,,True
+T20 World Cup,Thomas Odoyo,Kenya,Kenyan,1978-05-12,True,True,MEDIUM_SEAM,True
+T20 World Cup,Tony Suji,Kenya,Kenyan,1976-02-05,False,True,,True
+T20 World Cup,Rajesh Bhudia,Kenya,,,,,,False
+T20 World Cup,Jimmy Kamande,Kenya,Kenyan,1978-12-12,False,True,,True
+T20 World Cup,Nehemiah Odhiambo,Kenya,Kenyan,1983-08-07,False,True,,True
+T20 World Cup,Peter Ongondo,Kenya,Kenyan,1977-02-10,False,True,,True
+T20 World Cup,Lameck Onyango,Kenya,,,,,,False
+T20 World Cup,Elijah Otieno,Kenya,Kenyan,1988-01-03,False,True,,True
+T20 World Cup,Hiren Varaiya,Kenya,Kenyan,1984-04-09,False,True,,True
+T20 World Cup,William Porterfield,Ireland,Irish,1984-09-06,True,False,OFF_SPIN,True
+T20 World Cup,Niall O'Brien,Ireland,Irish,1981-11-08,False,False,,True
+T20 World Cup,Gary Wilson,Ireland,Irish,1986-02-05,True,True,,True
+T20 World Cup,Andre Botha,Ireland,South African,1975-09-12,False,True,,True
+T20 World Cup,Kyle McCallan,Ireland,Irish,1975-08-27,False,True,,True
+T20 World Cup,John Mooney,Ireland,Irish,1982-02-10,False,False,,True
+T20 World Cup,Kevin O'Brien,Ireland,Irish,1984-03-04,True,True,MEDIUM_SEAM,True
+T20 World Cup,Paul Stirling,Ireland,Irish,1990-09-03,True,True,OFF_SPIN,True
+T20 World Cup,Andrew White,Ireland,Irish,1980-07-03,False,True,,True
+T20 World Cup,Peter Connell,Ireland,,,,,,False
+T20 World Cup,Alex Cusack,Ireland,Irish,1980-10-29,False,True,,True
+T20 World Cup,Trent Johnston,Ireland,Irish,1974-04-29,False,True,,True
+T20 World Cup,Boyd Rankin,Ireland,Irish,1984-07-05,True,False,FAST_SEAM,True
+T20 World Cup,Regan West,Ireland,,,,,,False
+T20 World Cup,Jeremy Bray,Ireland,Australian,1973-11-30,False,True,,True
+T20 World Cup,George Dockrell,Ireland,Irish,1992-07-22,False,True,ORTHODOX,True
+T20 World Cup,Nigel Jones,Ireland,,,,,,False
+T20 World Cup,Gary Kidd,Ireland,,,,,,False
+T20 World Cup,Ed Joyce,Ireland,Irish,1978-09-22,False,False,,True
+T20 World Cup,Tim Murtagh,Ireland,Irish,1981-08-02,False,False,,True
+T20 World Cup,Max Sorensen,Ireland,Irish,1985-11-18,False,True,,True
+T20 World Cup,Stuart Thompson,Ireland,Irish,1991-08-15,True,False,MEDIUM_SEAM,True
+T20 World Cup,Andrew Poynter,Ireland,,,,,,False
+T20 World Cup,James Shannon,Ireland,,,,,,False
+T20 World Cup,Andy McBrine,Ireland,Irish,1993-04-30,True,True,OFF_SPIN,True
+T20 World Cup,Craig Young,Ireland,Irish,1990-04-04,True,True,FAST_SEAM,True
+T20 World Cup,Andy Balbirnie,Ireland,,,True,True,,True
+T20 World Cup,Stuart Poynter,Ireland,Irish,1990-10-18,False,True,,True
+T20 World Cup,Neil Rock,Ireland,,2000-09-24,,False,,True
+T20 World Cup,Harry Tector,Ireland,Irish,1999-11-06,False,True,,True
+T20 World Cup,Lorcan Tucker,Ireland,Irish,1996-09-10,True,True,,True
+T20 World Cup,Mark Adair,Ireland,Irish,1996-03-27,True,True,FAST_SEAM,True
+T20 World Cup,Curtis Campher,Ireland,Irish,1999-04-20,True,True,MEDIUM_SEAM,True
+T20 World Cup,Gareth Delany,Ireland,Irish,1997-04-28,True,True,LEG_SPIN,True
+T20 World Cup,Simi Singh,Ireland,Irish,1987-02-04,True,True,OFF_SPIN,True
+T20 World Cup,Josh Little,Ireland,Irish,1999-11-01,False,True,FAST_SEAM,True
+T20 World Cup,Ben White,Ireland,,1998-08-29,,True,Right-arm leg break,True
+T20 World Cup,Stephen Doheny,Ireland,,,,,,False
+T20 World Cup,Fionn Hand,Ireland,,,,,,False
+T20 World Cup,Graham Hume,Ireland,,1990-11-23,,False,Right-arm medium fast,True
+T20 World Cup,Barry McCarthy,Ireland,Irish,1992-09-13,True,True,MEDIUM_SEAM,True
+T20 World Cup,Conor Olphert,Ireland,,,,,,False
+T20 World Cup,Ross Adair,Ireland,,1994-04-21,,True,,True
+T20 World Cup,Stephan Baard,Namibia,Namibian,1992-04-29,True,True,MEDIUM_SEAM,True
+T20 World Cup,Karl Birkenstock,Namibia,Namibian,1996-03-27,True,False,FAST_SEAM,True
+T20 World Cup,Michau du Preez,Namibia,Namibian,1996-01-03,True,True,,True
+T20 World Cup,Zane Green,Namibia,Namibian,1996-10-11,False,False,,True
+T20 World Cup,Craig Williams,Namibia,Namibian,1984-02-25,True,True,MEDIUM_SEAM,True
+T20 World Cup,Pikky Ya France,Namibia,Namibian,1990-04-23,True,True,OFF_SPIN,True
+T20 World Cup,Gerhard Erasmus,Namibia,Namibian,1995-04-11,True,True,OFF_SPIN,True
+T20 World Cup,JJ Smit,Namibia,Namibian,1995-11-10,False,True,MEDIUM_SEAM,True
+T20 World Cup,Jan Frylinck,Namibia,Namibian,1994-04-06,False,False,FAST_SEAM,True
+T20 World Cup,Jan Nicol Loftie-Eaton,Namibia,,,,,,False
+T20 World Cup,Michael van Lingen,Namibia,Namibian,1997-10-24,False,False,MEDIUM_SEAM,True
+T20 World Cup,David Wiese,Namibia,Namibian,1985-05-18,True,True,MEDIUM_SEAM,True
+T20 World Cup,Bernard Scholtz,Namibia,Namibian,1990-10-03,False,True,ORTHODOX,True
+T20 World Cup,Ben Shikongo,Namibia,Namibian,2000-05-08,True,True,,True
+T20 World Cup,Ruben Trumpelmann,Namibia,Namibian,1998-02-01,False,True,FAST_SEAM,True
+T20 World Cup,Divan la Cock,Namibia,,,,,,False
+T20 World Cup,Lo-handre Louwrens,Namibia,,,,,,False
+T20 World Cup,Tangeni Lungameni,Namibia,,1992-04-17,,False,Left-arm medium,True
+T20 World Cup,Nikolaas Davin,Namibia,,,,,,False
+T20 World Cup,JP Kotze,Namibia,Namibian,1994-04-23,False,False,,True
+T20 World Cup,Malan Kruger,Namibia,,1995-08-12,,True,,True
+T20 World Cup,Dylan Leicher,Namibia,,2004-03-03,,True,Right-arm medium,True
+T20 World Cup,Peter-Daniel Blignaut,Namibia,,2005-10-21,,True,Slow left-arm orthodox,True
+T20 World Cup,Jack Brassell,Namibia,,2005-03-31,,True,Right-arm medium,True
+T20 World Cup,Pradeep Airee,Nepal,Nepalese,1992-09-01,False,True,,True
+T20 World Cup,Binod Bhandari,Nepal,Nepalese,1990-01-25,True,True,,True
+T20 World Cup,Naresh Budayair,Nepal,,,,,,False
+T20 World Cup,Subash Khakurel,Nepal,Nepalese,1993-04-07,True,True,,True
+T20 World Cup,Gyanendra Malla,Nepal,Nepalese,1990-09-16,True,True,,True
+T20 World Cup,Anil Mandal,Nepal,,,,,,False
+T20 World Cup,Sagar Pun,Nepal,Nepalese,1993-03-01,False,True,,True
+T20 World Cup,Sharad Vesawkar,Nepal,Nepalese,1988-10-06,True,True,OFF_SPIN,True
+T20 World Cup,Paras Khadka,Nepal,Nepalese,1987-10-24,True,True,MEDIUM_SEAM,True
+T20 World Cup,Sompal Kami,Nepal,Nepalese,1996-02-02,False,True,,True
+T20 World Cup,Amrit Bhattarai,Nepal,,,,,,False
+T20 World Cup,Shakti Gauchan,Nepal,Nepalese,1984-04-22,False,True,,True
+T20 World Cup,Jitendra Mukhiya,Nepal,,,,,,False
+T20 World Cup,Basant Regmi,Nepal,Nepalese,1986-04-06,False,False,,True
+T20 World Cup,Rahul Vishwakarma,Nepal,,,,,,False
+T20 World Cup,Aasif Sheikh,Nepal,NP,2001-01-22,True,True,,True
+T20 World Cup,Dipendra Singh Airee,Nepal,Nepalese,2000-01-24,True,True,MEDIUM_SEAM,True
+T20 World Cup,Kushal Bhurtel,Nepal,NP,1997-01-22,True,True,MEDIUM_SEAM,True
+T20 World Cup,Sundeep Jora,Nepal,Nepalese,2001-10-20,True,True,,True
+T20 World Cup,Anil Sah,Nepal,Nepalese,1998-11-17,True,True,OFF_SPIN,True
+T20 World Cup,Rohit Paudel,Nepal,Nepalese,2002-09-02,True,True,MEDIUM_SEAM,True
+T20 World Cup,Gulsan Jha,Nepal,,,True,False,,True
+T20 World Cup,Karan KC,Nepal,Nepalese,1991-10-10,True,True,FAST_SEAM,True
+T20 World Cup,Kushal Malla,Nepal,Nepalese,2004-03-05,False,False,ORTHODOX,True
+T20 World Cup,Kamal Airee,Nepal,,,,,,False
+T20 World Cup,Abinash Bohara,Nepal,Nepalese,1997-07-30,True,True,MEDIUM_SEAM,True
+T20 World Cup,Sagar Dhakal,Nepal,,2001-12-14,False,True,,True
+T20 World Cup,Sandeep Lamichhane,Nepal,Nepalese,2000-08-14,True,True,LEG_SPIN,True
+T20 World Cup,Lalit Rajbanshi,Nepal,Nepalese,1999-02-27,False,True,ORTHODOX,True
+T20 World Cup,Jeroen Smits,Netherlands,Dutch,1972-06-21,False,True,,True
+T20 World Cup,Tom de Grooth,Netherlands,Dutch,1979-05-14,False,True,,True
+T20 World Cup,Tim Gruijters,Netherlands,,,,,,False
+T20 World Cup,Alexei Kervezee,Netherlands,Namibian,1989-09-11,False,True,,True
+T20 World Cup,Darron Reekers,Netherlands,New Zealander,1973-05-26,False,True,,True
+T20 World Cup,Eric Szwarczynski,Netherlands,Dutch,1983-02-13,False,True,,True
+T20 World Cup,Bas Zuiderent,Netherlands,,,,,,False
+T20 World Cup,Peter Borren,Netherlands,Dutch,1983-08-21,False,True,,True
+T20 World Cup,Mudassar Bukhari,Netherlands,Dutch,1983-12-26,False,True,,True
+T20 World Cup,Pieter Seelaar,Netherlands,Dutch,1987-07-02,False,True,,True
+T20 World Cup,Ryan ten Doeschate,Netherlands,Dutch,1980-06-30,False,False,,True
+T20 World Cup,Daan van Bunge,Netherlands,Dutch,1982-10-19,False,True,,True
+T20 World Cup,Maurits Jonkman,Netherlands,,,,,,False
+T20 World Cup,Edgar Schiferli,Netherlands,Dutch,1976-05-17,False,True,,True
+T20 World Cup,Wesley Barresi,Netherlands,Dutch,1984-05-03,False,True,,True
+T20 World Cup,Tom Cooper,Netherlands,Australian,1986-11-26,False,True,,True
+T20 World Cup,Ben Cooper,Netherlands,Dutch,1992-02-10,False,False,,True
+T20 World Cup,Tom Heggelman,Netherlands,,,,,,False
+T20 World Cup,Stephan Myburgh,Netherlands,Dutch,1984-02-28,False,False,,True
+T20 World Cup,Michael Swart,Netherlands,Dutch,1982-10-01,False,True,,True
+T20 World Cup,Michael Rippon,Netherlands,Dutch,1991-09-14,False,True,,True
+T20 World Cup,Ahsan Malik,Netherlands,Dutch,1989-08-28,False,True,,True
+T20 World Cup,Vivian Kingma,Netherlands,Dutch,1994-10-23,False,True,,True
+T20 World Cup,Logan van Beek,Netherlands,Dutch,1990-09-07,False,True,,True
+T20 World Cup,Timm van der Gugten,Netherlands,Dutch,1991-02-25,False,True,,True
+T20 World Cup,Max O'Dowd,Netherlands,Dutch,1994-03-04,True,True,OFF_SPIN,True
+T20 World Cup,Roelof van der Merwe,Netherlands,Dutch,1984-12-31,False,True,,True
+T20 World Cup,Paul van Meekeren,Netherlands,Dutch,1989-08-29,False,True,,True
+T20 World Cup,Scott Edwards,Netherlands,Dutch,1996-08-23,False,True,,True
+T20 World Cup,Colin Ackermann,Netherlands,Dutch,1991-04-04,True,True,,True
+T20 World Cup,Bas de Leede,Netherlands,Dutch,1999-11-15,True,True,MEDIUM_SEAM,True
+T20 World Cup,Philippe Boissevain,Netherlands,Dutch,2000-10-18,True,True,LEG_SPIN,True
+T20 World Cup,Brandon Glover,Netherlands,Dutch,1997-04-03,True,True,FAST_SEAM,True
+T20 World Cup,Fred Klaassen,Netherlands,Dutch,1992-11-13,False,True,MEDIUM_SEAM,True
+T20 World Cup,Vikramjit Singh,Netherlands,,2003-01-09,,False,Right-arm medium,True
+T20 World Cup,Teja Nidamanuru,Netherlands,,1994-08-22,,True,Right-arm off break,True
+T20 World Cup,Tim Pringle,Netherlands,,2002-08-29,,True,Slow left-arm orthodox,True
+T20 World Cup,Shariz Ahmad,Netherlands,,,,,,False
+T20 World Cup,Michael Levitt,Netherlands,,2003-06-19,,True,Right-arm medium,True
+T20 World Cup,Sybrand Engelbrecht,Netherlands,,1988-09-15,,True,Right-arm off break,True
+T20 World Cup,Saqib Zulfiqar,Netherlands,Dutch,1997-03-28,False,True,ORTHODOX,True
+T20 World Cup,Aryan Dutt,Netherlands,Dutch,2003-05-12,True,True,OFF_SPIN,True
+T20 World Cup,Kyle Klein,Netherlands,,2001-07-03,,True,Right-arm medium fast,True
+T20 World Cup,Peter Fulton,New Zealand,New Zealander,1979-02-01,False,True,,True
+T20 World Cup,Gareth Hopkins,New Zealand,,,,,,False
+T20 World Cup,Brendon McCullum,New Zealand,New Zealander,1981-09-27,True,True,MEDIUM_SEAM,True
+T20 World Cup,Craig McMillan,New Zealand,New Zealander,1976-09-13,True,True,MEDIUM_SEAM,True
+T20 World Cup,Ross Taylor,New Zealand,New Zealander,1984-03-08,True,True,OFF_SPIN,True
+T20 World Cup,Lou Vincent,New Zealand,New Zealander,1978-11-11,False,True,,True
+T20 World Cup,Daniel Vettori,New Zealand,New Zealander,1979-01-27,False,False,ORTHODOX,True
+T20 World Cup,Jacob Oram,New Zealand,New Zealander,1978-07-28,True,False,FAST_SEAM,True
+T20 World Cup,Scott Styris,New Zealand,New Zealander,1975-07-10,True,True,MEDIUM_SEAM,True
+T20 World Cup,Shane Bond,New Zealand,New Zealander,1975-06-07,True,True,FAST_SEAM,True
+T20 World Cup,Mark Gillespie,New Zealand,New Zealander,1979-10-17,False,True,,True
+T20 World Cup,Chris Martin,New Zealand,,,,,,False
+T20 World Cup,Nathan McCullum,New Zealand,New Zealander,1980-09-01,False,True,,True
+T20 World Cup,Jeetan Patel,New Zealand,New Zealander,1980-05-07,False,True,,True
+T20 World Cup,Bradley Scott,New Zealand,,,,,,False
+T20 World Cup,Neil Broom,New Zealand,New Zealander,1983-11-20,False,True,,True
+T20 World Cup,Brendon Diamanti,New Zealand,,,,,,False
+T20 World Cup,Martin Guptill,New Zealand,New Zealander,1986-09-30,True,True,OFF_SPIN,True
+T20 World Cup,Peter McGlashan,New Zealand,,,,,,False
+T20 World Cup,Aaron Redmond,New Zealand,,,,,,False
+T20 World Cup,James Franklin,New Zealand,New Zealander,1980-11-07,False,True,,True
+T20 World Cup,Ian Butler,New Zealand,,,,,,False
+T20 World Cup,Kyle Mills,New Zealand,New Zealander,1979-03-15,True,True,FAST_SEAM,True
+T20 World Cup,Iain O'Brien,New Zealand,,,,,,False
+T20 World Cup,Rob Nicol,New Zealand,New Zealander,1983-05-28,False,True,,True
+T20 World Cup,Jesse Ryder,New Zealand,New Zealander,1984-08-06,False,False,,True
+T20 World Cup,Tim Southee,New Zealand,New Zealander,1988-12-11,True,True,MEDIUM_SEAM,True
+T20 World Cup,BJ Watling,New Zealand,New Zealander,1985-07-09,True,True,,True
+T20 World Cup,Kane Williamson,New Zealand,New Zealander,1990-08-08,True,True,OFF_SPIN,True
+T20 World Cup,Doug Bracewell,New Zealand,New Zealander,1990-09-28,False,False,,True
+T20 World Cup,Ronnie Hira,New Zealand,,,,,,False
+T20 World Cup,Adam Milne,New Zealand,New Zealander,1992-04-13,True,True,FAST_SEAM,True
+T20 World Cup,Anton Devcich,New Zealand,New Zealander,1985-09-26,False,False,,True
+T20 World Cup,Colin Munro,New Zealand,New Zealander,1987-03-11,True,False,MEDIUM_SEAM,True
+T20 World Cup,Luke Ronchi,New Zealand,New Zealander,1981-04-23,False,True,,True
+T20 World Cup,Corey Anderson,New Zealand,New Zealander,1990-12-13,False,False,,True
+T20 World Cup,James Neesham,New Zealand,,1990-09-17,,False,Right-arm medium fast,True
+T20 World Cup,Trent Boult,New Zealand,New Zealander,1989-07-22,False,True,FAST_SEAM,True
+T20 World Cup,Mitchell McClenaghan,New Zealand,New Zealander,1986-06-11,False,False,,True
+T20 World Cup,Henry Nicholls,New Zealand,New Zealander,1991-11-15,True,False,OFF_SPIN,True
+T20 World Cup,Grant Elliott,New Zealand,New Zealander,1979-03-21,False,True,,True
+T20 World Cup,Mitchell Santner,New Zealand,New Zealander,1992-02-05,False,False,ORTHODOX,True
+T20 World Cup,Ish Sodhi,New Zealand,New Zealander,1992-10-31,True,True,LEG_SPIN,True
+T20 World Cup,Devon Conway,New Zealand,New Zealander,1991-07-08,True,False,MEDIUM_SEAM,True
+T20 World Cup,Tim Seifert,New Zealand,New Zealander,1994-12-14,False,True,,True
+T20 World Cup,Daryl Mitchell,New Zealand,English,1983-11-25,True,True,MEDIUM_SEAM,True
+T20 World Cup,Glenn Phillips,New Zealand,,1996-12-06,,True,Right-arm off spin,True
+T20 World Cup,Todd Astle,New Zealand,New Zealander,1986-09-24,True,True,LEG_SPIN,True
+T20 World Cup,Kyle Jamieson,New Zealand,New Zealander,1994-12-30,True,True,MEDIUM_SEAM,True
+T20 World Cup,Finn Allen,New Zealand,,1999-04-22,,True,Right-arm off spin,True
+T20 World Cup,Michael Bracewell,New Zealand,,1991-02-14,,False,Right-arm off spin,True
+T20 World Cup,Lockie Ferguson,New Zealand,New Zealander,1991-06-13,True,True,FAST_SEAM,True
+T20 World Cup,Rachin Ravindra,New Zealand,,1999-11-18,,False,Slow left-arm orthodox,True
+T20 World Cup,Matt Henry,New Zealand,New Zealander,1991-12-14,True,True,FAST_SEAM,True
+T20 World Cup,Sultan Ahmed,Oman,Omani,1977-06-18,False,True,,True
+T20 World Cup,Aamir Kaleem,Oman,Omani,1981-11-20,False,False,ORTHODOX,True
+T20 World Cup,Amir Ali,Oman,,,,,,False
+T20 World Cup,Jatinder Singh,Oman,Omani,1989-03-05,True,True,OFF_SPIN,True
+T20 World Cup,Khawar Ali,Oman,Omani,1985-12-20,True,True,LEG_SPIN,True
+T20 World Cup,Mehran Khan,Oman,,1987-04-13,,True,Right-arm medium fast,True
+T20 World Cup,Vaibhav Wategaonkar,Oman,,,,,,False
+T20 World Cup,Zeeshan Maqsood,Oman,Omani,1987-10-24,False,False,ORTHODOX,True
+T20 World Cup,Zeeshan Siddiqui,Oman,,,,,,False
+T20 World Cup,Ajay Lalcheta,Oman,Omani,1983-10-22,False,False,ORTHODOX,True
+T20 World Cup,Munis Ansari,Oman,,,,,,False
+T20 World Cup,Bilal Khan,Oman,Pakistani,1987-04-10,False,True,,True
+T20 World Cup,Rajeshkumar Ranpura,Oman,,,,,,False
+T20 World Cup,Sufyan Mehmood,Oman,,,True,False,,True
+T20 World Cup,Adnan Ilyas,Oman,,,,,,False
+T20 World Cup,Aqib Ilyas,Oman,Omani,1992-09-05,True,True,OFF_SPIN,True
+T20 World Cup,Naseem Khushi,Oman,Omani,1982-08-11,True,True,,True
+T20 World Cup,Kashyap Prajapati,Oman,,1995-10-11,True,True,,True
+T20 World Cup,Suraj Kumar,Oman,Omani,1988-11-29,True,True,,True
+T20 World Cup,Ayaan Khan,Oman,,,True,False,,True
+T20 World Cup,Mohammad Nadeem,Oman,Omani,1982-09-04,True,True,MEDIUM_SEAM,True
+T20 World Cup,Sandeep Goud,Oman,Omani,1991-11-08,True,True,MEDIUM_SEAM,True
+T20 World Cup,Nestor Dhamba,Oman,,,,,,False
+T20 World Cup,Fayyaz Butt,Oman,Omani,1993-08-17,True,True,MEDIUM_SEAM,True
+T20 World Cup,Kaleemullah,Oman,Omani,1990-12-24,True,True,MEDIUM_SEAM,True
+T20 World Cup,Pratik Athavale,Oman,,1997-04-20,,True,Right-arm off break,True
+T20 World Cup,Khalid Kail,Oman,,1996-10-13,,True,,True
+T20 World Cup,Shoaib Khan,Oman,,,True,True,,True
+T20 World Cup,Rafiullah,Oman,,1996-08-16,,True,Right-arm medium,True
+T20 World Cup,Shakeel Ahmed,Oman,,1988-02-04,,False,Slow left-arm orthodox,True
+T20 World Cup,Fawad Alam,Pakistan,Pakistani,1985-10-08,False,False,,True
+T20 World Cup,Imran Nazir,Pakistan,Pakistani,1981-12-16,False,True,,True
+T20 World Cup,Kamran Akmal,Pakistan,Pakistani,1982-01-13,False,True,,True
+T20 World Cup,Misbah-ul-Haq,Pakistan,Pakistani,1974-05-28,True,True,LEG_SPIN,True
+T20 World Cup,Salman Butt,Pakistan,,,,,,False
+T20 World Cup,Younis Khan,Pakistan,Pakistani,1977-11-29,True,True,MEDIUM_SEAM,True
+T20 World Cup,Shoaib Malik,Pakistan,Pakistani,1982-02-01,True,True,OFF_SPIN,True
+T20 World Cup,Mohammad Hafeez,Pakistan,Pakistani,1980-10-17,True,True,OFF_SPIN,True
+T20 World Cup,Shahid Afridi,Pakistan,Pakistani,1980-03-01,True,True,LEG_SPIN,True
+T20 World Cup,Yasir Arafat,Pakistan,,,,,,False
+T20 World Cup,Abdur Rehman,Pakistan,Pakistani,1980-03-01,False,False,,True
+T20 World Cup,Iftikhar Anjum,Pakistan,,,,,,False
+T20 World Cup,Mohammad Asif,Pakistan,,2012-04-30,False,True,,True
+T20 World Cup,Sohail Tanvir,Pakistan,Pakistani,1984-12-12,False,True,,True
+T20 World Cup,Umar Gul,Pakistan,Pakistani,1984-04-14,True,True,FAST_SEAM,True
+T20 World Cup,Ahmed Shehzad,Pakistan,Pakistani,1991-11-23,False,True,,True
+T20 World Cup,Shahzaib Hasan,Pakistan,,,,,,False
+T20 World Cup,Abdul Razzaq,Pakistan,Pakistani,1979-12-02,True,True,FAST_SEAM,True
+T20 World Cup,Mohammad Amir,Pakistan,Pakistani,1992-04-13,False,False,FAST_SEAM,True
+T20 World Cup,Saeed Ajmal,Pakistan,Pakistani,1977-10-14,True,True,OFF_SPIN,True
+T20 World Cup,Hammad Azam,Pakistan,Pakistani,1991-03-16,False,True,,True
+T20 World Cup,Khalid Latif,Pakistan,,,,,,False
+T20 World Cup,Umar Akmal,Pakistan,Pakistani,1990-05-26,True,True,OFF_SPIN,True
+T20 World Cup,Mohammad Sami,Pakistan,Pakistani,1981-02-24,False,True,,True
+T20 World Cup,Asad Shafiq,Pakistan,Pakistani,1986-01-28,True,True,OFF_SPIN,True
+T20 World Cup,Nasir Jamshed,Pakistan,Pakistani,1989-12-06,False,False,,True
+T20 World Cup,Raza Hasan,Pakistan,Pakistani,1974-12-19,False,True,,True
+T20 World Cup,Sharjeel Khan,Pakistan,Pakistani,1989-08-14,False,False,,True
+T20 World Cup,Sohaib Maqsood,Pakistan,Pakistani,1987-04-15,False,True,,True
+T20 World Cup,Bilawal Bhatti,Pakistan,Pakistani,1991-09-17,False,True,,True
+T20 World Cup,Junaid Khan,Pakistan,Pakistani,1989-12-24,False,True,FAST_SEAM,True
+T20 World Cup,Mohammad Talha,Pakistan,Pakistani,1988-10-15,False,True,,True
+T20 World Cup,Zulfiqar Babar,Pakistan,Pakistani,1978-12-10,False,True,,True
+T20 World Cup,Sarfaraz Ahmed,Pakistan,Pakistani,1987-05-22,True,True,OFF_SPIN,True
+T20 World Cup,Imad Wasim,Pakistan,Pakistani,1988-12-18,False,False,ORTHODOX,True
+T20 World Cup,Mohammad Nawaz,Pakistan,Pakistani,1994-03-21,False,False,ORTHODOX,True
+T20 World Cup,Anwar Ali,Pakistan,Pakistani,1987-11-25,False,True,,True
+T20 World Cup,Mohammad Irfan,Pakistan,Pakistani,1982-06-06,False,True,,True
+T20 World Cup,Wahab Riaz,Pakistan,Pakistani,1985-06-28,False,True,FAST_SEAM,True
+T20 World Cup,Babar Azam,Pakistan,Pakistani,1994-10-15,True,True,OFF_SPIN,True
+T20 World Cup,Asif Ali,Pakistan,Pakistani,1991-10-01,True,True,MEDIUM_SEAM,True
+T20 World Cup,Fakhar Zaman,Pakistan,Pakistani,1990-04-10,False,False,ORTHODOX,True
+T20 World Cup,Haider Ali,Pakistan,Pakistani,2000-10-02,True,True,MEDIUM_SEAM,True
+T20 World Cup,Mohammad Rizwan,Pakistan,Pakistani,1992-06-01,True,True,,True
+T20 World Cup,Shadab Khan,Pakistan,Pakistani,1998-10-04,True,True,LEG_SPIN,True
+T20 World Cup,Mohammad Wasim,Pakistan,PK,2001-08-25,True,True,MEDIUM_SEAM,True
+T20 World Cup,Haris Rauf,Pakistan,Pakistani,1993-11-07,True,True,FAST_SEAM,True
+T20 World Cup,Hasan Ali,Pakistan,Pakistani,1994-07-02,True,True,MEDIUM_SEAM,True
+T20 World Cup,Shaheen Shah Afridi,Pakistan,,,,,,False
+T20 World Cup,Iftikhar Ahmed,Pakistan,Pakistani,1990-09-03,True,True,OFF_SPIN,True
+T20 World Cup,Khushdil Shah,Pakistan,Pakistani,1995-02-07,False,False,,True
+T20 World Cup,Mohammad Haris,Pakistan,,,,,,False
+T20 World Cup,Shan Masood,Pakistan,Pakistani,1989-10-14,True,False,MEDIUM_SEAM,True
+T20 World Cup,Mohammad Hasnain,Pakistan,Pakistani,2000-04-05,True,True,FAST_SEAM,True
+T20 World Cup,Naseem Shah,Pakistan,,2003-02-15,,True,Right-arm fast,True
+T20 World Cup,Azam Khan,Pakistan,,1998-08-10,,True,,True
+T20 World Cup,Saim Ayub,Pakistan,,2002-05-24,,False,Right-arm off break,True
+T20 World Cup,Usman Khan,Pakistan,,1995-05-10,,True,Right-arm off break,True
+T20 World Cup,Abbas Afridi,Pakistan,,2001-05-04,,True,Right-arm medium fast,True
+T20 World Cup,Abrar Ahmed,Pakistan,,1998-09-11,,True,Right-arm leg break,True
+T20 World Cup,Assad Vala,Papua New Guinea,Papuan,1987-08-05,True,False,OFF_SPIN,True
+T20 World Cup,Simon Atai,Papua New Guinea,PG,1999-09-19,False,False,,True
+T20 World Cup,Sese Bau,Papua New Guinea,Papuan,1992-06-23,True,False,MEDIUM_SEAM,True
+T20 World Cup,Kiplin Doriga,Papua New Guinea,Papuan,1995-10-18,True,True,,True
+T20 World Cup,Hiri Hiri,Papua New Guinea,PG,1995-05-01,True,True,,True
+T20 World Cup,Lega Siaka,Papua New Guinea,Papuan,1992-12-21,True,True,FAST_SEAM,True
+T20 World Cup,Tony Ura,Papua New Guinea,Papuan,1989-10-15,True,True,,True
+T20 World Cup,Charles Amini,Papua New Guinea,Papuan,1992-04-14,True,False,LEG_SPIN,True
+T20 World Cup,Jason Kila,Papua New Guinea,Papuan,1990-01-15,False,False,ORTHODOX,True
+T20 World Cup,Gaudi Toka,Papua New Guinea,Papuan,1994-06-17,True,False,MEDIUM_SEAM,True
+T20 World Cup,Kabua Morea,Papua New Guinea,PG,1993-09-30,False,True,MEDIUM_SEAM,True
+T20 World Cup,Nosaina Pokana,Papua New Guinea,Papuan,1996-04-12,False,True,FAST_SEAM,True
+T20 World Cup,Damien Ravu,Papua New Guinea,Papuan,1994-05-03,True,True,MEDIUM_SEAM,True
+T20 World Cup,Chad Soper,Papua New Guinea,Papuan,1991-11-19,True,True,MEDIUM_SEAM,True
+T20 World Cup,Norman Vanua,Papua New Guinea,Papuan,1993-12-02,True,True,MEDIUM_SEAM,True
+T20 World Cup,Hila Vare,Papua New Guinea,,2001-08-10,,False,,True
+T20 World Cup,Jack Gardner,Papua New Guinea,,2000-12-23,,True,Right-arm medium,True
+T20 World Cup,Semo Kamea,Papua New Guinea,,2001-08-21,,False,Left-arm fast,True
+T20 World Cup,John Kariko,Papua New Guinea,,2004-01-16,,False,Slow left-arm orthodox,True
+T20 World Cup,Alei Nao,Papua New Guinea,Papuan,1993-12-09,True,True,MEDIUM_SEAM,True
+T20 World Cup,Ryan Watson,Scotland,Zimbabwean,1976-11-12,False,True,,True
+T20 World Cup,Gavin Hamilton,Scotland,Scottish,1974-09-16,False,True,,True
+T20 World Cup,Gregor Maiden,Scotland,,,,,,False
+T20 World Cup,Neil McCallum,Scotland,Scottish,1977-11-22,False,True,,True
+T20 World Cup,Navdeep Poonia,Scotland,Scottish,1986-05-11,False,True,,True
+T20 World Cup,Qasim Sheikh,Scotland,,,,,,False
+T20 World Cup,Colin Smith,Scotland,Scottish,1972-09-27,False,True,,True
+T20 World Cup,Fraser Watts,Scotland,English,1979-06-05,False,True,,True
+T20 World Cup,John Blain,Scotland,Scottish,1979-01-04,False,True,,True
+T20 World Cup,Dougie Brown,Scotland,Scottish,1969-10-29,False,True,,True
+T20 World Cup,Gordon Drummond,Scotland,,,,,,False
+T20 World Cup,Majid Haq,Scotland,Scottish,1983-02-11,False,False,,True
+T20 World Cup,Dewald Nel,Scotland,Scottish,1980-06-06,False,True,,True
+T20 World Cup,Craig Wright,Scotland,Scottish,1974-04-28,False,True,,True
+T20 World Cup,Ross Lyons,Scotland,,,,,,False
+T20 World Cup,Richie Berrington,Scotland,SCO,1987-04-03,True,True,,True
+T20 World Cup,Kyle Coetzer,Scotland,Scottish,1984-04-14,True,True,MEDIUM_SEAM,True
+T20 World Cup,Calum MacLeod,Scotland,Scottish,1988-11-15,True,True,MEDIUM_SEAM,True
+T20 World Cup,Glenn Rogers,Scotland,Australian,1977-04-12,False,True,,True
+T20 World Cup,Jan Stander,Scotland,,,,,,False
+T20 World Cup,Preston Mommsen,Scotland,Scottish,1987-10-14,False,True,,True
+T20 World Cup,Matthew Cross,Scotland,SCO,1992-10-15,True,True,,True
+T20 World Cup,Matt Machan,Scotland,Scottish,1991-02-15,False,False,,True
+T20 World Cup,George Munsey,Scotland,Scottish,1993-02-21,True,False,MEDIUM_SEAM,True
+T20 World Cup,Con de Lange,Scotland,Scottish,1981-02-11,False,True,,True
+T20 World Cup,Michael Leask,Scotland,Scottish,1990-10-29,True,True,OFF_SPIN,True
+T20 World Cup,Rob Taylor,Scotland,Scottish,1989-12-21,False,False,,True
+T20 World Cup,Josh Davey,Scotland,Scottish,1990-08-03,True,True,MEDIUM_SEAM,True
+T20 World Cup,Alasdair Evans,Scotland,Scottish,1989-01-12,True,True,MEDIUM_SEAM,True
+T20 World Cup,Gavin Main,Scotland,Scottish,1995-02-28,True,True,FAST_SEAM,True
+T20 World Cup,Safyaan Sharif,Scotland,Scottish,1991-05-24,True,True,MEDIUM_SEAM,True
+T20 World Cup,Mark Watt,Scotland,Scottish,1996-07-29,False,False,ORTHODOX,True
+T20 World Cup,Michael Jones,Scotland,Scottish,1998-01-05,True,True,OFF_SPIN,True
+T20 World Cup,Craig Wallace,Scotland,Scottish,1990-06-27,True,True,,True
+T20 World Cup,Dylan Budge,Scotland,Scottish,1995-09-11,True,True,MEDIUM_SEAM,True
+T20 World Cup,Chris Greaves,Scotland,,1990-10-12,,True,Right-arm leg break,True
+T20 World Cup,Hamza Tahir,Scotland,Scottish,1995-11-09,False,True,ORTHODOX,True
+T20 World Cup,Brad Wheal,Scotland,Scottish,1996-08-28,True,True,FAST_SEAM,True
+T20 World Cup,Brandon McMullen,Scotland,,1999-10-18,,True,Right-arm fast medium,True
+T20 World Cup,Chris Sole,Scotland,Scottish,1994-02-27,False,True,,True
+T20 World Cup,Ollie Hairs,Scotland,,,,,,False
+T20 World Cup,Charlie Tear,Scotland,,2004-06-12,,True,,True
+T20 World Cup,Brad Currie,Scotland,,1998-11-08,,True,Left-arm medium fast,True
+T20 World Cup,Jack Jarvis,Scotland,,2003-05-29,,True,Right-arm medium fast,True
+T20 World Cup,Graeme Smith,South Africa,South African,1981-02-01,True,False,OFF_SPIN,True
+T20 World Cup,Gulam Bodi,South Africa,,,,,,False
+T20 World Cup,Mark Boucher,South Africa,South African,1976-12-03,True,True,MEDIUM_SEAM,True
+T20 World Cup,AB de Villiers,South Africa,South African,1984-02-17,True,True,MEDIUM_SEAM,True
+T20 World Cup,Herschelle Gibbs,South Africa,South African,1974-02-23,True,True,LEG_SPIN,True
+T20 World Cup,Jean-Paul Duminy,South Africa,,,,,,False
+T20 World Cup,Justin Kemp,South Africa,South African,1977-10-02,True,True,FAST_SEAM,True
+T20 World Cup,Albie Morkel,South Africa,South African,1981-06-10,False,False,,True
+T20 World Cup,Vernon Philander,South Africa,South African,1985-06-24,True,True,FAST_SEAM,True
+T20 World Cup,Shaun Pollock,South Africa,South African,1973-07-16,True,True,FAST_SEAM,True
+T20 World Cup,Johan van der Wath,South Africa,,,,,,False
+T20 World Cup,Morne Morkel,South Africa,South African,1984-10-06,True,False,FAST_SEAM,True
+T20 World Cup,Andre Nel,South Africa,South African,1977-07-15,False,True,,True
+T20 World Cup,Makhaya Ntini,South Africa,South African,1977-07-06,True,True,FAST_SEAM,True
+T20 World Cup,Thandi Tshabalala,South Africa,,,,,,False
+T20 World Cup,Johan Botha,South Africa,South African,1982-05-02,False,False,,True
+T20 World Cup,Jacques Kallis,South Africa,South African,1975-10-16,True,True,FAST_SEAM,True
+T20 World Cup,Justin Ontong,South Africa,,,,,,False
+T20 World Cup,Yusuf Abdulla,South Africa,,,,,,False
+T20 World Cup,Wayne Parnell,South Africa,South African,1989-07-30,False,False,,True
+T20 World Cup,Robin Peterson,South Africa,South African,1979-08-04,False,True,,True
+T20 World Cup,Dale Steyn,South Africa,South African,1983-06-27,True,True,FAST_SEAM,True
+T20 World Cup,Loots Bosman,South Africa,South African,1977-04-14,False,True,,True
+T20 World Cup,Rory Kleinveldt,South Africa,South African,1983-03-15,False,True,,True
+T20 World Cup,Charl Langeveldt,South Africa,South African,1974-12-17,False,False,,True
+T20 World Cup,Rusty Theron,South Africa,,1985-07-24,True,True,FAST_SEAM,True
+T20 World Cup,Hashim Amla,South Africa,South African,1983-03-31,True,True,MEDIUM_SEAM,True
+T20 World Cup,Faf du Plessis,South Africa,South African,1984-07-13,True,True,LEG_SPIN,True
+T20 World Cup,Richard Levi,South Africa,,,,,,False
+T20 World Cup,Farhaan Behardien,South Africa,South African,1983-10-09,False,True,,True
+T20 World Cup,Lonwabo Tsotsobe,South Africa,South African,1984-03-07,False,True,,True
+T20 World Cup,Quinton de Kock,South Africa,South African,1992-12-17,False,False,,True
+T20 World Cup,David Miller,South Africa,South African,1989-06-10,True,False,OFF_SPIN,True
+T20 World Cup,Beuran Hendricks,South Africa,South African,1990-06-08,False,False,FAST_SEAM,True
+T20 World Cup,Imran Tahir,South Africa,South African,1979-03-27,True,True,LEG_SPIN,True
+T20 World Cup,Aaron Phangiso,South Africa,South African,1984-01-21,False,True,,True
+T20 World Cup,Rilee Rossouw,South Africa,South African,1989-10-09,False,False,,True
+T20 World Cup,Chris Morris,South Africa,South African,1987-04-30,True,True,FAST_SEAM,True
+T20 World Cup,Kyle Abbott,South Africa,South African,1987-06-18,False,True,,True
+T20 World Cup,Kagiso Rabada,South Africa,South African,1995-05-25,True,False,FAST_SEAM,True
+T20 World Cup,Temba Bavuma,South Africa,South African,1990-05-17,True,True,MEDIUM_SEAM,True
+T20 World Cup,Reeza Hendricks,South Africa,South African,1989-08-14,True,True,OFF_SPIN,True
+T20 World Cup,Heinrich Klaasen,South Africa,South African,1991-07-30,True,True,,True
+T20 World Cup,Aiden Markram,South Africa,South African,1994-10-04,True,True,OFF_SPIN,True
+T20 World Cup,Rassie van der Dussen,South Africa,South African,1989-02-07,True,True,LEG_SPIN,True
+T20 World Cup,Wiaan Mulder,South Africa,South African,1998-02-19,True,True,MEDIUM_SEAM,True
+T20 World Cup,Dwaine Pretorius,South Africa,South African,1989-03-29,True,True,MEDIUM_SEAM,True
+T20 World Cup,Bjorn Fortuin,South Africa,South African,1994-10-21,False,True,ORTHODOX,True
+T20 World Cup,Keshav Maharaj,South Africa,South African,1990-02-07,False,True,ORTHODOX,True
+T20 World Cup,Lungi Ngidi,South Africa,South African,1996-03-29,True,True,FAST_SEAM,True
+T20 World Cup,Anrich Nortje,South Africa,South African,1993-11-16,True,True,FAST_SEAM,True
+T20 World Cup,Tabraiz Shamsi,South Africa,South African,1990-02-18,False,True,UNORTHODOX,True
+T20 World Cup,Tristan Stubbs,South Africa,,2000-08-14,,True,Right-arm off spin,True
+T20 World Cup,Ryan Rickelton,South Africa,,1996-07-11,,False,Slow left-arm orthodox,True
+T20 World Cup,Marco Jansen,South Africa,,2000-05-01,,True,Left-arm fast,True
+T20 World Cup,Ottneil Baartman,South Africa,,,,,,False
+T20 World Cup,Gerald Coetzee,South Africa,,2000-10-02,,True,Right-arm fast,True
+T20 World Cup,Mahela Jayawardene,Sri Lanka,Sri Lankan,1977-05-27,True,True,MEDIUM_SEAM,True
+T20 World Cup,Kumar Sangakkara,Sri Lanka,Sri Lankan,1977-10-27,True,False,OFF_SPIN,True
+T20 World Cup,Chamara Silva,Sri Lanka,,,,,,False
+T20 World Cup,Upul Tharanga,Sri Lanka,Sri Lankan,1985-02-02,False,False,,True
+T20 World Cup,Tillakaratne Dilshan,Sri Lanka,Sri Lankan,1976-10-14,True,True,OFF_SPIN,True
+T20 World Cup,Hasantha Fernando,Sri Lanka,,,,,,False
+T20 World Cup,Sanath Jayasuriya,Sri Lanka,Sri Lankan,1969-06-30,False,False,ORTHODOX,True
+T20 World Cup,Kaushal Lokuarachchi,Sri Lanka,,,,,,False
+T20 World Cup,Farveez Maharoof,Sri Lanka,Sri Lankan,1984-09-07,True,True,FAST_SEAM,True
+T20 World Cup,Jehan Mubarak,Sri Lanka,Sri Lankan,2012-09-06,False,False,,True
+T20 World Cup,Dilruwan Perera,Sri Lanka,Sri Lankan,1982-07-22,True,True,OFF_SPIN,True
+T20 World Cup,Gayan Wijekoon,Sri Lanka,,,,,,False
+T20 World Cup,Dilhara Fernando,Sri Lanka,Sri Lankan,1979-07-19,True,True,FAST_SEAM,True
+T20 World Cup,Lasith Malinga,Sri Lanka,Sri Lankan,1983-08-28,True,True,FAST_SEAM,True
+T20 World Cup,Chaminda Vaas,Sri Lanka,Sri Lankan,1974-01-27,False,False,FAST_SEAM,True
+T20 World Cup,Angelo Mathews,Sri Lanka,Sri Lankan,1987-06-02,True,True,MEDIUM_SEAM,True
+T20 World Cup,Isuru Udana,Sri Lanka,Sri Lankan,1988-02-17,False,True,MEDIUM_SEAM,True
+T20 World Cup,Muthiah Muralidaran,Sri Lanka,,,,,,False
+T20 World Cup,Nuwan Kulasekara,Sri Lanka,Sri Lankan,1982-07-22,True,True,FAST_SEAM,True
+T20 World Cup,Ajantha Mendis,Sri Lanka,Sri Lankan,1985-03-11,True,True,OFF_SPIN,True
+T20 World Cup,Thilan Thushara,Sri Lanka,,,,,,False
+T20 World Cup,Indika de Saram,Sri Lanka,,,,,,False
+T20 World Cup,Dinesh Chandimal,Sri Lanka,Sri Lankan,1989-11-18,True,True,OFF_SPIN,True
+T20 World Cup,Chamara Kapugedera,Sri Lanka,Sri Lankan,1987-02-24,False,True,,True
+T20 World Cup,Chinthaka Jayasinghe,Sri Lanka,,,,,,False
+T20 World Cup,Thisara Perera,Sri Lanka,Sri Lankan,1989-04-03,True,False,MEDIUM_SEAM,True
+T20 World Cup,Suraj Randiv,Sri Lanka,Sri Lankan,1985-01-30,False,False,,True
+T20 World Cup,Chanaka Welegedara,Sri Lanka,,,,,,False
+T20 World Cup,Dilshan Munaweera,Sri Lanka,Sri Lankan,1989-04-24,False,True,,True
+T20 World Cup,Lahiru Thirimanne,Sri Lanka,Sri Lankan,1989-08-09,True,False,MEDIUM_SEAM,True
+T20 World Cup,Akila Dananjaya,Sri Lanka,Sri Lankan,1993-10-04,True,False,OFF_SPIN,True
+T20 World Cup,Jeevan Mendis,Sri Lanka,Sri Lankan,1983-01-15,True,False,LEG_SPIN,True
+T20 World Cup,Shaminda Eranga,Sri Lanka,Sri Lankan,1986-06-23,False,True,,True
+T20 World Cup,Rangana Herath,Sri Lanka,Sri Lankan,1978-03-19,False,False,ORTHODOX,True
+T20 World Cup,Kusal Perera,Sri Lanka,Sri Lankan,1990-08-17,False,False,,True
+T20 World Cup,Seekkuge Prasanna,Sri Lanka,Sri Lankan,1985-06-27,False,True,,True
+T20 World Cup,Suranga Lakmal,Sri Lanka,Sri Lankan,1987-03-10,True,True,FAST_SEAM,True
+T20 World Cup,Sachithra Senanayake,Sri Lanka,Sri Lankan,1985-02-09,False,True,,True
+T20 World Cup,Shehan Jayasuriya,Sri Lanka,Sri Lankan,1991-09-12,True,False,OFF_SPIN,True
+T20 World Cup,Dasun Shanaka,Sri Lanka,Sri Lankan,1991-09-09,True,True,MEDIUM_SEAM,True
+T20 World Cup,Milinda Siriwardana,Sri Lanka,Sri Lankan,1985-12-04,False,False,ORTHODOX,True
+T20 World Cup,Dushmantha Chameera,Sri Lanka,Sri Lankan,1992-01-11,False,True,,True
+T20 World Cup,Jeffrey Vandersay,Sri Lanka,Sri Lankan,1990-02-05,True,True,LEG_SPIN,True
+T20 World Cup,Avishka Fernando,Sri Lanka,Sri Lankan,1998-04-05,True,True,MEDIUM_SEAM,True
+T20 World Cup,Pathum Nissanka,Sri Lanka,Sri Lankan,1998-05-18,True,True,,True
+T20 World Cup,Bhanuka Rajapaksa,Sri Lanka,Sri Lankan,1991-10-24,False,False,,True
+T20 World Cup,Charith Asalanka,Sri Lanka,Sri Lankan,1997-06-29,True,False,,True
+T20 World Cup,Dhananjaya de Silva,Sri Lanka,Sri Lankan,1991-09-06,True,True,OFF_SPIN,True
+T20 World Cup,Chamika Karunaratne,Sri Lanka,Sri Lankan,1996-05-29,True,True,MEDIUM_SEAM,True
+T20 World Cup,Binura Fernando,Sri Lanka,Sri Lankan,1995-07-12,False,True,,True
+T20 World Cup,Lahiru Kumara,Sri Lanka,Sri Lankan,1997-02-13,True,False,FAST_SEAM,True
+T20 World Cup,Maheesh Theekshana,Sri Lanka,Sri Lankan,2000-08-01,True,True,,True
+T20 World Cup,Ashen Bandara,Sri Lanka,Sri Lankan,1998-11-23,True,True,LEG_SPIN,True
+T20 World Cup,Kusal Mendis,Sri Lanka,Sri Lankan,1995-02-02,True,True,LEG_SPIN,True
+T20 World Cup,Asitha Fernando,Sri Lanka,Sri Lankan,1997-07-31,False,True,,True
+T20 World Cup,Kasun Rajitha,Sri Lanka,Sri Lankan,1993-06-01,True,True,MEDIUM_SEAM,True
+T20 World Cup,Sadeera Samarawickrama,Sri Lanka,Sri Lankan,1995-08-30,True,True,,True
+T20 World Cup,Wanindu Hasaranga,Sri Lanka,Sri Lankan,1997-07-29,True,True,LEG_SPIN,True
+T20 World Cup,Kamindu Mendis,Sri Lanka,Sri Lankan,1998-09-30,True,False,OFF_SPIN,True
+T20 World Cup,Dilshan Madushanka,Sri Lanka,,2000-09-18,,True,Left-arm fast medium,True
+T20 World Cup,Matheesha Pathirana,Sri Lanka,,2002-12-18,,True,Right-arm fast,True
+T20 World Cup,Nuwan Thushara,Sri Lanka,,1994-08-06,,True,Right-arm fast medium,True
+T20 World Cup,Dunith Wellalage,Sri Lanka,,2003-01-09,,False,Slow left-arm orthodox,True
+T20 World Cup,Khurram Khan,United Arab Emirates,Emirati,1971-06-21,False,False,,True
+T20 World Cup,Amjad Ali,United Arab Emirates,Emirati,1979-09-25,False,False,,True
+T20 World Cup,Faizan Asif,United Arab Emirates,,,,,,False
+T20 World Cup,Swapnil Patil,United Arab Emirates,Emirati,1985-04-15,False,True,,True
+T20 World Cup,Rohan Mustafa,United Arab Emirates,Emirati,1988-10-07,True,False,OFF_SPIN,True
+T20 World Cup,Shaiman Anwar,United Arab Emirates,Emirati,1979-03-15,True,True,LEG_SPIN,True
+T20 World Cup,Vikrant Shetty,United Arab Emirates,,,,,,False
+T20 World Cup,Amjad Javed,United Arab Emirates,Emirati,1980-07-05,False,True,,True
+T20 World Cup,Ahmed Raza,United Arab Emirates,Emirati,1988-10-10,False,True,ORTHODOX,True
+T20 World Cup,Manjula Guruge,United Arab Emirates,Emirati,1981-02-14,False,True,,True
+T20 World Cup,Kamran Shazad,United Arab Emirates,Emirati,1980-08-25,False,True,,True
+T20 World Cup,Sharif Asadullah,United Arab Emirates,,,,,,False
+T20 World Cup,Shadeep Silva,United Arab Emirates,,,,,,False
+T20 World Cup,Moaaz Qazi,United Arab Emirates,,,,,,False
+T20 World Cup,Rohit Singh,United Arab Emirates,,,,,,False
+T20 World Cup,CP Rizwan,United Arab Emirates,Emirati,1988-04-19,True,True,LEG_SPIN,True
+T20 World Cup,Vriitya Aravind,United Arab Emirates,Emirati,2002-06-11,True,True,,True
+T20 World Cup,Basil Hameed,United Arab Emirates,,,True,True,MEDIUM_SEAM,True
+T20 World Cup,Chirag Suri,United Arab Emirates,Emirati,1995-02-18,True,True,OFF_SPIN,True
+T20 World Cup,Muhammad Waseem,United Arab Emirates,,,,,,False
+T20 World Cup,Alishan Sharafu,United Arab Emirates,Emirati,2003-01-10,True,True,MEDIUM_SEAM,True
+T20 World Cup,Aayan Afzal Khan,United Arab Emirates,,,,,,False
+T20 World Cup,Fahad Nawaz,United Arab Emirates,Emirati,2000-01-15,False,True,ORTHODOX,True
+T20 World Cup,Kashif Daud,United Arab Emirates,,,True,True,MEDIUM_SEAM,True
+T20 World Cup,Aryan Lakra,United Arab Emirates,,,,,,False
+T20 World Cup,Junaid Siddique,United Arab Emirates,Bangladeshi,1987-10-30,False,False,,True
+T20 World Cup,Karthik Meiyappan,United Arab Emirates,,,,,,False
+T20 World Cup,Sabir Ali,United Arab Emirates,,,,,,False
+T20 World Cup,Zahoor Khan,United Arab Emirates,Emirati,1989-05-25,True,True,MEDIUM_SEAM,True
+T20 World Cup,Fred Achelam,Uganda,,2001-01-27,,True,,True
+T20 World Cup,Roger Mukasa,Uganda,,1989-05-22,,True,Right-arm off break,True
+T20 World Cup,Robinson Obuya,Uganda,,2000-12-12,,True,,True
+T20 World Cup,Ronak Patel,Uganda,,1988-08-18,,True,Slow left-arm orthodox,True
+T20 World Cup,Simon Ssesazi,Uganda,,1996-06-06,,False,Right-arm slow,True
+T20 World Cup,Riazat Ali Shah,Uganda,,1998-02-20,,True,Right-arm medium,True
+T20 World Cup,Dinesh Nakrani,Uganda,,1991-09-21,,False,Left-arm medium,True
+T20 World Cup,Frank Nsubuga,Uganda,,1980-08-20,,True,Slow left-arm orthodox,True
+T20 World Cup,Alpesh Ramjani,Uganda,,1994-09-24,,False,Slow left-arm orthodox,True
+T20 World Cup,Kenneth Waiswa,Uganda,,1998-11-11,,True,Right-arm medium,True
+T20 World Cup,Brian Masaba,Uganda,,1991-09-22,,True,Right-arm fast medium,True
+T20 World Cup,Bilal Hassan,Uganda,,1990-04-15,,True,Right-arm medium fast,True
+T20 World Cup,Cosmas Kyewuta,Uganda,,2001-12-28,,True,Right-arm medium,True
+T20 World Cup,Juma Miyagi,Uganda,,2003-04-05,,True,Right-arm medium,True
+T20 World Cup,Henry Ssenyondo,Uganda,,1993-08-12,,True,Slow left-arm orthodox,True
+T20 World Cup,Monank Patel,United States of America,American,1993-05-01,True,True,,True
+T20 World Cup,Aaron Jones,United States of America,American,1994-10-19,True,True,LEG_SPIN,True
+T20 World Cup,Andries Gous,United States of America,,1994-11-24,,True,,True
+T20 World Cup,Nitish Kumar,United States of America,Canadian,1994-05-21,False,True,,True
+T20 World Cup,Shayan Jahangir,United States of America,,1994-12-24,,True,Right-arm fast medium,True
+T20 World Cup,Steven Taylor,United States of America,American,1993-11-09,True,False,OFF_SPIN,True
+T20 World Cup,Harmeet Singh,United States of America,,,,,,False
+T20 World Cup,Milind Kumar,United States of America,,1991-02-15,,True,Right-arm off break,True
+T20 World Cup,Nisarg Patel,United States of America,American,1988-04-20,False,True,ORTHODOX,True
+T20 World Cup,Shadley van Schalkwyk,United States of America,,1988-07-05,,False,Right-arm medium,True
+T20 World Cup,Ali Khan,United States of America,,,True,True,,True
+T20 World Cup,Jasdeep Singh,United States of America,American,1993-02-10,True,True,MEDIUM_SEAM,True
+T20 World Cup,Nosthush Kenjige,United States of America,American,1991-03-02,False,True,ORTHODOX,True
+T20 World Cup,Saurabh Netravalkar,United States of America,,1991-10-16,False,True,FAST_SEAM,True
+T20 World Cup,Ramnaresh Sarwan,West Indies,West Indian,1980-06-23,True,True,LEG_SPIN,True
+T20 World Cup,Shivnarine Chanderpaul,West Indies,West Indian,1974-08-16,True,False,LEG_SPIN,True
+T20 World Cup,Narsingh Deonarine,West Indies,West Indian,1983-08-16,False,True,,True
+T20 World Cup,Runako Morton,West Indies,,,,,,False
+T20 World Cup,Denesh Ramdin,West Indies,West Indian,1985-03-13,False,True,,True
+T20 World Cup,Marlon Samuels,West Indies,West Indian,1981-02-05,True,True,OFF_SPIN,True
+T20 World Cup,Devon Smith,West Indies,West Indian,1981-10-21,False,False,,True
+T20 World Cup,Dwayne Bravo,West Indies,West Indian,1983-10-07,True,True,MEDIUM_SEAM,True
+T20 World Cup,Chris Gayle,West Indies,West Indian,1979-09-21,True,False,OFF_SPIN,True
+T20 World Cup,Daren Sammy,West Indies,West Indian,1983-12-20,False,True,,True
+T20 World Cup,Dwayne Smith,West Indies,West Indian,1983-04-12,True,True,,True
+T20 World Cup,Pedro Collins,West Indies,Barbados,1976-08-12,False,True,,True
+T20 World Cup,Fidel Edwards,West Indies,,,,,,False
+T20 World Cup,Daren Powell,West Indies,Jamaican,1978-04-15,False,True,,True
+T20 World Cup,Ravi Rampaul,West Indies,West Indian,1984-10-15,True,True,FAST_SEAM,True
+T20 World Cup,Andre Fletcher,West Indies,West Indian,1987-11-28,False,True,,True
+T20 World Cup,Xavier Marshall,West Indies,American,1986-03-27,True,True,OFF_SPIN,True
+T20 World Cup,Lendl Simmons,West Indies,West Indian,1985-01-25,True,True,,True
+T20 World Cup,Kieron Pollard,West Indies,West Indian,1987-05-12,True,True,MEDIUM_SEAM,True
+T20 World Cup,Lionel Baker,West Indies,,,,,,False
+T20 World Cup,Sulieman Benn,West Indies,West Indian,1981-07-22,False,False,,True
+T20 World Cup,Jerome Taylor,West Indies,West Indian,1984-06-22,True,True,FAST_SEAM,True
+T20 World Cup,David Bernard,West Indies,,,,,,False
+T20 World Cup,Wavell Hinds,West Indies,Jamaican,1976-09-07,False,True,,True
+T20 World Cup,Nikita Miller,West Indies,West Indian,1982-05-16,False,True,,True
+T20 World Cup,Kemar Roach,West Indies,West Indian,1988-06-30,True,True,FAST_SEAM,True
+T20 World Cup,Darren Bravo,West Indies,West Indian,1989-02-06,True,False,MEDIUM_SEAM,True
+T20 World Cup,Johnson Charles,West Indies,West Indian,1989-01-14,False,True,,True
+T20 World Cup,Sunil Narine,West Indies,West Indian,1988-05-26,True,False,OFF_SPIN,True
+T20 World Cup,Andre Russell,West Indies,West Indian,1988-04-29,True,True,FAST_SEAM,True
+T20 World Cup,Samuel Badree,West Indies,,,,,,False
+T20 World Cup,Sheldon Cottrell,West Indies,West Indian,1989-08-19,False,True,FAST_SEAM,True
+T20 World Cup,Krishmar Santokie,West Indies,,,,,,False
+T20 World Cup,Evin Lewis,West Indies,West Indian,1991-12-27,False,False,,True
+T20 World Cup,Carlos Brathwaite,West Indies,West Indian,1988-07-18,True,True,MEDIUM_SEAM,True
+T20 World Cup,Jason Holder,West Indies,West Indian,1991-11-05,True,True,MEDIUM_SEAM,True
+T20 World Cup,Ashley Nurse,West Indies,West Indian,1988-12-22,True,True,OFF_SPIN,True
+T20 World Cup,Nicholas Pooran,West Indies,West Indian,1995-10-02,False,False,,True
+T20 World Cup,Shimron Hetmyer,West Indies,West Indian,1996-12-26,False,False,,True
+T20 World Cup,Roston Chase,West Indies,West Indian,1992-03-22,True,True,OFF_SPIN,True
+T20 World Cup,Akeal Hosein,West Indies,West Indian,1993-04-25,False,False,ORTHODOX,True
+T20 World Cup,Oshane Thomas,West Indies,West Indian,1997-02-18,True,False,FAST_SEAM,True
+T20 World Cup,Hayden Walsh,West Indies,West Indian,1992-04-23,True,False,LEG_SPIN,True
+T20 World Cup,Rovman Powell,West Indies,West Indian,1993-07-23,True,True,MEDIUM_SEAM,True
+T20 World Cup,Shamarh Brooks,West Indies,West Indian,1988-10-01,True,True,,True
+T20 World Cup,Brandon King,West Indies,West Indian,1994-12-16,True,True,,True
+T20 World Cup,Kyle Mayers,West Indies,West Indian,1992-09-08,False,False,,True
+T20 World Cup,Raymon Reifer,West Indies,West Indian,1991-05-11,False,False,MEDIUM_SEAM,True
+T20 World Cup,Odean Smith,West Indies,West Indian,1996-11-01,True,True,MEDIUM_SEAM,True
+T20 World Cup,Yannic Cariah,West Indies,,,,,,False
+T20 World Cup,Alzarri Joseph,West Indies,West Indian,1996-11-20,True,True,FAST_SEAM,True
+T20 World Cup,Obed McCoy,West Indies,West Indian,1997-01-04,False,True,,True
+T20 World Cup,Shai Hope,West Indies,West Indian,1993-11-10,True,True,,True
+T20 World Cup,Sherfane Rutherford,West Indies,,1998-08-15,,False,Right-arm medium fast,True
+T20 World Cup,Romario Shepherd,West Indies,West Indian,1994-11-26,True,True,MEDIUM_SEAM,True
+T20 World Cup,Shamar Joseph,West Indies,,1999-08-31,,False,Right-arm fast,True
+T20 World Cup,Gudakesh Motie,West Indies,,1995-03-29,,False,Slow left-arm orthodox,True
+T20 World Cup,Chamu Chibhabha,Zimbabwe,Zimbabwean,1986-09-06,True,True,MEDIUM_SEAM,True
+T20 World Cup,Timycen Maruma,Zimbabwe,Zimbabwean,1988-04-19,True,True,LEG_SPIN,True
+T20 World Cup,Hamilton Masakadza,Zimbabwe,Zimbabwean,1983-08-09,True,True,MEDIUM_SEAM,True
+T20 World Cup,Stuart Matsikenyeri,Zimbabwe,Zimbabwean,1983-05-03,False,True,,True
+T20 World Cup,Vusi Sibanda,Zimbabwe,Zimbabwean,1983-10-10,False,True,,True
+T20 World Cup,Tatenda Taibu,Zimbabwe,Zimbabwean,1983-05-14,False,True,,True
+T20 World Cup,Brendan Taylor,Zimbabwe,Zimbabwean,1986-02-06,True,True,OFF_SPIN,True
+T20 World Cup,Sean Williams,Zimbabwe,Zimbabwean,1986-09-26,False,False,ORTHODOX,True
+T20 World Cup,Elton Chigumbura,Zimbabwe,Zimbabwean,1986-03-14,False,True,,True
+T20 World Cup,Keith Dabengwa,Zimbabwe,,,,,,False
+T20 World Cup,Prosper Utseya,Zimbabwe,Zimbabwean,1985-03-26,True,True,OFF_SPIN,True
+T20 World Cup,Gary Brent,Zimbabwe,,,,,,False
+T20 World Cup,Chris Mpofu,Zimbabwe,Zimbabwean,1985-11-27,True,True,FAST_SEAM,True
+T20 World Cup,Tawanda Mupariwa,Zimbabwe,Zimbabwean,1985-04-16,False,True,,True
+T20 World Cup,Johnson Marumisa,Zimbabwe,,,,,,False
+T20 World Cup,Charles Coventry,Zimbabwe,Zimbabwean,1983-03-08,False,True,,True
+T20 World Cup,Craig Ervine,Zimbabwe,Zimbabwean,1985-08-19,True,False,OFF_SPIN,True
+T20 World Cup,Andy Blignaut,Zimbabwe,Zimbabwean,1978-08-01,False,True,,True
+T20 World Cup,Greg Lamb,Zimbabwe,,,,,,False
+T20 World Cup,Graeme Cremer,Zimbabwe,Zimbabwean,1986-09-19,False,True,,True
+T20 World Cup,Ray Price,Zimbabwe,Zimbabwean,1976-06-12,False,True,,True
+T20 World Cup,Forster Mutizwa,Zimbabwe,,,,,,False
+T20 World Cup,Malcolm Waller,Zimbabwe,Zimbabwean,1984-02-28,False,True,,True
+T20 World Cup,Kyle Jarvis,Zimbabwe,Zimbabwean,1989-02-16,True,True,FAST_SEAM,True
+T20 World Cup,Brian Vitori,Zimbabwe,Zimbabwean,1990-02-22,False,False,,True
+T20 World Cup,Richard Muzhange,Zimbabwe,,,,,,False
+T20 World Cup,Tafadzwa Kamungozi,Zimbabwe,Zimbabwean,1987-06-08,False,True,,True
+T20 World Cup,Sikandar Raza,Zimbabwe,Zimbabwean,1986-04-24,True,True,OFF_SPIN,True
+T20 World Cup,Tendai Chatara,Zimbabwe,Zimbabwean,1991-02-28,True,True,FAST_SEAM,True
+T20 World Cup,Shingi Masakadza,Zimbabwe,Zimbabwean,1986-09-04,False,True,,True
+T20 World Cup,Natsai M'shangwe,Zimbabwe,Zimbabwean,1991-02-09,False,True,,True
+T20 World Cup,Tinashe Panyangara,Zimbabwe,Zimbabwean,1985-10-21,False,True,,True
+T20 World Cup,Peter Moor,Zimbabwe,Zimbabwean,1992-02-02,True,True,OFF_SPIN,True
+T20 World Cup,Richmond Mutumbami,Zimbabwe,Zimbabwean,1989-06-11,True,True,OFF_SPIN,True
+T20 World Cup,Tendai Chisoro,Zimbabwe,Zimbabwean,1988-02-12,False,False,,True
+T20 World Cup,Wellington Masakadza,Zimbabwe,Zimbabwean,1993-10-04,False,False,,True
+T20 World Cup,Donald Tiripano,Zimbabwe,Zimbabwean,1988-03-17,True,True,FAST_SEAM,True
+T20 World Cup,Regis Chakabva,Zimbabwe,Zimbabwean,1987-09-20,True,True,OFF_SPIN,True
+T20 World Cup,Clive Madande,Zimbabwe,,,,,,False
+T20 World Cup,Milton Shumba,Zimbabwe,Zimbabwean,2000-10-19,False,True,,True
+T20 World Cup,Ryan Burl,Zimbabwe,Zimbabwean,1994-04-15,True,False,LEG_SPIN,True
+T20 World Cup,Brad Evans,Zimbabwe,,,,,,False
+T20 World Cup,Luke Jongwe,Zimbabwe,Zimbabwean,1995-02-06,False,True,,True
+T20 World Cup,Wessly Madhevere,Zimbabwe,Zimbabwean,2000-09-04,True,True,OFF_SPIN,True
+T20 World Cup,Tony Munyonga,Zimbabwe,,,,,,False
+T20 World Cup,Blessing Muzarabani,Zimbabwe,Zimbabwean,1996-10-02,True,True,FAST_SEAM,True
+T20 World Cup,Richard Ngarava,Zimbabwe,Zimbabwean,1997-12-28,False,False,,True

@@ -1,0 +1,36 @@
+tournament,year,venue,winner,runner_up,semi_finalists,final_player_of_match,player_of_tournament,cycle,cycle_label,edition_id
+Champions Trophy,1998,Bangladesh,South Africa,West Indies,"SA, WI, IND, SL",Jacques Kallis,Jacques Kallis,,,CHAMPIONSTROPHY-1998
+Champions Trophy,2000,Kenya,New Zealand,India,"NZ, IND, PAK, SA",Chris Cairns,-,,,CHAMPIONSTROPHY-2000
+Champions Trophy,2002,Sri Lanka,IND/SL Joint,-,"IND, SL, AUS, SA",-,-,,,CHAMPIONSTROPHY-2002
+Champions Trophy,2004,England,West Indies,England,"WI, ENG, PAK, AUS",Ian Bradshaw,R. Sarwan,,,CHAMPIONSTROPHY-2004
+Champions Trophy,2006,India,Australia,West Indies,"AUS, WI, NZ, SA",Shane Watson,Chris Gayle,,,CHAMPIONSTROPHY-2006
+Champions Trophy,2009,South Africa,Australia,New Zealand,"AUS, NZ, ENG, PAK",Shane Watson,Ricky Ponting,,,CHAMPIONSTROPHY-2009
+Champions Trophy,2013,UK,India,England,"IND, ENG, SL, SA",R. Jadeja,Shikhar Dhawan,,,CHAMPIONSTROPHY-2013
+Champions Trophy,2017,UK,Pakistan,India,"PAK, IND, ENG, BAN",Fakhar Zaman,Hasan Ali,,,CHAMPIONSTROPHY-2017
+Champions Trophy,2025,PAK/UAE,India,New Zealand,"IND, NZ, AUS, SA",Rohit Sharma,Rachin Ravindra,,,CHAMPIONSTROPHY-2025
+ODI World Cup,1975,England,West Indies,Australia,"WI, AUS, NZ, ENG",Clive Lloyd,-,,,ODIWORLDCUP-1975
+ODI World Cup,1979,England,West Indies,England,"WI, ENG, PAK, NZ",Viv Richards,-,,,ODIWORLDCUP-1979
+ODI World Cup,1983,England,India,West Indies,"IND, WI, PAK, ENG",M. Amarnath,-,,,ODIWORLDCUP-1983
+ODI World Cup,1987,India/PAK,Australia,England,"AUS, ENG, IND, PAK",David Boon,-,,,ODIWORLDCUP-1987
+ODI World Cup,1992,AUS/NZ,Pakistan,England,"PAK, ENG, NZ, SA",Wasim Akram,Martin Crowe,,,ODIWORLDCUP-1992
+ODI World Cup,1996,Asia,Sri Lanka,Australia,"SL, AUS, IND, WI",A. de Silva,Sanath Jayasuriya,,,ODIWORLDCUP-1996
+ODI World Cup,1999,England,Australia,Pakistan,"AUS, PAK, SA, NZ",Shane Warne,Lance Klusener,,,ODIWORLDCUP-1999
+ODI World Cup,2003,South Africa,Australia,India,"AUS, IND, KEN, SL",Ricky Ponting,Sachin Tendulkar,,,ODIWORLDCUP-2003
+ODI World Cup,2007,West Indies,Australia,Sri Lanka,"AUS, SL, NZ, SA",Adam Gilchrist,Glenn McGrath,,,ODIWORLDCUP-2007
+ODI World Cup,2011,Asia,India,Sri Lanka,"IND, SL, PAK, NZ",MS Dhoni,Yuvraj Singh,,,ODIWORLDCUP-2011
+ODI World Cup,2015,AUS/NZ,Australia,New Zealand,"AUS, NZ, IND, SA",James Faulkner,Mitchell Starc,,,ODIWORLDCUP-2015
+ODI World Cup,2019,UK,England,New Zealand,"ENG, NZ, IND, AUS",Ben Stokes,Kane Williamson,,,ODIWORLDCUP-2019
+ODI World Cup,2023,India,Australia,India,"AUS, IND, NZ, SA",Travis Head,Virat Kohli,,,ODIWORLDCUP-2023
+T20 World Cup,2007,South Africa,India,Pakistan,"IND, PAK, AUS, NZ",Irfan Pathan,Shahid Afridi,,,T20WORLDCUP-2007
+T20 World Cup,2009,England,Pakistan,Sri Lanka,"PAK, SL, SA, WI",Shahid Afridi,T. Dilshan,,,T20WORLDCUP-2009
+T20 World Cup,2010,West Indies,England,Australia,"ENG, AUS, SL, PAK",C. Kieswetter,K. Pietersen,,,T20WORLDCUP-2010
+T20 World Cup,2012,Sri Lanka,West Indies,Sri Lanka,"WI, SL, AUS, PAK",Marlon Samuels,Shane Watson,,,T20WORLDCUP-2012
+T20 World Cup,2014,Bangladesh,Sri Lanka,India,"SL, IND, WI, SA",K. Sangakkara,Virat Kohli,,,T20WORLDCUP-2014
+T20 World Cup,2016,India,West Indies,England,"WI, ENG, IND, NZ",Marlon Samuels,Virat Kohli,,,T20WORLDCUP-2016
+T20 World Cup,2021,UAE/Oman,Australia,New Zealand,"AUS, NZ, PAK, ENG",Mitchell Marsh,David Warner,,,T20WORLDCUP-2021
+T20 World Cup,2022,Australia,England,Pakistan,"ENG, PAK, IND, NZ",Sam Curran,Sam Curran,,,T20WORLDCUP-2022
+T20 World Cup,2024,USA/WI,India,South Africa,"IND, SA, ENG, AFG",Virat Kohli,J. Bumrah,,,T20WORLDCUP-2024
+World Test Championship,2021,Southampton,New Zealand,India,,,,2019-2021,2019-2021,WORLDTESTCHAMPIONSHIP-2021
+World Test Championship,2023,"The Oval, London",Australia,India,,,,2021-2023,2021-2023,WORLDTESTCHAMPIONSHIP-2023
+World Test Championship,2025,"Lord's, London",South Africa,Australia,,,,2023-2025,2023-2025,WORLDTESTCHAMPIONSHIP-2025
+T20 World Cup,2026,India/Sri Lanka,India,New Zealand,"IND, NZ, SA, ENG",J. Bumrah,Sanju Samson,,,T20WORLDCUP-2026

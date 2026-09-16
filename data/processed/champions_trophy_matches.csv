@@ -1,0 +1,130 @@
+match_id,year,match_date,team1,team2,toss,winner,margin,player_of_match,ground,match_no,team1_avg_batting_ranking,team2_avg_batting_ranking,team1_avg_bowling_ranking,team2_avg_bowling_ranking,team1_total_cts_participated,team1_total_cts_won,team2_total_cts_participated,team2_total_cts_won,team1_wl_ratio_over_team2
+CT-1998-1,1998,1998-10-24,New Zealand,Zimbabwe,"Zimbabwe, elected to bat first",New Zealand,5 wickets,Stephen Fleming,Dhaka,ODI # 1357,79.58,64.55,79.92,76.0,0,0,0,0,4.0
+CT-1998-2,1998,1998-10-25,England,South Africa,"England, elected to bat first",South Africa,6 wickets,Daryll Cullinan,Dhaka,ODI # 1358,75.91,67.83,90.45,84.67,0,0,0,0,0.6
+CT-1998-3,1998,1998-10-26,New Zealand,Sri Lanka,"Sri Lanka, elected to field first",Sri Lanka,5 wickets,Arjuna Ranatunga,Dhaka,ODI # 1359,79.25,53.36,79.67,69.82,0,0,0,0,2.0
+CT-1998-4,1998,1998-10-28,Australia,India,"Australia, elected to field first",India,44 runs,Sachin Tendulkar,Dhaka,ODI # 1360,58.55,58.0,78.73,64.82,0,0,0,0,1.38
+CT-1998-5,1998,1998-10-29,Pakistan,West Indies,"West Indies, elected to bat first",West Indies,30 runs,Keith Arthurton,Dhaka,ODI # 1361,88.36,65.0,70.0,87.17,0,0,0,0,0.806
+CT-1998-6,1998,1998-10-30,South Africa,Sri Lanka,"Sri Lanka, elected to field first",South Africa,92 runs,Jacques Kallis,Dhaka,ODI # 1362,66.92,53.55,83.08,69.18,0,0,0,0,1.166
+CT-1998-7,1998,1998-10-31,India,West Indies,"India, elected to bat first",West Indies,6 wickets,Mervyn Dillon,Dhaka,ODI # 1363,58.0,63.92,63.73,86.25,0,0,0,0,0.527
+CT-1998-8,1998,1998-11-01,South Africa,West Indies,"South Africa, elected to field first",South Africa,4 wickets,Jacques Kallis,Dhaka,ODI # 1364,66.58,63.42,81.5,84.92,0,0,0,0,1.0
+CT-2000-9,2000,2000-10-03,Kenya,India,"India, elected to field first",India,8 wickets,Anil Kumble,Nairobi (Gym),ODI # 1630,95.08,75.43,91.15,71.36,0,0,1,0,0.2
+CT-2000-10,2000,2000-10-04,Sri Lanka,West Indies,"West Indies, elected to field first",Sri Lanka,108 runs,Avishka Gunawardene,Nairobi (Gym),ODI # 1631,67.5,82.71,76.07,88.86,0,0,1,0,0.428
+CT-2000-11,2000,2000-10-05,Bangladesh,England,"Bangladesh, elected to bat first",England,8 wickets,Alec Stewart,Nairobi (Gym),ODI # 1632,96.0,75.13,98.36,84.27,0,0,1,0,0.0
+CT-2000-12,2000,2000-10-07,Australia,India,"Australia, elected to field first",India,20 runs,Yuvraj Singh,Nairobi (Gym),ODI # 1633,57.21,75.57,73.64,71.79,1,0,1,0,1.636
+CT-2000-13,2000,2000-10-08,Pakistan,Sri Lanka,"Sri Lanka, elected to bat first",Pakistan,9 wickets,Saeed Anwar,Nairobi (Gym),ODI # 1634,69.07,65.93,66.79,75.93,1,0,1,0,1.857
+CT-2000-14,2000,2000-10-09,New Zealand,Zimbabwe,"Zimbabwe, elected to field first",New Zealand,64 runs,Roger Twose,Nairobi (Gym),ODI # 1635,63.86,76.08,74.79,75.31,1,0,0,0,2.8
+CT-2000-15,2000,2000-10-10,England,South Africa,"England, elected to bat first",South Africa,8 wickets,Jacques Kallis,Nairobi (Gym),ODI # 1636,74.93,65.29,83.93,67.5,1,0,1,1,0.466
+CT-2000-16,2000,2000-10-11,New Zealand,Pakistan,"Pakistan, elected to bat first",New Zealand,4 wickets,Shayne O'Connor,Nairobi (Gym),ODI # 1637,64.0,68.21,74.21,66.21,1,0,1,0,0.58
+CT-2000-17,2000,2000-10-13,India,South Africa,"India, elected to bat first",India,95 runs,Sourav Ganguly,Nairobi (Gym),ODI # 1638,75.64,65.43,71.71,67.21,1,0,1,1,0.5
+CT-2000-18,2000,2000-10-15,India,New Zealand,"New Zealand, elected to field first",New Zealand,4 wickets,Chris Cairns,Nairobi (Gym),ODI # 1639,75.43,63.07,70.71,74.29,1,0,1,0,1.25
+CT-2002-19,2002,2002-09-12,Sri Lanka,Pakistan,"Pakistan, elected to bat first",Sri Lanka,8 wickets,Sanath Jayasuriya,Colombo (RPS),ODI # 1874,59.45,67.82,70.73,60.09,2,0,2,0,0.586
+CT-2002-20,2002,2002-09-13,South Africa,West Indies,"South Africa, elected to field first",South Africa,2 wickets,Jonty Rhodes,Colombo (SSC),ODI # 1875,61.93,60.64,69.0,76.27,2,1,2,0,2.125
+CT-2002-21,2002,2002-09-14,India,Zimbabwe,"India, elected to bat first",India,14 runs,Mohammad Kaif,Colombo (RPS),ODI # 1876,60.0,70.5,66.92,84.17,2,0,2,0,4.0
+CT-2002-22,2002,2002-09-15,Australia,New Zealand,"Australia, elected to bat first",Australia,164 runs,Glenn McGrath,Colombo (SSC),ODI # 1877,57.75,76.67,68.67,71.0,2,0,2,1,2.24
+CT-2002-23,2002,2002-09-16,Sri Lanka,Netherlands,"Sri Lanka, elected to bat first",Sri Lanka,206 runs,Marvan Atapattu,Colombo (RPS),ODI # 1878,59.55,101.0,70.55,101.0,2,0,0,0,2.0
+CT-2002-24,2002,2002-09-17,Kenya,West Indies,"West Indies, elected to bat first",West Indies,29 runs,Brian Lara,Colombo (SSC),ODI # 1879,93.5,60.36,88.67,75.45,1,0,2,0,0.333
+CT-2002-25,2002,2002-09-18,England,Zimbabwe,"England, elected to bat first",England,108 runs,Marcus Trescothick,Colombo (RPS),ODI # 1880,75.58,69.92,89.08,83.67,2,0,2,0,2.0
+CT-2002-26,2002,2002-09-19,Australia,Bangladesh,"Bangladesh, elected to bat first",Australia,9 wickets,Jason Gillespie,Colombo (SSC),ODI # 1881,57.5,98.0,68.5,95.07,2,0,1,0,2.0
+CT-2002-27,2002,2002-09-20,Kenya,South Africa,"South Africa, elected to bat first",South Africa,176 runs,Herschelle Gibbs,Colombo (RPS),ODI # 1882,93.67,61.87,88.75,69.27,1,0,2,1,0.0
+CT-2002-28,2002,2002-09-21,Netherlands,Pakistan,"Netherlands, elected to bat first",Pakistan,9 wickets,Shahid Afridi,Colombo (SSC),ODI # 1883,101.0,67.09,101.0,61.09,0,0,2,0,0.0
+CT-2002-29,2002,2002-09-22,England,India,"England, elected to bat first",India,8 wickets,Virender Sehwag,Colombo (RPS),ODI # 1884,75.83,59.54,88.0,66.77,2,0,2,0,1.095
+CT-2002-30,2002,2002-09-23,Bangladesh,New Zealand,"Bangladesh, elected to field first",New Zealand,167 runs,Shane Bond,Colombo (SSC),ODI # 1885,98.07,76.42,95.43,70.67,1,0,2,1,0.0
+CT-2002-31,2002,2002-09-25,India,South Africa,"India, elected to bat first",India,10 runs,Virender Sehwag,Colombo (RPS),ODI # 1886,58.38,61.93,66.0,69.47,2,0,2,1,0.518
+CT-2002-32,2002,2002-09-27,Sri Lanka,Australia,"Australia, elected to bat first",Sri Lanka,7 wickets,Aravinda de Silva,Colombo (RPS),ODI # 1887,59.64,57.42,71.09,68.0,2,0,2,0,0.464
+CT-2002-33,2002,2002-09-29,Sri Lanka,India,"Sri Lanka, elected to bat first",no result,-,,Colombo (RPS),ODI # 1888,59.09,57.46,69.55,65.92,2,0,2,0,0.743
+CT-2002-34,2002,2002-09-30,Sri Lanka,India,"Sri Lanka, elected to bat first",no result,-,,Colombo (RPS),ODI # 1889,59.0,57.38,70.91,65.46,2,0,2,0,0.743
+CT-2004-35,2004,2004-09-10,England,Zimbabwe,"Zimbabwe, elected to field first",England,152 runs,Paul Collingwood,Birmingham,ODI # 2168,67.36,89.18,71.18,96.82,3,0,3,0,2.0
+CT-2004-36,2004,2004-09-10,New Zealand,U.S.A.,"United States of America, elected to field first",New Zealand,210 runs,Nathan Astle,The Oval,ODI # 2169,57.25,101.0,58.17,101.0,3,1,0,0,2.0
+CT-2004-37,2004,2004-09-11,India,Kenya,"Kenya, elected to field first",India,98 runs,Sourav Ganguly,Southampton,ODI # 2170,65.25,99.67,70.58,96.42,3,1,2,0,5.0
+CT-2004-38,2004,2004-09-12,Bangladesh,South Africa,"Bangladesh, elected to bat first",South Africa,9 wickets,Charl Langeveldt,Birmingham,ODI # 2171,95.25,53.45,93.92,70.55,2,0,3,1,0.0
+CT-2004-39,2004,2004-09-13,Australia,U.S.A.,"Australia, elected to field first",Australia,9 wickets,Michael Kasprowicz,Southampton,ODI # 2172,52.25,101.0,63.08,101.0,3,0,0,0,0.0
+CT-2004-40,2004,2004-09-14,Kenya,Pakistan,"Pakistan, elected to field first",Pakistan,7 wickets,Shahid Afridi,Birmingham,ODI # 2174,100.33,57.58,96.33,69.08,2,0,3,0,0.0
+CT-2004-41,2004,2004-09-14,Sri Lanka,Zimbabwe,"Sri Lanka, elected to field first",Sri Lanka,4 wickets,Elton Chigumbura,The Oval,ODI # 2173,61.18,88.27,71.09,97.09,3,1,3,0,4.5
+CT-2004-42,2004,2004-09-15,Bangladesh,West Indies,"Bangladesh, elected to field first",West Indies,138 runs,Chris Gayle,Southampton,ODI # 2175,95.83,68.57,94.0,80.5,2,0,3,0,0.0
+CT-2004-43,2004,2004-09-16,Australia,New Zealand,"Australia, elected to field first",Australia,7 wickets,Andrew Symonds,The Oval,ODI # 2176,52.08,56.42,63.17,58.25,3,0,3,1,2.44
+CT-2004-44,2004,2004-09-17,England,Sri Lanka,"Sri Lanka, elected to field first",England,49 runs,Andrew Flintoff,Southampton,ODI # 2177,66.73,60.82,70.45,70.09,3,0,3,1,1.384
+CT-2004-45,2004,2004-09-18,South Africa,West Indies,"West Indies, elected to field first",West Indies,5 wickets,Ramnaresh Sarwan,The Oval,ODI # 2178,53.0,68.29,68.45,78.64,3,1,3,0,2.1
+CT-2004-46,2004,2004-09-19,India,Pakistan,"Pakistan, elected to field first",Pakistan,3 wickets,Mohammad Yousuf,Birmingham,ODI # 2179,65.5,58.08,70.58,68.83,3,1,3,0,0.589
+CT-2004-47,2004,2004-09-21,England,Australia,"England, elected to field first",England,6 wickets,Michael Vaughan,Birmingham,ODI # 2180,65.55,51.75,70.36,62.0,3,0,3,0,0.704
+CT-2004-48,2004,2004-09-22,Pakistan,West Indies,"Pakistan, elected to bat first",West Indies,7 wickets,Ramnaresh Sarwan,Southampton,ODI # 2181,57.75,67.71,67.83,78.14,3,0,3,0,0.805
+CT-2004-49,2004,2004-09-25,England,West Indies,"West Indies, elected to field first",West Indies,2 wickets,Ian Bradshaw,The Oval,ODI # 2182,64.27,67.71,70.36,77.21,3,0,3,0,0.805
+CT-2006-50,2006,2006-10-07,Bangladesh,Sri Lanka,"Bangladesh, elected to field first",Sri Lanka,37 runs,Upul Tharanga,Mohali,ODI # 2423,88.0,69.85,88.85,76.23,3,0,4,1,0.062
+CT-2006-51,2006,2006-10-08,West Indies,Zimbabwe,"Zimbabwe, elected to bat first",West Indies,9 wickets,Chris Gayle,Ahmedabad,ODI # 2424,66.14,87.92,68.93,87.75,4,1,4,0,3.142
+CT-2006-52,2006,2006-10-10,Sri Lanka,Zimbabwe,"Sri Lanka, elected to bat first",Sri Lanka,144 runs,Upul Tharanga,Ahmedabad,ODI # 2425,69.08,89.0,76.0,88.17,4,1,4,0,4.833
+CT-2006-53,2006,2006-10-11,Bangladesh,West Indies,"Bangladesh, elected to bat first",West Indies,10 wickets,Chris Gayle,Jaipur,ODI # 2426,87.77,65.79,88.69,68.64,3,0,4,1,0.0
+CT-2006-54,2006,2006-10-13,Bangladesh,Zimbabwe,"Zimbabwe, elected to field first",Bangladesh,101 runs,Shahriar Nafees,Jaipur,ODI # 2427,87.38,89.08,88.77,88.58,3,0,4,0,0.352
+CT-2006-55,2006,2006-10-14,Sri Lanka,West Indies,"West Indies, elected to bat first",Sri Lanka,9 wickets,Farveez Maharoof,Brabourne,ODI # 2428,69.0,65.79,75.31,66.64,4,1,4,1,0.66
+CT-2006-56,2006,2006-10-15,India,England,"India, elected to field first",India,4 wickets,Munaf Patel,Jaipur,ODI # 2429,63.33,68.58,75.13,70.5,4,1,4,0,1.115
+CT-2006-57,2006,2006-10-16,New Zealand,South Africa,"South Africa, elected to field first",New Zealand,87 runs,Stephen Fleming,Brabourne,ODI # 2430,65.54,62.0,64.85,68.86,4,1,4,1,0.518
+CT-2006-58,2006,2006-10-17,Pakistan,Sri Lanka,"Sri Lanka, elected to bat first",Pakistan,4 wickets,Abdul Razzaq,Jaipur,ODI # 2431,72.75,69.08,70.92,73.85,4,0,4,1,1.684
+CT-2006-59,2006,2006-10-18,Australia,West Indies,"West Indies, elected to bat first",West Indies,10 runs,Runako Morton,Brabourne,ODI # 2432,60.0,65.86,60.08,67.21,4,0,4,1,0.91
+CT-2006-60,2006,2006-10-20,New Zealand,Sri Lanka,"New Zealand, elected to bat first",Sri Lanka,7 wickets,Stephen Fleming,Brabourne,ODI # 2433,65.62,68.92,64.31,73.77,4,1,4,1,1.28
+CT-2006-61,2006,2006-10-21,Australia,England,"Australia, elected to field first",Australia,6 wickets,Damien Martyn,Jaipur,ODI # 2434,60.75,68.83,60.25,70.25,4,0,4,0,1.382
+CT-2006-62,2006,2006-10-24,South Africa,Sri Lanka,"Sri Lanka, elected to field first",South Africa,78 runs,Shaun Pollock,Ahmedabad,ODI # 2435,62.5,68.15,68.57,72.54,4,1,4,1,0.952
+CT-2006-63,2006,2006-10-25,New Zealand,Pakistan,"Pakistan, elected to field first",New Zealand,51 runs,Stephen Fleming,Mohali,ODI # 2436,66.31,72.25,63.85,70.17,4,1,4,0,0.595
+CT-2006-64,2006,2006-10-26,India,West Indies,"West Indies, elected to field first",West Indies,3 wickets,Shivnarine Chanderpaul,Ahmedabad,ODI # 2437,64.0,65.14,74.33,66.64,4,1,4,1,0.627
+CT-2006-65,2006,2006-10-27,Pakistan,South Africa,"South Africa, elected to bat first",South Africa,124 runs,Makhaya Ntini,Mohali,ODI # 2438,72.08,61.93,69.58,68.71,4,0,4,1,0.464
+CT-2006-66,2006,2006-10-28,England,West Indies,"West Indies, elected to bat first",England,3 wickets,Chris Gayle,Ahmedabad,ODI # 2439,68.25,65.07,70.0,66.5,4,0,4,1,2.625
+CT-2006-67,2006,2006-10-29,India,Australia,"India, elected to bat first",Australia,6 wickets,Damien Martyn,Mohali,ODI # 2440,63.67,60.25,74.67,59.08,4,1,4,0,0.54
+CT-2006-68,2006,2006-11-01,Australia,New Zealand,"New Zealand, elected to field first",Australia,34 runs,Glenn McGrath,Mohali,ODI # 2441,59.25,66.62,59.5,64.23,4,0,4,1,2.592
+CT-2006-69,2006,2006-11-02,South Africa,West Indies,"South Africa, elected to bat first",West Indies,6 wickets,Chris Gayle,Jaipur,ODI # 2442,62.43,64.14,68.14,66.36,4,1,4,1,2.363
+CT-2006-70,2006,2006-11-05,Australia,West Indies,"West Indies, elected to bat first",Australia,8 wickets,"Shane Watson
+",Brabourne,ODI # 2443,59.58,64.21,59.67,65.21,4,0,4,1,0.91
+CT-2009-71,2009,2009-09-22,South Africa,Sri Lanka,"South Africa, elected to field first",Sri Lanka,55 runs,Tillakaratne Dilshan,Centurion,ODI # 2893,68.2,74.73,82.0,76.33,5,1,5,1,1.047
+CT-2009-72,2009,2009-09-23,Pakistan,West Indies,"West Indies, elected to bat first",Pakistan,5 wickets,Umar Akmal,Johannesburg,ODI # 2894,78.07,101.0,70.07,98.73,5,0,5,1,0.734
+CT-2009-73,2009,2009-09-24,South Africa,New Zealand,"South Africa, elected to field first",South Africa,5 wickets,Wayne Parnell,Centurion,ODI # 2895,68.8,85.13,82.33,75.87,5,1,5,1,1.705
+CT-2009-74,2009,2009-09-25,England,Sri Lanka,"England, elected to field first",England,6 wickets,Paul Collingwood,Johannesburg,ODI # 2896,82.33,74.53,80.93,75.87,5,0,5,1,0.789
+CT-2009-75,2009,2009-09-26,Australia,West Indies,"West Indies, elected to field first",Australia,50 runs,Mitchell Johnson,Johannesburg,ODI # 2897,81.67,101.0,74.33,98.8,5,1,5,1,1.017
+CT-2009-76,2009,2009-09-26,India,Pakistan,"Pakistan, elected to bat first",Pakistan,54 runs,Shoaib Malik,Centurion,ODI # 2898,74.67,77.07,82.87,69.07,5,1,5,0,0.661
+CT-2009-77,2009,2009-09-27,South Africa,England,"England, elected to bat first",England,22 runs,Owais Shah,Centurion,ODI # 2900,68.27,81.33,80.53,80.33,5,1,5,0,1.466
+CT-2009-78,2009,2009-09-27,New Zealand,Sri Lanka,"Sri Lanka, elected to field first",New Zealand,38 runs,Daniel Vettori,Johannesburg,ODI # 2899,84.6,74.07,76.0,76.0,5,1,5,1,1.096
+CT-2009-79,2009,2009-09-28,Australia,India,"Australia, elected to bat first",no result,-,,Centurion,ODI # 2901,82.47,73.93,74.13,82.67,5,1,5,1,1.781
+CT-2009-80,2009,2009-09-29,England,New Zealand,"New Zealand, elected to field first",New Zealand,4 wickets,Grant Elliott,Johannesburg,ODI # 2902,80.0,84.2,80.2,75.6,5,0,5,1,0.852
+CT-2009-81,2009,2009-09-30,Australia,Pakistan,"Australia, elected to field first",Australia,2 wickets,Michael Hussey,Centurion,ODI # 2903,80.53,77.33,74.2,68.0,5,1,5,0,1.586
+CT-2009-82,2009,2009-09-30,India,West Indies,"India, elected to field first",India,7 wickets,Virat Kohli,Johannesburg,ODI # 2904,73.93,101.0,82.47,97.6,5,1,5,1,0.685
+CT-2009-83,2009,2009-10-02,Australia,England,"England, elected to bat first",Australia,9 wickets,Shane Watson,Centurion,ODI # 2905,80.6,79.87,74.2,80.33,5,1,5,0,1.526
+CT-2009-84,2009,2009-10-03,New Zealand,Pakistan,"Pakistan, elected to bat first",New Zealand,5 wickets,Daniel Vettori,Johannesburg,ODI # 2906,84.0,76.13,75.53,67.67,5,1,5,0,0.617
+CT-2009-85,2009,2009-10-05,Australia,New Zealand,"New Zealand, elected to bat first",Australia,6 wickets,Shane Watson,Centurion,ODI # 2907,80.27,82.6,73.93,75.67,5,1,5,1,2.5
+CT-2013-86,2013,2013-06-06,India,South Africa,"South Africa, elected to field first",India,26 runs,Shikhar Dhawan,Cardiff,ODI # 3363,76.2,85.67,83.07,80.27,6,1,6,1,0.6
+CT-2013-87,2013,2013-06-07,Pakistan,West Indies,"West Indies, elected to field first",West Indies,2 wickets,Kemar Roach,The Oval,ODI # 3364,79.4,76.47,77.73,73.27,6,0,6,1,0.787
+CT-2013-88,2013,2013-06-08,England,Australia,"England, elected to bat first",England,48 runs,Ian Bell,Birmingham,ODI # 3365,70.87,73.87,67.67,74.4,6,0,6,2,0.686
+CT-2013-89,2013,2013-06-09,New Zealand,Sri Lanka,"Sri Lanka, elected to bat first",New Zealand,1 wicket,Nathan McCullum,Cardiff,ODI # 3366,77.6,78.47,77.2,74.53,6,1,6,1,0.945
+CT-2013-90,2013,2013-06-10,Pakistan,South Africa,"South Africa, elected to bat first",South Africa,67 runs,Hashim Amla,Birmingham,ODI # 3367,79.93,85.87,76.87,80.6,6,0,6,1,0.487
+CT-2013-91,2013,2013-06-11,India,West Indies,"India, elected to field first",India,8 wickets,Ravindra Jadeja,The Oval,ODI # 3368,75.6,76.47,83.53,73.2,6,1,6,1,0.807
+CT-2013-92,2013,2013-06-12,Australia,New Zealand,"Australia, elected to bat first",no result,-,,Birmingham,ODI # 3369,73.47,77.4,74.47,76.13,6,2,6,1,2.5
+CT-2013-93,2013,2013-06-13,England,Sri Lanka,"Sri Lanka, elected to field first",Sri Lanka,7 wickets,Kumar Sangakkara,The Oval,ODI # 3370,70.6,78.8,67.33,74.6,6,0,6,1,1.083
+CT-2013-94,2013,2013-06-14,South Africa,West Indies,"West Indies, elected to field first",tied,-,Colin Ingram,Cardiff,ODI # 3371,85.67,78.27,79.87,73.47,6,1,6,1,3.166
+CT-2013-95,2013,2013-06-15,India,Pakistan,"India, elected to field first",India,8 wickets,Bhuvneshwar Kumar,Birmingham,ODI # 3372,73.53,81.67,82.27,76.8,6,1,6,0,0.69
+CT-2013-96,2013,2013-06-16,England,New Zealand,"New Zealand, elected to field first",England,10 runs,Alastair Cook,Cardiff,ODI # 3373,69.87,77.27,72.6,75.27,6,0,6,1,0.842
+CT-2013-97,2013,2013-06-17,Australia,Sri Lanka,"Australia, elected to field first",Sri Lanka,20 runs,Mahela Jayawardene,The Oval,ODI # 3374,72.53,78.8,74.4,74.2,6,2,6,1,1.833
+CT-2013-98,2013,2013-06-19,England,South Africa,"England, elected to field first",England,7 wickets,James Tredwell,The Oval,ODI # 3375,70.2,85.33,72.27,79.8,6,0,5,1,0.84
+CT-2013-99,2013,2013-06-20,India,Sri Lanka,"India, elected to field first",India,8 wickets,Ishant Sharma,Cardiff,ODI # 3376,71.8,78.07,81.27,74.2,6,1,6,1,1.442
+CT-2013-100,2013,2013-06-23,England,India,"England, elected to field first",India,5 runs,Ravindra Jadeja,Birmingham,ODI # 3377,70.0,70.8,71.53,79.93,6,0,6,1,0.76
+CT-2017-101,2017,2017-06-01,England,Bangladesh,"England, elected to field first",England,8 wickets,Joe Root,The Oval,ODI # 3875,65.2,72.53,69.47,76.27,7,0,4,0,3.75
+CT-2017-102,2017,2017-06-02,Australia,New Zealand,"New Zealand, elected to bat first",no result,-,,Birmingham,ODI # 3876,76.33,71.4,74.13,78.6,7,2,7,1,2.307
+CT-2017-103,2017,2017-06-03,South Africa,Sri Lanka,"Sri Lanka, elected to field first",South Africa,96 runs,Imran Tahir,The Oval,ODI # 3877,73.93,82.53,69.33,80.4,7,1,7,1,1.172
+CT-2017-104,2017,2017-06-04,India,Pakistan,"Pakistan, elected to field first",India,124 runs,Yuvraj Singh,Birmingham,ODI # 3878,66.8,72.4,77.27,78.2,7,2,7,0,0.708
+CT-2017-105,2017,2017-06-05,Australia,Bangladesh,"Bangladesh, elected to bat first",no result,-,,The Oval,ODI # 3879,76.13,72.67,78.73,76.47,7,2,4,0,18.0
+CT-2017-106,2017,2017-06-06,England,New Zealand,"New Zealand, elected to field first",England,87 runs,Jake Ball,Cardiff,ODI # 3880,65.13,71.93,73.0,78.53,7,0,7,1,0.878
+CT-2017-107,2017,2017-06-07,Pakistan,South Africa,"South Africa, elected to bat first",Pakistan,19 runs,Hasan Ali,Birmingham,ODI # 3881,72.87,74.27,78.47,69.27,7,0,7,1,0.51
+CT-2017-108,2017,2017-06-08,India,Sri Lanka,"Sri Lanka, elected to field first",Sri Lanka,7 wickets,Kusal Mendis,The Oval,ODI # 3882,65.93,82.4,76.2,80.0,7,2,7,1,1.537
+CT-2017-109,2017,2017-06-09,Bangladesh,New Zealand,"New Zealand, elected to bat first",Bangladesh,5 wickets,Shakib Al Hasan,Cardiff,ODI # 3883,72.87,72.47,76.53,77.6,4,0,7,1,0.428
+CT-2017-110,2017,2017-06-10,England,Australia,"England, elected to field first",England,40 runs,Ben Stokes,Birmingham,ODI # 3885,65.4,76.2,71.2,77.4,7,0,7,2,0.637
+CT-2017-111,2017,2017-06-11,India,South Africa,"India, elected to field first",India,8 wickets,Jasprit Bumrah,The Oval,ODI # 3886,65.8,74.2,76.67,73.8,7,2,7,1,0.622
+CT-2017-112,2017,2017-06-12,Pakistan,Sri Lanka,"Pakistan, elected to field first",Pakistan,3 wickets,Sarfaraz Ahmed,Cardiff,ODI # 3888,72.33,81.8,77.53,79.73,7,0,7,1,1.448
+CT-2017-113,2017,2017-06-14,England,Pakistan,"Pakistan, elected to field first",Pakistan,8 wickets,Hasan Ali,Cardiff,ODI # 3889,65.13,72.8,69.8,76.53,7,0,7,0,1.633
+CT-2017-114,2017,2017-06-15,Bangladesh,India,"India, elected to field first",India,9 wickets,Rohit Sharma,Birmingham,ODI # 3891,72.8,65.53,77.0,75.07,4,0,7,2,0.192
+CT-2017-115,2017,2017-06-18,India,Pakistan,"India, elected to field first",Pakistan,180 runs,Fakhar Zaman,The Oval,ODI # 3894,65.27,71.87,74.47,75.93,7,2,7,0,0.708
+CT-2025-116,2025,2025-02-19,Pakistan,New Zealand,"Pakistan, elected to field first",New Zealand,60 runs,Tom Latham,Karachi,ODI # 4843,83.47,65.43,95.47,84.14,8,1,8,1,1.15
+CT-2025-117,2025,2025-02-20,Bangladesh,India,"Bangladesh, elected to bat first",India,6 wickets,Shubman Gill,Dubai (DICS),ODI # 4844,89.87,74.8,89.67,82.27,5,0,8,2,0.25
+CT-2025-118,2025,2025-02-21,Afghanistan,South Africa,"South Africa, elected to bat first",South Africa,107 runs,Ryan Rickelton,Karachi,ODI # 4845,77.93,71.93,86.2,77.2,0,0,8,1,0.66
+CT-2025-119,2025,2025-02-22,Australia,England,"Australia, elected to field first",Australia,5 wickets,Josh Inglis,Lahore,ODI # 4846,83.67,84.67,89.53,88.6,8,2,8,0,1.4
+CT-2025-120,2025,2025-02-23,India,Pakistan,"Pakistan, elected to field first",India,6 wickets,Virat Kohli,Dubai (DICS),ODI # 4847,75.0,84.0,82.13,94.47,8,2,8,1,0.78
+CT-2025-121,2025,2025-02-24,Bangladesh,New Zealand,"New Zealand, elected to field first",New Zealand,5 wickets,Micheal Bracewell,Rawalpindi,ODI # 4848,88.93,64.14,90.13,83.07,5,0,8,1,0.333
+CT-2025-122,2025,2025-02-26,Afghanistan,England,"Afghanistan, elected to bat first",Afghanistan,8 runs,Ibrahim Zadran,Lahore,ODI # 4849,78.2,83.0,87.13,88.87,0,0,8,0,0.5
+CT-2025-123,2025,2025-02-28,Afghanistan,Australia,"Afghanistan, elected to bat first",no result,-,,Lahore,ODI # 4850,78.2,83.47,87.13,89.53,0,0,8,2,0.0
+CT-2025-124,2025,2025-03-01,England,South Africa,"England, elected to bat first",South Africa,7 wickets,Marco Jansen,Karachi,ODI # 4851,83.0,72.33,88.87,77.0,8,0,8,1,0.882
+CT-2025-125,2025,2025-03-02,India,New Zealand,"New Zealand, elected to field first",India,44 runs,Varun Chakravarthy,Dubai (DICS),ODI # 4852,75.13,63.14,81.2,81.86,8,2,8,1,1.2
+CT-2025-126,2025,2025-03-04,Australia,India,"Australia, elected to bat first",India,4 wickets,Virat Kohli,Dubai (DICS),ODI # 4853,83.47,75.13,89.53,81.2,8,2,8,2,1.473
+CT-2025-127,2025,2025-03-05,New Zealand,South Africa,"New Zealand, elected to bat first",New Zealand,50 runs,Rachin Ravindra,Lahore,ODI # 4854,63.57,72.73,82.0,76.13,8,1,8,1,0.619
+CT-2025-128,2025,2025-03-09,India,New Zealand,"New Zealand, elected to bat first",India,4 wickets,Rohit Sharma,Dubai (DICS),ODI # 4858,74.53,63.57,81.53,82.0,8,2,8,1,1.22

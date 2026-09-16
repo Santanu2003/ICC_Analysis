@@ -1,0 +1,686 @@
+Tournament,Player_Name,Team,Nationality,DOB,Right_Arm_Bowl,Right_Handed_Bat,Bowling_Style,Matched
+Champions Trophy,Hashmatullah Shahidi,Afghanistan,Afghan,1994-11-04,True,False,OFF_SPIN,True
+Champions Trophy,Ibrahim Zadran,Afghanistan,Afghan,2001-12-12,True,True,MEDIUM_SEAM,True
+Champions Trophy,Ikram Alikhil,Afghanistan,Afghan,2000-09-29,False,False,,True
+Champions Trophy,Rahmanullah Gurbaz,Afghanistan,Afghan,2001-11-28,True,True,MEDIUM_SEAM,True
+Champions Trophy,Sediqullah Atal,Afghanistan,,,,,,False
+Champions Trophy,Rahmat Shah,Afghanistan,Afghan,1993-07-06,True,True,LEG_SPIN,True
+Champions Trophy,Azmatullah Omarzai,Afghanistan,,,,,,False
+Champions Trophy,Gulbadin Naib,Afghanistan,Afghan,1991-03-16,True,True,MEDIUM_SEAM,True
+Champions Trophy,Mohammed Nabi,Afghanistan,Afghan,1985-01-01,True,True,OFF_SPIN,True
+Champions Trophy,Nangeyalia Kharote,Afghanistan,,,,,,False
+Champions Trophy,Rashid Khan,Afghanistan,Pakistani,1959-12-15,False,True,,True
+Champions Trophy,Fareed Ahmad,Afghanistan,Afghan,1994-08-10,False,False,,True
+Champions Trophy,Fazalhaq Farooqi,Afghanistan,,,,,,False
+Champions Trophy,Naveed Zadran,Afghanistan,,,,,,False
+Champions Trophy,Noor Ahmad,Afghanistan,,,,,,False
+Champions Trophy,Mark Waugh,Australia,Australian,1965-06-02,True,True,OFF_SPIN,True
+Champions Trophy,Adam Gilchrist,Australia,Australian,1971-11-14,True,False,OFF_SPIN,True
+Champions Trophy,Ricky Ponting,Australia,Australian,1974-12-19,True,True,MEDIUM_SEAM,True
+Champions Trophy,Brendon Julian,Australia,New Zealander,1970-08-10,False,True,,True
+Champions Trophy,Darren Lehmann,Australia,Australian,1970-02-05,False,True,,True
+Champions Trophy,Steve Waugh,Australia,Australian,1965-06-02,True,True,MEDIUM_SEAM,True
+Champions Trophy,Michael Bevan,Australia,Australian,1970-05-08,False,False,UNORTHODOX,True
+Champions Trophy,Damien Martyn,Australia,Australian,1971-10-21,True,True,MEDIUM_SEAM,True
+Champions Trophy,Brad Young,Australia,,,,,,False
+Champions Trophy,Michael Kasprowicz,Australia,,,,,,False
+Champions Trophy,Damien Fleming,Australia,Australian,1970-04-24,True,True,FAST_SEAM,True
+Champions Trophy,Ian Harvey,Australia,Australian,1972-04-10,False,True,,True
+Champions Trophy,Shane Lee,Australia,Australian,1973-08-08,False,True,,True
+Champions Trophy,Andrew Symonds,Australia,Australian,1975-06-09,True,True,MEDIUM_SEAM,True
+Champions Trophy,Jason Gillespie,Australia,Australian,1975-04-19,True,True,FAST_SEAM,True
+Champions Trophy,Brett Lee,Australia,Australian,1976-11-08,True,True,FAST_SEAM,True
+Champions Trophy,Glenn McGrath,Australia,Australian,1970-02-09,True,True,FAST_SEAM,True
+Champions Trophy,Mark Higgs,Australia,,,,,,False
+Champions Trophy,Matthew Hayden,Australia,Australian,1971-10-29,True,False,MEDIUM_SEAM,True
+Champions Trophy,Jimmy Maher,Australia,Australian,1974-02-27,False,True,,True
+Champions Trophy,Shane Watson,Australia,Australian,1981-06-17,True,True,MEDIUM_SEAM,True
+Champions Trophy,Shane Warne,Australia,Australian,1969-09-13,True,True,LEG_SPIN,True
+Champions Trophy,Michael Clarke,Australia,Australian,1981-04-02,False,True,ORTHODOX,True
+Champions Trophy,Michael Hussey,Australia,Australian,1975-05-27,True,False,MEDIUM_SEAM,True
+Champions Trophy,Brad Hogg,Australia,Australian,1971-02-06,False,False,,True
+Champions Trophy,Nathan Bracken,Australia,Australian,1977-09-12,False,True,FAST_SEAM,True
+Champions Trophy,Mitchell Johnson,Australia,Australian,1981-11-02,False,False,FAST_SEAM,True
+Champions Trophy,Callum Ferguson,Australia,,,,,,False
+Champions Trophy,Tim Paine,Australia,Australian,1984-12-08,True,True,MEDIUM_SEAM,True
+Champions Trophy,Adam Voges,Australia,Australian,1979-10-04,False,True,,True
+Champions Trophy,Cameron White,Australia,Australian,1983-08-18,False,False,,True
+Champions Trophy,James Hopes,Australia,,,,,,False
+Champions Trophy,David Hussey,Australia,Australian,1977-07-15,False,False,,True
+Champions Trophy,Doug Bollinger,Australia,,,,,,False
+Champions Trophy,Nathan Hauritz,Australia,,,,,,False
+Champions Trophy,Ben Hilfenhaus,Australia,,,,,,False
+Champions Trophy,Peter Siddle,Australia,Australian,1984-11-25,True,True,FAST_SEAM,True
+Champions Trophy,George Bailey,Australia,Australian,1982-09-07,False,False,,True
+Champions Trophy,Phillip Hughes,Australia,Australian,1988-11-30,False,False,,True
+Champions Trophy,Matthew Wade,Australia,Australian,1987-12-26,True,False,MEDIUM_SEAM,True
+Champions Trophy,David Warner,Australia,Australian,1986-10-27,True,False,LEG_SPIN,True
+Champions Trophy,Nathan Coulter-Nile,Australia,Australian,1987-10-11,True,True,FAST_SEAM,True
+Champions Trophy,James Faulkner,Australia,Australian,1990-04-29,False,True,,True
+Champions Trophy,Mitchell Marsh,Australia,Australian,1991-10-20,True,True,MEDIUM_SEAM,True
+Champions Trophy,Glenn Maxwell,Australia,Australian,1988-10-14,True,True,OFF_SPIN,True
+Champions Trophy,Xavier Doherty,Australia,Australian,1982-11-22,False,True,,True
+Champions Trophy,Clint McKay,Australia,Australian,1983-02-22,False,True,,True
+Champions Trophy,Mitchell Starc,Australia,Australian,1990-01-30,False,False,FAST_SEAM,True
+Champions Trophy,Steven Smith,Australia,Australian,1989-06-02,True,True,LEG_SPIN,True
+Champions Trophy,Aaron Finch,Australia,Australian,1986-11-17,False,True,ORTHODOX,True
+Champions Trophy,Travis Head,Australia,Australian,1993-12-29,True,False,OFF_SPIN,True
+Champions Trophy,Chris Lynn,Australia,Australian,1990-04-10,False,True,,True
+Champions Trophy,John Hastings,Australia,Australian,1985-11-04,False,True,,True
+Champions Trophy,Moises Henriques,Australia,Australian,1987-02-01,True,True,MEDIUM_SEAM,True
+Champions Trophy,Marcus Stoinis,Australia,Australian,1989-08-16,True,True,MEDIUM_SEAM,True
+Champions Trophy,Pat Cummins,Australia,Australian,1993-05-08,True,True,FAST_SEAM,True
+Champions Trophy,Josh Hazlewood,Australia,Australian,1991-01-08,True,False,FAST_SEAM,True
+Champions Trophy,James Pattinson,Australia,Australian,1990-05-03,True,False,FAST_SEAM,True
+Champions Trophy,Adam Zampa,Australia,Australian,1992-03-31,True,True,LEG_SPIN,True
+Champions Trophy,Alex Carey,Australia,Australian,1991-08-27,False,False,,True
+Champions Trophy,Jake Fraser-McGurk,Australia,,,,,,False
+Champions Trophy,Josh Inglish,Australia,,,,,,False
+Champions Trophy,Marnus Labuschagne,Australia,Australian,1994-06-22,True,True,LEG_SPIN,True
+Champions Trophy,Sean Abbott,Australia,Australian,1992-02-29,True,True,FAST_SEAM,True
+Champions Trophy,Cooper Connolly,Australia,,,,,,False
+Champions Trophy,Aaron Hardie,Australia,,,,,,False
+Champions Trophy,Ben Dwarshuis,Australia,,,,,,False
+Champions Trophy,Nathan Ellis,Australia,,,,,,False
+Champions Trophy,Spencer Johnson,Australia,,,,,,False
+Champions Trophy,Tanveer Sangha,Australia,,,,,,False
+Champions Trophy,Akram Khan,Bangladesh,Pakistani,1968-11-01,False,True,,True
+Champions Trophy,Al Sahariar,Bangladesh,Bangladeshi,1978-04-23,False,True,,True
+Champions Trophy,Aminul Islam,Bangladesh,Pakistani,1968-02-02,False,True,,True
+Champions Trophy,Habibul Bashar,Bangladesh,Bangladeshi,1972-08-17,False,True,,True
+Champions Trophy,Javed Omer,Bangladesh,Bangladeshi,1976-11-25,False,True,,True
+Champions Trophy,Khaled Mashud,Bangladesh,Bangladeshi,1976-02-08,False,True,,True
+Champions Trophy,Naimur Rahman,Bangladesh,Bangladeshi,1974-09-19,False,True,,True
+Champions Trophy,Mohammad Rafique,Bangladesh,Pakistani,1970-09-05,False,True,,True
+Champions Trophy,Enamul Haque,Bangladesh,Pakistani,1966-02-27,False,True,,True
+Champions Trophy,Hasibul Hossain,Bangladesh,Bangladeshi,1977-06-03,False,True,,True
+Champions Trophy,Manjurul Islam,Bangladesh,Bangladeshi,1979-11-07,False,True,,True
+Champions Trophy,Mushfiqur Rahman,Bangladesh,Bangladeshi,1987-05-09,True,True,,True
+Champions Trophy,Ranjan Das,Bangladesh,,,,,,False
+Champions Trophy,Shahriar Hossain,Bangladesh,Bangladeshi,1976-06-01,False,True,,True
+Champions Trophy,Mazharul Haque,Bangladesh,,,,,,False
+Champions Trophy,Tushar Imran,Bangladesh,Bangladeshi,1983-12-10,False,True,,True
+Champions Trophy,Alok Kapali,Bangladesh,Bangladeshi,1984-01-01,False,True,,True
+Champions Trophy,Khaled Mahmud,Bangladesh,Bangladeshi,1971-07-26,False,True,,True
+Champions Trophy,Tapash Baisya,Bangladesh,Bangladeshi,1982-12-25,False,True,,True
+Champions Trophy,Mohammad Ashraful,Bangladesh,Bangladeshi,1984-07-07,False,True,,True
+Champions Trophy,Fahim Muntasir,Bangladesh,,,,,,False
+Champions Trophy,Talha Jubair,Bangladesh,Bangladeshi,1985-12-10,False,True,,True
+Champions Trophy,Nafees Iqbal,Bangladesh,,,,,,False
+Champions Trophy,Rajin Saleh,Bangladesh,,,,,,False
+Champions Trophy,Aftab Ahmed,Bangladesh,Bangladeshi,1985-11-10,False,True,,True
+Champions Trophy,Manzarul Islam,Bangladesh,,,,,,False
+Champions Trophy,Nazmul Hossain,Bangladesh,,,,,,False
+Champions Trophy,Shahriar Nafees,Bangladesh,Bangladeshi,1986-01-25,False,True,,True
+Champions Trophy,Shakib Al Hasan,Bangladesh,Bangladeshi,1987-03-24,False,False,ORTHODOX,True
+Champions Trophy,Mehrab Hossain jnr,Bangladesh,,,,,,False
+Champions Trophy,Farhad Reza,Bangladesh,,,,,,False
+Champions Trophy,Mashrafe Mortaza,Bangladesh,Bangladeshi,1983-10-05,True,True,FAST_SEAM,True
+Champions Trophy,Abdur Razzak,Bangladesh,Bangladeshi,1982-06-15,False,False,ORTHODOX,True
+Champions Trophy,Syed Rasel,Bangladesh,Bangladeshi,1984-07-03,False,True,,True
+Champions Trophy,Imrul Kayes,Bangladesh,Bangladeshi,1987-02-02,False,False,ORTHODOX,True
+Champions Trophy,Mosaddek Hossain,Bangladesh,Bangladeshi,1995-12-10,True,True,OFF_SPIN,True
+Champions Trophy,Mushfiqur Rahim,Bangladesh,Bangladeshi,1987-05-09,True,True,,True
+Champions Trophy,Sabbir Rahman,Bangladesh,Bangladeshi,1991-11-22,True,True,LEG_SPIN,True
+Champions Trophy,Tamim Iqbal,Bangladesh,Bangladeshi,1989-03-20,False,False,,True
+Champions Trophy,Mahmudullah,Bangladesh,BD,1986-02-04,True,True,,True
+Champions Trophy,Mehidy Hasan Miraz,Bangladesh,,,,,,False
+Champions Trophy,Soumya Sarkar,Bangladesh,Bangladeshi,1993-02-25,True,False,MEDIUM_SEAM,True
+Champions Trophy,Mustafizur Rahman,Bangladesh,Bangladeshi,1995-09-06,False,False,FAST_SEAM,True
+Champions Trophy,Rubel Hossain,Bangladesh,Bangladeshi,1990-01-01,True,True,FAST_SEAM,True
+Champions Trophy,Shafiul Islam,Bangladesh,Bangladeshi,1989-10-06,True,True,FAST_SEAM,True
+Champions Trophy,Sunzamul Islam,Bangladesh,Bangladeshi,1990-01-17,False,False,ORTHODOX,True
+Champions Trophy,Taskin Ahmed,Bangladesh,BD,1995-04-03,True,False,FAST_SEAM,True
+Champions Trophy,Najmul Hossain Shanto,Bangladesh,Bangladeshi,1998-08-25,True,False,OFF_SPIN,True
+Champions Trophy,Jaker Ali,Bangladesh,,,,,,False
+Champions Trophy,Parvez Hossain Emon,Bangladesh,,,,,,False
+Champions Trophy,Tanzid Hasan,Bangladesh,,,,,,False
+Champions Trophy,Towhid Hridoy,Bangladesh,,,,,,False
+Champions Trophy,Nasum Ahmed,Bangladesh,,,,,,False
+Champions Trophy,Rishad Hossain,Bangladesh,,,,,,False
+Champions Trophy,Tanzim Hasan Sakib,Bangladesh,,,,,,False
+Champions Trophy,Nahid Rana,Bangladesh,,,,,,False
+Champions Trophy,Nick Knight,England,English,1969-11-28,False,True,,True
+Champions Trophy,Ali Brown,England,,,,,,False
+Champions Trophy,Mark Ealham,England,English,1969-08-27,False,True,,True
+Champions Trophy,Graeme Hick,England,Zimbabwean,1966-05-23,False,True,,True
+Champions Trophy,Neil Fairbrother,England,English,1963-09-09,False,True,,True
+Champions Trophy,Graham Lloyd,England,,,,,,False
+Champions Trophy,Adam Hollioake,England,Australian,1971-09-05,False,True,,True
+Champions Trophy,Jack Russell,England,English,1963-08-15,False,True,,True
+Champions Trophy,Ashley Giles,England,English,1973-03-19,False,True,,True
+Champions Trophy,Peter Martin,England,English,1968-11-15,False,True,,True
+Champions Trophy,Ian Austin,England,English,1966-05-30,False,True,,True
+Champions Trophy,Nasser Hussain,England,Indian,1968-03-28,True,True,LEG_SPIN,True
+Champions Trophy,Vikram Solanki,England,,,,,,False
+Champions Trophy,Alec Stewart,England,English,1963-04-08,True,True,MEDIUM_SEAM,True
+Champions Trophy,Graham Thorpe,England,English,1969-08-01,True,False,MEDIUM_SEAM,True
+Champions Trophy,Marcus Trescothick,England,English,1975-12-25,True,False,MEDIUM_SEAM,True
+Champions Trophy,Andrew Flintoff,England,English,1977-12-06,True,True,FAST_SEAM,True
+Champions Trophy,Craig White,England,English,1969-12-16,False,True,,True
+Champions Trophy,Andy Caddick,England,English,1968-11-21,True,True,FAST_SEAM,True
+Champions Trophy,Darren Gough,England,English,1970-09-18,True,True,FAST_SEAM,True
+Champions Trophy,Matthew Hoggard,England,,,,,,False
+Champions Trophy,Mark Alleyne,England,,,,,,False
+Champions Trophy,Paul Grayson,England,,,,,,False
+Champions Trophy,Ronnie Irani,England,English,1971-10-26,False,True,,True
+Champions Trophy,Ian Blackwell,England,English,1978-06-10,False,True,,True
+Champions Trophy,Owais Shah,England,,,,,,False
+Champions Trophy,Dominic Cork,England,English,1971-08-07,False,True,,True
+Champions Trophy,Jeremy Snape,England,,,,,,False
+Champions Trophy,Michael Vaughan,England,English,1974-10-29,True,True,OFF_SPIN,True
+Champions Trophy,Andrew Strauss,England,English,1977-03-02,False,False,MEDIUM_SEAM,True
+Champions Trophy,Paul Collingwood,England,English,1976-05-26,True,True,MEDIUM_SEAM,True
+Champions Trophy,Geraint Jones,England,,,,,,False
+Champions Trophy,Alex Wharf,England,,,,,,False
+Champions Trophy,Steve Harmison,England,,,,,,False
+Champions Trophy,Ian Bell,England,English,1982-04-11,True,True,MEDIUM_SEAM,True
+Champions Trophy,Michael Yardy,England,English,1980-11-27,False,True,,True
+Champions Trophy,Kevin Pietersen,England,English,1980-06-27,True,True,OFF_SPIN,True
+Champions Trophy,Jamie Dalrymple,England,Kenyan,1981-01-21,False,True,,True
+Champions Trophy,Jon Lewis,England,,,,,,False
+Champions Trophy,Chris Read,England,,,,,,False
+Champions Trophy,Sajid Mahmood,England,English,1981-12-21,False,True,,True
+Champions Trophy,James Anderson,England,English,1982-07-30,True,False,FAST_SEAM,True
+Champions Trophy,Steven Davies,England,,,,,,False
+Champions Trophy,Joe Denly,England,English,1986-03-16,True,False,LEG_SPIN,True
+Champions Trophy,Eoin Morgan,England,ENG,1986-09-10,True,False,MEDIUM_SEAM,True
+Champions Trophy,Luke Wright,England,English,1985-03-07,False,False,,True
+Champions Trophy,Ravi Bopara,England,English,1985-05-04,False,True,,True
+Champions Trophy,Tim Bresnan,England,English,1985-02-28,False,True,,True
+Champions Trophy,Stuart Broad,England,English,1986-06-24,True,False,FAST_SEAM,True
+Champions Trophy,Graham Onions,England,,,,,,False
+Champions Trophy,Adil Rashid,England,English,1988-02-17,True,True,LEG_SPIN,True
+Champions Trophy,Ryan Sidebottom,England,,,,,,False
+Champions Trophy,Graeme Swann,England,English,1979-03-24,True,True,OFF_SPIN,True
+Champions Trophy,Alastair Cook,England,English,1984-12-25,False,True,MEDIUM_SEAM,True
+Champions Trophy,Jonny Bairstow,England,English,1989-09-26,True,True,MEDIUM_SEAM,True
+Champions Trophy,Jos Buttler,England,English,1990-09-08,True,True,,True
+Champions Trophy,Joe Root,England,English,1990-12-30,True,True,OFF_SPIN,True
+Champions Trophy,Jonathan Trott,England,English,1981-04-22,False,True,,True
+Champions Trophy,James Tredwell,England,English,1982-02-27,False,False,,True
+Champions Trophy,Chris Woakes,England,English,1989-03-02,True,True,FAST_SEAM,True
+Champions Trophy,Steven Finn,England,English,1989-04-04,False,True,,True
+Champions Trophy,Sam Billings,England,English,1991-06-15,True,True,,True
+Champions Trophy,Alex Hales,England,English,1989-01-03,True,True,MEDIUM_SEAM,True
+Champions Trophy,Jason Roy,England,English,1990-07-21,True,True,,True
+Champions Trophy,Moeen Ali,England,English,1987-06-18,True,False,OFF_SPIN,True
+Champions Trophy,Ben Stokes,England,English,1991-06-04,True,False,FAST_SEAM,True
+Champions Trophy,David Willey,England,English,1990-02-28,False,False,FAST_SEAM,True
+Champions Trophy,Jake Ball,England,English,1991-03-14,True,True,FAST_SEAM,True
+Champions Trophy,Liam Plunkett,England,English,1985-04-06,True,True,FAST_SEAM,True
+Champions Trophy,Mark Wood,England,English,1990-01-11,True,True,FAST_SEAM,True
+Champions Trophy,Tom Banton,England,English,1998-11-11,True,True,,True
+Champions Trophy,Harry Brook,England,,,,,,False
+Champions Trophy,Ben Duckett,England,English,1994-10-17,False,False,,True
+Champions Trophy,Phil Salt,England,,,True,True,,True
+Champions Trophy,Jamie Smith,England,,,,,,False
+Champions Trophy,Liam Livingstone,England,English,1993-08-04,True,True,LEG_SPIN,True
+Champions Trophy,Jamie Overton,England,,,,,,False
+Champions Trophy,Rehan Ahmed,England,,,,,,False
+Champions Trophy,Jofra Archer,England,English,1995-04-01,True,True,FAST_SEAM,True
+Champions Trophy,Gus Atkinson,England,,,,,,False
+Champions Trophy,Saqib Mahmood,England,English,1997-02-25,True,True,FAST_SEAM,True
+Champions Trophy,Sourav Ganguly,India,Indian,1972-07-08,True,False,MEDIUM_SEAM,True
+Champions Trophy,Sachin Tendulkar,India,Indian,1973-04-24,True,True,OFF_SPIN,True
+Champions Trophy,Mohammad Azharuddin,India,Indian,1963-02-08,True,True,MEDIUM_SEAM,True
+Champions Trophy,Rahul Dravid,India,Indian,1973-01-11,True,True,OFF_SPIN,True
+Champions Trophy,Ajay Jadeja,India,Indian,1971-02-01,True,True,MEDIUM_SEAM,True
+Champions Trophy,Robin Singh,India,Trinidadian,1963-09-14,False,True,,True
+Champions Trophy,Ajit Agarkar,India,Indian,1977-12-04,True,True,FAST_SEAM,True
+Champions Trophy,Sunil Joshi,India,,,,,,False
+Champions Trophy,Javagal Srinath,India,Indian,1969-08-31,True,True,FAST_SEAM,True
+Champions Trophy,Nayan Mongia,India,Indian,1969-12-19,False,True,,True
+Champions Trophy,Anil Kumble,India,Indian,1970-10-17,True,True,LEG_SPIN,True
+Champions Trophy,Hemang Badani,India,,,,,,False
+Champions Trophy,Vinod Kambli,India,Indian,1972-01-18,False,True,,True
+Champions Trophy,Sridharan Sriram,India,,,,,,False
+Champions Trophy,Yuvraj Singh,India,Indian,1981-12-12,False,False,ORTHODOX,True
+Champions Trophy,Zaheer Khan,India,Indian,1978-10-07,False,True,FAST_SEAM,True
+Champions Trophy,Venkatesh Prasad,India,Indian,1969-08-05,True,True,MEDIUM_SEAM,True
+Champions Trophy,Vijay Dahiya,India,,,,,,False
+Champions Trophy,VVS Laxman,India,,,,,,False
+Champions Trophy,Virender Sehwag,India,Indian,1978-10-20,True,True,OFF_SPIN,True
+Champions Trophy,Dinesh Mongia,India,Indian,1977-04-17,False,True,,True
+Champions Trophy,Mohammad Kaif,India,Indian,1980-12-01,False,False,,True
+Champions Trophy,Harbhajan Singh,India,Indian,1980-07-03,True,True,OFF_SPIN,True
+Champions Trophy,Ashish Nehra,India,Indian,1979-04-29,False,True,MEDIUM_SEAM,True
+Champions Trophy,Rohan Gavaskar,India,,,,,,False
+Champions Trophy,Dinesh Karthik,India,Indian,1985-06-01,True,True,OFF_SPIN,True
+Champions Trophy,Irfan Pathan,India,,,,,,False
+Champions Trophy,Sreesanth,India,,,,,,False
+Champions Trophy,RP Singh,India,,,,,,False
+Champions Trophy,MS Dhoni,India,Indian,1981-07-07,True,True,MEDIUM_SEAM,True
+Champions Trophy,Suresh Raina,India,Indian,1986-11-27,True,False,OFF_SPIN,True
+Champions Trophy,Ramesh Powar,India,,,,,,False
+Champions Trophy,Munaf Patel,India,Indian,1983-07-12,True,True,,True
+Champions Trophy,Gautam Gambhir,India,Indian,1981-10-14,True,False,LEG_SPIN,True
+Champions Trophy,Virat Kohli,India,Indian,1988-11-05,True,True,MEDIUM_SEAM,True
+Champions Trophy,Abhishek Nayar,India,,,,,,False
+Champions Trophy,Yusuf Pathan,India,Indian,1982-11-17,False,True,,True
+Champions Trophy,Praveen Kumar,India,,,,,,False
+Champions Trophy,Amit Mishra,India,Indian,1982-11-24,True,True,LEG_SPIN,True
+Champions Trophy,Ishant Sharma,India,Indian,1988-09-02,True,True,FAST_SEAM,True
+Champions Trophy,Shikhar Dhawan,India,Indian,1985-12-05,True,False,OFF_SPIN,True
+Champions Trophy,Rohit Sharma,India,Indian,1987-04-30,True,True,OFF_SPIN,True
+Champions Trophy,Murali Vijay,India,Indian,1984-04-01,False,False,,True
+Champions Trophy,Ravichandran Ashwin,India,Indian,1986-09-17,True,True,OFF_SPIN,True
+Champions Trophy,Ravindra Jadeja,India,Indian,1988-12-06,False,False,ORTHODOX,True
+Champions Trophy,Bhuvneshwar Kumar,India,Indian,1990-02-05,True,True,MEDIUM_SEAM,True
+Champions Trophy,Vinay Kumar,India,Indian,1984-02-12,True,True,,True
+Champions Trophy,Umesh Yadav,India,Indian,1987-10-25,True,True,FAST_SEAM,True
+Champions Trophy,Ajinkya Rahane,India,Indian,1988-06-06,True,True,MEDIUM_SEAM,True
+Champions Trophy,Kedar Jadhav,India,Indian,1985-03-26,True,True,OFF_SPIN,True
+Champions Trophy,Hardik Pandya,India,Indian,1993-10-11,True,True,MEDIUM_SEAM,True
+Champions Trophy,Jasprit Bumrah,India,Indian,1993-12-06,True,True,FAST_SEAM,True
+Champions Trophy,Mohammed Shami,India,Indian,1990-09-03,True,True,FAST_SEAM,True
+Champions Trophy,Shubman Gill,India,Indian,1999-09-08,True,True,OFF_SPIN,True
+Champions Trophy,Shreyas Iyer,India,Indian,1994-12-06,True,True,LEG_SPIN,True
+Champions Trophy,Rishabh Pant,India,IN,1997-10-04,True,False,,True
+Champions Trophy,KL Rahul,India,Indian,1992-04-18,True,True,,True
+Champions Trophy,Axar Patel,India,Indian,1994-01-20,False,False,ORTHODOX,True
+Champions Trophy,Washington Sundar,India,Indian,1999-10-05,True,False,OFF_SPIN,True
+Champions Trophy,Arshdeep Singh,India,,,,,,False
+Champions Trophy,Harshit Rana,India,,,,,,False
+Champions Trophy,Kuldeep Yadav,India,Indian,1994-12-14,False,False,UNORTHODOX,True
+Champions Trophy,Varun Chakravarthy,India,,,,,,False
+Champions Trophy,Hitesh Modi,Kenya,,,,,,False
+Champions Trophy,Kennedy Otieno,Kenya,Kenyan,1972-03-11,False,True,,True
+Champions Trophy,Ravi Shah,Kenya,,,,,,False
+Champions Trophy,Maurice Odumbe,Kenya,Kenyan,1969-06-15,False,True,,True
+Champions Trophy,Thomas Odoyo,Kenya,Kenyan,1978-05-12,True,True,MEDIUM_SEAM,True
+Champions Trophy,Tony Suji,Kenya,Kenyan,1976-02-05,False,True,,True
+Champions Trophy,Steve Tikolo,Kenya,Kenyan,1971-06-25,False,True,,True
+Champions Trophy,Jimmy Kamande,Kenya,Kenyan,1978-12-12,False,True,,True
+Champions Trophy,Peter Ongondo,Kenya,Kenyan,1977-02-10,False,True,,True
+Champions Trophy,Lameck Onyango,Kenya,,,,,,False
+Champions Trophy,Martin Suji,Kenya,Kenyan,1971-06-02,False,True,,True
+Champions Trophy,Josephat Ababu,Kenya,,,,,,False
+Champions Trophy,Mohammad Sheikh,Kenya,Kenyan,1980-08-29,False,True,,True
+Champions Trophy,Brijal Patel,Kenya,Kenyan,1977-11-14,False,True,,True
+Champions Trophy,David Obuya,Kenya,Kenyan,1979-08-14,False,True,,True
+Champions Trophy,Collins Obuya,Kenya,Kenyan,1981-07-27,False,True,,True
+Champions Trophy,Joseph Angara,Kenya,Kenyan,1971-11-08,False,True,,True
+Champions Trophy,Malhar Patel,Kenya,,,,,,False
+Champions Trophy,Ragheb Aga,Kenya,,,,,,False
+Champions Trophy,Morris Ouma,Kenya,Kenyan,1982-11-08,False,True,,True
+Champions Trophy,Robert van Oosterom,Netherlands,Dutch,1968-10-16,False,True,,True
+Champions Trophy,Henk-Jan Mol,Netherlands,Dutch,1977-03-29,False,True,,True
+Champions Trophy,Feiko Kloppenburg,Netherlands,Dutch,1974-06-19,False,True,,True
+Champions Trophy,Daan van Bunge,Netherlands,Dutch,1982-10-19,False,True,,True
+Champions Trophy,Bas Zuiderent,Netherlands,,,,,,False
+Champions Trophy,Tim de Leede,Netherlands,Dutch,1968-01-25,False,True,,True
+Champions Trophy,Reinout Scholte,Netherlands,Dutch,1967-08-10,False,True,,True
+Champions Trophy,Luuk van Troost,Netherlands,,,,,,False
+Champions Trophy,Jacob-Jan Esmeijer,Netherlands,Dutch,1972-05-28,False,True,,True
+Champions Trophy,Adeel Raja,Netherlands,Pakistani,1980-08-15,False,True,,True
+Champions Trophy,Edgar Schiferli,Netherlands,Dutch,1976-05-17,False,True,,True
+Champions Trophy,Roland Lefebvre,Netherlands,Dutch,1963-02-07,False,True,,True
+Champions Trophy,Victor Grandia,Netherlands,,,,,,False
+Champions Trophy,Matthew Bell,New Zealand,,,,,,False
+Champions Trophy,Nathan Astle,New Zealand,New Zealander,1971-09-15,True,True,MEDIUM_SEAM,True
+Champions Trophy,Steven Fleming,New Zealand,New Zealander,1973-04-01,False,True,OFF_SPIN,True
+Champions Trophy,Craig McMillan,New Zealand,New Zealander,1976-09-13,True,True,MEDIUM_SEAM,True
+Champions Trophy,Adam Parore,New Zealand,New Zealander,1971-01-23,False,True,,True
+Champions Trophy,Chris Harris,New Zealand,New Zealander,1969-11-20,True,True,MEDIUM_SEAM,True
+Champions Trophy,Alex Tait,New Zealand,,,,,,False
+Champions Trophy,Geoff Allott,New Zealand,New Zealander,1971-12-24,False,True,,True
+Champions Trophy,Mark Bailey,New Zealand,,,,,,False
+Champions Trophy,Daniel Vettori,New Zealand,New Zealander,1979-01-27,False,False,ORTHODOX,True
+Champions Trophy,Simon Doull,New Zealand,,,,,,False
+Champions Trophy,Paul Wiseman,New Zealand,,,,,,False
+Champions Trophy,Stephen Fleming,New Zealand,New Zealander,1973-04-01,False,True,OFF_SPIN,True
+Champions Trophy,Chris Nevin,New Zealand,,,,,,False
+Champions Trophy,Craig Spearman,New Zealand,New Zealander,1972-07-04,False,True,,True
+Champions Trophy,Roger Twose,New Zealand,English,1968-04-17,False,True,,True
+Champions Trophy,Chris Cairns,New Zealand,New Zealander,1970-06-13,True,True,FAST_SEAM,True
+Champions Trophy,Dion Nash,New Zealand,New Zealander,1971-11-20,False,True,,True
+Champions Trophy,Scott Styris,New Zealand,New Zealander,1975-07-10,True,True,MEDIUM_SEAM,True
+Champions Trophy,Glen Sulzberger,New Zealand,,,,,,False
+Champions Trophy,Mathew Sinclair,New Zealand,Australian,1975-11-09,False,True,,True
+Champions Trophy,Lou Vincent,New Zealand,New Zealander,1978-11-11,False,True,,True
+Champions Trophy,Jacob Oram,New Zealand,New Zealander,1978-07-28,True,False,FAST_SEAM,True
+Champions Trophy,Kyle Mills,New Zealand,New Zealander,1979-03-15,True,True,FAST_SEAM,True
+Champions Trophy,Daryl Tuffey,New Zealand,New Zealander,1978-06-11,False,True,,True
+Champions Trophy,Paul Hitchcock,New Zealand,,,,,,False
+Champions Trophy,Shane Bond,New Zealand,New Zealander,1975-06-07,True,True,FAST_SEAM,True
+Champions Trophy,Hamish Marshall,New Zealand,New Zealander,1979-02-15,False,True,,True
+Champions Trophy,Brendon McCullum,New Zealand,New Zealander,1981-09-27,True,True,MEDIUM_SEAM,True
+Champions Trophy,Peter Fulton,New Zealand,New Zealander,1979-02-01,False,True,,True
+Champions Trophy,James Franklin,New Zealand,New Zealander,1980-11-07,False,True,,True
+Champions Trophy,Jeetan Patel,New Zealand,New Zealander,1980-05-07,False,True,,True
+Champions Trophy,Neil Broom,New Zealand,New Zealander,1983-11-20,False,True,,True
+Champions Trophy,Brendon Diamanti,New Zealand,,,,,,False
+Champions Trophy,Martin Guptill,New Zealand,New Zealander,1986-09-30,True,True,OFF_SPIN,True
+Champions Trophy,Gareth Hopkins,New Zealand,,,,,,False
+Champions Trophy,Aaron Redmond,New Zealand,,,,,,False
+Champions Trophy,Ross Taylor,New Zealand,New Zealander,1984-03-08,True,True,OFF_SPIN,True
+Champions Trophy,Grant Elliott,New Zealand,New Zealander,1979-03-21,False,True,,True
+Champions Trophy,Ian Butler,New Zealand,,,,,,False
+Champions Trophy,Iain O'Brien,New Zealand,,,,,,False
+Champions Trophy,Colin Munro,New Zealand,New Zealander,1987-03-11,True,False,MEDIUM_SEAM,True
+Champions Trophy,Luke Ronchi,New Zealand,New Zealander,1981-04-23,False,True,,True
+Champions Trophy,Kane Williamson,New Zealand,New Zealander,1990-08-08,True,True,OFF_SPIN,True
+Champions Trophy,Corey Anderson,New Zealand,New Zealander,1990-12-13,False,False,,True
+Champions Trophy,Doug Bracewell,New Zealand,New Zealander,1990-09-28,False,False,,True
+Champions Trophy,Mitchell McClenaghan,New Zealand,New Zealander,1986-06-11,False,False,,True
+Champions Trophy,Nathan McCullum,New Zealand,New Zealander,1980-09-01,False,True,,True
+Champions Trophy,Tim Southee,New Zealand,New Zealander,1988-12-11,True,True,MEDIUM_SEAM,True
+Champions Trophy,Tom Latham,New Zealand,New Zealander,1992-04-02,True,False,MEDIUM_SEAM,True
+Champions Trophy,Colin de Grandhomme,New Zealand,New Zealander,1986-07-22,True,True,MEDIUM_SEAM,True
+Champions Trophy,James Neesham,New Zealand,,,,,,False
+Champions Trophy,Mitchell Santner,New Zealand,New Zealander,1992-02-05,False,False,ORTHODOX,True
+Champions Trophy,Trent Boult,New Zealand,New Zealander,1989-07-22,False,True,FAST_SEAM,True
+Champions Trophy,Adam Milne,New Zealand,New Zealander,1992-04-13,True,True,FAST_SEAM,True
+Champions Trophy,Devon Conway,New Zealand,New Zealander,1991-07-08,True,False,MEDIUM_SEAM,True
+Champions Trophy,Will Young,New Zealand,New Zealander,1992-11-22,True,True,OFF_SPIN,True
+Champions Trophy,Michael Bracewell,New Zealand,,,,,,False
+Champions Trophy,Mark Chapman,New Zealand,New Zealander,1994-06-27,False,False,ORTHODOX,True
+Champions Trophy,Daryl Mitchell,New Zealand,English,1983-11-25,True,True,MEDIUM_SEAM,True
+Champions Trophy,Glenn Phillips,New Zealand,,,,,,False
+Champions Trophy,Rachin Ravindra,New Zealand,,,,,,False
+Champions Trophy,Nathan Smith,New Zealand,,,,,,False
+Champions Trophy,Jacob Duffy,New Zealand,,,,,,False
+Champions Trophy,Matt Henry,New Zealand,New Zealander,1991-12-14,True,True,FAST_SEAM,True
+Champions Trophy,Will O’Rourke,New Zealand,,,,,,False
+Champions Trophy,Shahid Afridi,Pakistan,Pakistani,1980-03-01,True,True,LEG_SPIN,True
+Champions Trophy,Saleem Elahi,Pakistan,Pakistani,1976-11-21,False,True,,True
+Champions Trophy,Azhar Mahmood,Pakistan,English,1975-02-28,False,False,,True
+Champions Trophy,Aamer Sohail,Pakistan,Pakistani,1966-09-14,False,False,ORTHODOX,True
+Champions Trophy,Ijaz Ahmed,Pakistan,Pakistani,1968-09-20,False,True,MEDIUM_SEAM,True
+Champions Trophy,Akhtar Sarfraz,Pakistan,,,,,,False
+Champions Trophy,Saleem Malik,Pakistan,Pakistani,1963-04-16,True,True,MEDIUM_SEAM,True
+Champions Trophy,Wasim Akram,Pakistan,Pakistani,1966-06-03,False,False,FAST_SEAM,True
+Champions Trophy,Moin Khan,Pakistan,Pakistani,1971-09-23,False,True,,True
+Champions Trophy,Saqlain Mushtaq,Pakistan,Pakistani,1976-12-29,True,True,OFF_SPIN,True
+Champions Trophy,Arshad Khan,Pakistan,,,,,,False
+Champions Trophy,Faisal Iqbal,Pakistan,,,,,,False
+Champions Trophy,Imran Nazir,Pakistan,Pakistani,1981-12-16,False,True,,True
+Champions Trophy,Inzamam-ul-Haq,Pakistan,Pakistani,1970-03-03,False,True,ORTHODOX,True
+Champions Trophy,Mohammad Yousuf,Pakistan,Pakistani,1974-08-27,True,True,OFF_SPIN,True
+Champions Trophy,Saeed Anwar,Pakistan,Pakistani,1968-09-06,False,False,ORTHODOX,True
+Champions Trophy,Abdul Razzaq,Pakistan,Pakistani,1979-12-02,True,True,FAST_SEAM,True
+Champions Trophy,Waqar Younis,Pakistan,Pakistani,1971-11-16,True,True,FAST_SEAM,True
+Champions Trophy,Shoaib Malik,Pakistan,Pakistani,1982-02-01,True,True,OFF_SPIN,True
+Champions Trophy,Younis Khan,Pakistan,Pakistani,1977-11-29,True,True,MEDIUM_SEAM,True
+Champions Trophy,Rashid Latif,Pakistan,Pakistani,1968-10-14,False,True,,True
+Champions Trophy,Misbah-ul-Haq,Pakistan,Pakistani,1974-05-28,True,True,LEG_SPIN,True
+Champions Trophy,Shoaib Akhtar,Pakistan,Pakistani,1975-08-13,True,True,FAST_SEAM,True
+Champions Trophy,Yasir Hameed,Pakistan,,,,,,False
+Champions Trophy,Imran Farhat,Pakistan,Pakistani,1982-05-20,False,False,,True
+Champions Trophy,Salman Butt,Pakistan,,,,,,False
+Champions Trophy,Naved-ul-Hasan,Pakistan,,,,,,False
+Champions Trophy,Mohammad Sami,Pakistan,Pakistani,1981-02-24,False,True,,True
+Champions Trophy,Mohammad Hafeez,Pakistan,Pakistani,1980-10-17,True,True,OFF_SPIN,True
+Champions Trophy,Yasir Arafat,Pakistan,,,,,,False
+Champions Trophy,Kamran Akmal,Pakistan,Pakistani,1982-01-13,False,True,,True
+Champions Trophy,Iftikhar Anjum,Pakistan,,,,,,False
+Champions Trophy,Umar Gul,Pakistan,Pakistani,1984-04-14,True,True,FAST_SEAM,True
+Champions Trophy,Fawad Alam,Pakistan,Pakistani,1985-10-08,False,False,,True
+Champions Trophy,Umar Akmal,Pakistan,Pakistani,1990-05-26,True,True,OFF_SPIN,True
+Champions Trophy,Mohammad Amir,Pakistan,Pakistani,1992-04-13,False,False,FAST_SEAM,True
+Champions Trophy,Mohammad Asif,Pakistan,,2012-04-30,False,True,,True
+Champions Trophy,Saeed Ajmal,Pakistan,Pakistani,1977-10-14,True,True,OFF_SPIN,True
+Champions Trophy,Asad Shafiq,Pakistan,Pakistani,1986-01-28,True,True,OFF_SPIN,True
+Champions Trophy,Nasir Jamshed,Pakistan,Pakistani,1989-12-06,False,False,,True
+Champions Trophy,Umar Amin,Pakistan,Pakistani,1989-10-16,False,False,,True
+Champions Trophy,Abdur Rehman,Pakistan,Pakistani,1980-03-01,False,False,,True
+Champions Trophy,Asad Ali,Pakistan,Pakistani,1988-10-14,False,True,,True
+Champions Trophy,Ehsan Adil,Pakistan,Pakistani,1993-03-15,False,True,,True
+Champions Trophy,Junaid Khan,Pakistan,Pakistani,1989-12-24,False,True,FAST_SEAM,True
+Champions Trophy,Mohammad Irfan,Pakistan,Pakistani,1982-06-06,False,True,,True
+Champions Trophy,Wahab Riaz,Pakistan,Pakistani,1985-06-28,False,True,FAST_SEAM,True
+Champions Trophy,Sarfaraz Ahmed,Pakistan,Pakistani,1987-05-22,True,True,OFF_SPIN,True
+Champions Trophy,Ahmed Shehzad,Pakistan,Pakistani,1991-11-23,False,True,,True
+Champions Trophy,Azhar Ali,Pakistan,Pakistani,1985-02-19,True,True,LEG_SPIN,True
+Champions Trophy,Babar Azam,Pakistan,Pakistani,1994-10-15,True,True,OFF_SPIN,True
+Champions Trophy,Fakhar Zaman,Pakistan,Pakistani,1990-04-10,False,False,ORTHODOX,True
+Champions Trophy,Haris Sohail,Pakistan,Pakistani,1989-01-09,False,False,ORTHODOX,True
+Champions Trophy,Faheem Ashraf,Pakistan,Pakistani,1994-01-16,True,False,MEDIUM_SEAM,True
+Champions Trophy,Imad Wasim,Pakistan,Pakistani,1988-12-18,False,False,ORTHODOX,True
+Champions Trophy,Shadab Khan,Pakistan,Pakistani,1998-10-04,True,True,LEG_SPIN,True
+Champions Trophy,Hasan Ali,Pakistan,Pakistani,1994-07-02,True,True,MEDIUM_SEAM,True
+Champions Trophy,Rumman Raees,Pakistan,Pakistani,1991-10-18,False,True,,True
+Champions Trophy,Mohammad Rizwan,Pakistan,Pakistani,1992-06-01,True,True,,True
+Champions Trophy,Imam-ul-Haq,Pakistan,Pakistani,1995-12-12,False,False,,True
+Champions Trophy,Saud Shakeel,Pakistan,Pakistani,1995-09-05,False,False,,True
+Champions Trophy,Tayyab Tahir,Pakistan,,,,,,False
+Champions Trophy,Usman Khan,Pakistan,,,,,,False
+Champions Trophy,Salman Agha,Pakistan,,,,,,False
+Champions Trophy,Kamran Ghulam,Pakistan,,,,,,False
+Champions Trophy,Khushdil Shah,Pakistan,Pakistani,1995-02-07,False,False,,True
+Champions Trophy,Abrar Ahmed,Pakistan,,,,,,False
+Champions Trophy,Haris Rauf,Pakistan,Pakistani,1993-11-07,True,True,FAST_SEAM,True
+Champions Trophy,Mohammad Hasnain,Pakistan,Pakistani,2000-04-05,True,True,FAST_SEAM,True
+Champions Trophy,Naseem Shah,Pakistan,,,,,,False
+Champions Trophy,Shaheen Shah Afridi,Pakistan,,,,,,False
+Champions Trophy,Daryll Cullinan,South Africa,South African,1967-03-04,False,True,,True
+Champions Trophy,Mike Rindel,South Africa,,,,,,False
+Champions Trophy,Jacques Kallis,South Africa,South African,1975-10-16,True,True,FAST_SEAM,True
+Champions Trophy,Hansie Cronje,South Africa,South African,1969-09-25,True,True,MEDIUM_SEAM,True
+Champions Trophy,Jonty Rhodes,South Africa,South African,1969-07-27,True,True,MEDIUM_SEAM,True
+Champions Trophy,Dale Benkenstein,South Africa,,,,,,False
+Champions Trophy,Derek Crookes,South Africa,,,,,,False
+Champions Trophy,Pat Symcox,South Africa,South African,1960-04-14,False,True,,True
+Champions Trophy,Mark Boucher,South Africa,South African,1976-12-03,True,True,MEDIUM_SEAM,True
+Champions Trophy,Nicky Boje,South Africa,,,,,,False
+Champions Trophy,Alan Dawson,South Africa,,,,,,False
+Champions Trophy,Steve Elworthy,South Africa,Zimbabwean,1965-02-23,False,True,,True
+Champions Trophy,Boeta Dippenaar,South Africa,,,,,,False
+Champions Trophy,Gary Kirsten,South Africa,South African,1967-11-23,True,False,OFF_SPIN,True
+Champions Trophy,Neil McKenzie,South Africa,,,,,,False
+Champions Trophy,Shaun Pollock,South Africa,South African,1973-07-16,True,True,FAST_SEAM,True
+Champions Trophy,Andrew Hall,South Africa,South African,1975-07-31,False,True,,True
+Champions Trophy,Lance Klusener,South Africa,South African,1971-09-04,True,False,FAST_SEAM,True
+Champions Trophy,Allan Donald,South Africa,South African,1966-10-20,True,True,FAST_SEAM,True
+Champions Trophy,Makhaya Ntini,South Africa,South African,1977-07-06,True,True,FAST_SEAM,True
+Champions Trophy,Roger Telemachus,South Africa,,,,,,False
+Champions Trophy,Shafiek Abrahams,South Africa,,,,,,False
+Champions Trophy,Graeme Smith,South Africa,South African,1981-02-01,True,False,OFF_SPIN,True
+Champions Trophy,Herschelle Gibbs,South Africa,South African,1974-02-23,True,True,LEG_SPIN,True
+Champions Trophy,Justin Ontong,South Africa,,,,,,False
+Champions Trophy,Robin Peterson,South Africa,South African,1979-08-04,False,True,,True
+Champions Trophy,Jacques Rudolph,South Africa,,,,,,False
+Champions Trophy,Martin van Jaarsveld,South Africa,,,,,,False
+Champions Trophy,Charl Langeveldt,South Africa,South African,1974-12-17,False,False,,True
+Champions Trophy,Loots Bosman,South Africa,South African,1977-04-14,False,True,,True
+Champions Trophy,AB de Villiers,South Africa,South African,1984-02-17,True,True,MEDIUM_SEAM,True
+Champions Trophy,Justin Kemp,South Africa,South African,1977-10-02,True,True,FAST_SEAM,True
+Champions Trophy,Andre Nel,South Africa,South African,1977-07-15,False,True,,True
+Champions Trophy,Hashim Amla,South Africa,South African,1983-03-31,True,True,MEDIUM_SEAM,True
+Champions Trophy,Johan Botha,South Africa,South African,1982-05-02,False,False,,True
+Champions Trophy,Jean-Paul Duminy,South Africa,,,,,,False
+Champions Trophy,Albie Morkel,South Africa,South African,1981-06-10,False,False,,True
+Champions Trophy,Roelof van der Merwe,South Africa,Dutch,1984-12-31,False,True,,True
+Champions Trophy,Wayne Parnell,South Africa,South African,1989-07-30,False,False,,True
+Champions Trophy,Dale Steyn,South Africa,South African,1983-06-27,True,True,FAST_SEAM,True
+Champions Trophy,Lonwabo Tsotsobe,South Africa,South African,1984-03-07,False,True,,True
+Champions Trophy,Faf du Plessis,South Africa,South African,1984-07-13,True,True,LEG_SPIN,True
+Champions Trophy,Colin Ingram,South Africa,South African,1985-07-03,False,True,,True
+Champions Trophy,David Miller,South Africa,South African,1989-06-10,True,False,OFF_SPIN,True
+Champions Trophy,Alviro Petersen,South Africa,South African,1980-12-05,False,True,,True
+Champions Trophy,Farhaan Behardien,South Africa,South African,1983-10-09,False,True,,True
+Champions Trophy,Ryan McLaren,South Africa,South African,1983-02-09,False,False,,True
+Champions Trophy,Chris Morris,South Africa,South African,1987-04-30,True,True,FAST_SEAM,True
+Champions Trophy,Rory Kleinveldt,South Africa,South African,1983-03-15,False,True,,True
+Champions Trophy,Aaron Phangiso,South Africa,South African,1984-01-21,False,True,,True
+Champions Trophy,Quinton de Kock,South Africa,South African,1992-12-17,False,False,,True
+Champions Trophy,Andile Phehlukwayo,South Africa,South African,1996-03-03,True,False,MEDIUM_SEAM,True
+Champions Trophy,Dwaine Pretorius,South Africa,South African,1989-03-29,True,True,MEDIUM_SEAM,True
+Champions Trophy,Imran Tahir,South Africa,South African,1979-03-27,True,True,LEG_SPIN,True
+Champions Trophy,Keshav Maharaj,South Africa,South African,1990-02-07,False,True,ORTHODOX,True
+Champions Trophy,Morne Morkel,South Africa,South African,1984-10-06,True,False,FAST_SEAM,True
+Champions Trophy,Kagiso Rabada,South Africa,South African,1995-05-25,True,False,FAST_SEAM,True
+Champions Trophy,Temba Bavuma,South Africa,South African,1990-05-17,True,True,MEDIUM_SEAM,True
+Champions Trophy,Tony de Zorzi,South Africa,,,,,,False
+Champions Trophy,Heinrich Klaasen,South Africa,South African,1991-07-30,True,True,,True
+Champions Trophy,Ryan Rickelton,South Africa,,,,,,False
+Champions Trophy,Tristan Stubbs,South Africa,,,,,,False
+Champions Trophy,Rassie van der Dussen,South Africa,South African,1989-02-07,True,True,LEG_SPIN,True
+Champions Trophy,Corbin Bosch,South Africa,,,,,,False
+Champions Trophy,Marco Jansen,South Africa,,,,,,False
+Champions Trophy,Aiden Markram,South Africa,South African,1994-10-04,True,True,OFF_SPIN,True
+Champions Trophy,Wiaan Mulder,South Africa,South African,1998-02-19,True,True,MEDIUM_SEAM,True
+Champions Trophy,Lungi Ngidi,South Africa,South African,1996-03-29,True,True,FAST_SEAM,True
+Champions Trophy,Tabraiz Shamsi,South Africa,South African,1990-02-18,False,True,UNORTHODOX,True
+Champions Trophy,Sanath Jayasuriya,Sri Lanka,Sri Lankan,1969-06-30,False,False,ORTHODOX,True
+Champions Trophy,Romesh Kaluwitharana,Sri Lanka,Sri Lankan,1969-11-24,False,True,,True
+Champions Trophy,Marvan Atapattu,Sri Lanka,Sri Lankan,1970-11-22,True,True,LEG_SPIN,True
+Champions Trophy,Aravinda de Silva,Sri Lanka,Sri Lankan,1965-10-17,True,True,OFF_SPIN,True
+Champions Trophy,Arjuna Ranatunga,Sri Lanka,Sri Lankan,1963-12-01,True,False,MEDIUM_SEAM,True
+Champions Trophy,Roshan Mahanama,Sri Lanka,Sri Lankan,1966-05-31,True,True,,True
+Champions Trophy,Upul Chandana,Sri Lanka,Sri Lankan,1972-05-07,False,True,LEG_SPIN,True
+Champions Trophy,Kumar Dharmasena,Sri Lanka,Sri Lankan,1971-04-24,True,True,OFF_SPIN,True
+Champions Trophy,Muthiah Muralidaran,Sri Lanka,,,,,,False
+Champions Trophy,Chaminda Vaas,Sri Lanka,Sri Lankan,1974-01-27,False,False,FAST_SEAM,True
+Champions Trophy,Nuwan Zoysa,Sri Lanka,,,,,,False
+Champions Trophy,Russel Arnold,Sri Lanka,Sri Lankan,1973-10-25,False,True,,True
+Champions Trophy,Avishka Gunawardene,Sri Lanka,Sri Lankan,1977-05-26,False,True,,True
+Champions Trophy,Mahela Jayawardene,Sri Lanka,Sri Lankan,1977-05-27,True,True,MEDIUM_SEAM,True
+Champions Trophy,Kumar Sangakkara,Sri Lanka,Sri Lankan,1977-10-27,True,False,OFF_SPIN,True
+Champions Trophy,Eric Upashantha,Sri Lanka,Sri Lankan,1972-06-10,False,True,,True
+Champions Trophy,Pramodya Wickramasinghe,Sri Lanka,Sri Lankan,1971-08-14,False,True,,True
+Champions Trophy,Dilhara Fernando,Sri Lanka,Sri Lankan,1979-07-19,True,True,FAST_SEAM,True
+Champions Trophy,Pulasthi Gunaratne,Sri Lanka,Sri Lankan,1973-09-27,False,True,,True
+Champions Trophy,Saman Jayantha,Sri Lanka,,,,,,False
+Champions Trophy,Tillakaratne Dilshan,Sri Lanka,Sri Lankan,1976-10-14,True,True,OFF_SPIN,True
+Champions Trophy,Farveez Maharoof,Sri Lanka,Sri Lankan,1984-09-07,True,True,FAST_SEAM,True
+Champions Trophy,Upul Tharanga,Sri Lanka,Sri Lankan,1985-02-02,False,False,,True
+Champions Trophy,Chamara Kapugedera,Sri Lanka,Sri Lankan,1987-02-24,False,True,,True
+Champions Trophy,Lasith Malinga,Sri Lanka,Sri Lankan,1983-08-28,True,True,FAST_SEAM,True
+Champions Trophy,Ruchira Perera,Sri Lanka,,,,,,False
+Champions Trophy,Thilina Kandamby,Sri Lanka,Sri Lankan,1982-06-04,False,False,,True
+Champions Trophy,Thilan Samaraweera,Sri Lanka,Sri Lankan,1976-09-22,True,True,OFF_SPIN,True
+Champions Trophy,Angelo Mathews,Sri Lanka,Sri Lankan,1987-06-02,True,True,MEDIUM_SEAM,True
+Champions Trophy,Nuwan Kulasekara,Sri Lanka,Sri Lankan,1982-07-22,True,True,FAST_SEAM,True
+Champions Trophy,Ajantha Mendis,Sri Lanka,Sri Lankan,1985-03-11,True,True,OFF_SPIN,True
+Champions Trophy,Dhammika Prasad,Sri Lanka,Sri Lankan,1983-05-30,False,True,,True
+Champions Trophy,Thilan Thushara,Sri Lanka,,,,,,False
+Champions Trophy,Dinesh Chandimal,Sri Lanka,Sri Lankan,1989-11-18,True,True,OFF_SPIN,True
+Champions Trophy,Kusal Perera,Sri Lanka,Sri Lankan,1990-08-17,False,False,,True
+Champions Trophy,Lahiru Thirimanne,Sri Lanka,Sri Lankan,1989-08-09,True,False,MEDIUM_SEAM,True
+Champions Trophy,Jeevan Mendis,Sri Lanka,Sri Lankan,1983-01-15,True,False,LEG_SPIN,True
+Champions Trophy,Thisara Perera,Sri Lanka,Sri Lankan,1989-04-03,True,False,MEDIUM_SEAM,True
+Champions Trophy,Shaminda Eranga,Sri Lanka,Sri Lankan,1986-06-23,False,True,,True
+Champions Trophy,Rangana Herath,Sri Lanka,Sri Lankan,1978-03-19,False,False,ORTHODOX,True
+Champions Trophy,Sachithra Senanayake,Sri Lanka,Sri Lankan,1985-02-09,False,True,,True
+Champions Trophy,Dilhara Lokuhettige,Sri Lanka,Sri Lankan,1980-07-03,False,True,,True
+Champions Trophy,Niroshan Dickwella,Sri Lanka,Sri Lankan,1993-06-23,False,False,,True
+Champions Trophy,Asela Gunaratne,Sri Lanka,Sri Lankan,1986-01-08,True,True,,True
+Champions Trophy,Kusal Mendis,Sri Lanka,Sri Lankan,1995-02-02,True,True,LEG_SPIN,True
+Champions Trophy,Dhananjaya de Silva,Sri Lanka,Sri Lankan,1991-09-06,True,True,OFF_SPIN,True
+Champions Trophy,Danushka Gunathilaka,Sri Lanka,Sri Lankan,1991-03-17,True,False,OFF_SPIN,True
+Champions Trophy,Seekkuge Prasanna,Sri Lanka,Sri Lankan,1985-06-27,False,True,,True
+Champions Trophy,Nuwan Pradeep,Sri Lanka,Sri Lankan,1986-10-19,True,True,FAST_SEAM,True
+Champions Trophy,Suranga Lakmal,Sri Lanka,Sri Lankan,1987-03-10,True,True,FAST_SEAM,True
+Champions Trophy,Lakshan Sandakan,Sri Lanka,Sri Lankan,1991-06-10,False,True,UNORTHODOX,True
+Champions Trophy,Rohan Alexander,U.S.A.,,,,,,False
+Champions Trophy,Mark Johnson,U.S.A.,,,,,,False
+Champions Trophy,Leon Romero,U.S.A.,,,,,,False
+Champions Trophy,Steve Massiah,U.S.A.,,,,,,False
+Champions Trophy,Richard Staple,U.S.A.,,,,,,False
+Champions Trophy,Nasir Javed,U.S.A.,,,,,,False
+Champions Trophy,Clayton Lambert,U.S.A.,,,,,,False
+Champions Trophy,Donovam Blake,U.S.A.,,,,,,False
+Champions Trophy,Jignesh Desai,U.S.A.,,,,,,False
+Champions Trophy,Aijaz Ali,U.S.A.,,,,,,False
+Champions Trophy,Rashid,U.S.A.,,,,,,False
+Champions Trophy,Tony Reid,U.S.A.,,,,,,False
+Champions Trophy,Howard Johnson,U.S.A.,,,,,,False
+Champions Trophy,Philo Wallace,West Indies,,,,,,False
+Champions Trophy,Stuart Williams,West Indies,Nevis,1969-08-12,False,True,,True
+Champions Trophy,Shivnarine Chanderpaul,West Indies,West Indian,1974-08-16,True,False,LEG_SPIN,True
+Champions Trophy,Brian Lara,West Indies,West Indian,1969-05-02,True,False,LEG_SPIN,True
+Champions Trophy,Carl Hooper,West Indies,West Indian,1966-12-15,True,True,OFF_SPIN,True
+Champions Trophy,Keith Arthurton,West Indies,Nevis,1965-02-21,False,True,,True
+Champions Trophy,Phil Simmons,West Indies,Trinidadian,1963-04-18,False,True,,True
+Champions Trophy,Ridley Jacobs,West Indies,Antiguan,1967-11-26,False,True,,True
+Champions Trophy,Rawl Lewis,West Indies,,,,,,False
+Champions Trophy,Nixon McLean,West Indies,West Indian,1973-07-20,False,True,,True
+Champions Trophy,Mervyn Dillon,West Indies,West Indian,1974-06-05,True,True,FAST_SEAM,True
+Champions Trophy,Reon King,West Indies,,,,,,False
+Champions Trophy,Courtney Browne,West Indies,English,1970-12-07,False,True,,True
+Champions Trophy,Sherwin Campbell,West Indies,Barbados,1970-11-01,False,True,,True
+Champions Trophy,Wavell Hinds,West Indies,Jamaican,1976-09-07,False,True,,True
+Champions Trophy,Marlon Samuels,West Indies,West Indian,1981-02-05,True,True,OFF_SPIN,True
+Champions Trophy,Jimmy Adams,West Indies,Jamaican,1968-01-09,False,True,,True
+Champions Trophy,Mahendra Nagamootoo,West Indies,,,,,,False
+Champions Trophy,Kerry Jeremy,West Indies,,,,,,False
+Champions Trophy,Azeemul Haniff,West Indies,,,,,,False
+Champions Trophy,Sylvester Joseph,West Indies,,,,,,False
+Champions Trophy,Colin Stuart,West Indies,,,,,,False
+Champions Trophy,Laurie Williams,West Indies,,,,,,False
+Champions Trophy,Chris Gayle,West Indies,West Indian,1979-09-21,True,False,OFF_SPIN,True
+Champions Trophy,Ramnaresh Sarwan,West Indies,West Indian,1980-06-23,True,True,LEG_SPIN,True
+Champions Trophy,Vasbert Drakes,West Indies,Barbados,1969-08-05,False,True,,True
+Champions Trophy,Pedro Collins,West Indies,Barbados,1976-08-12,False,True,,True
+Champions Trophy,Ricardo Powell,West Indies,Jamaican,1978-12-16,False,True,,True
+Champions Trophy,Dwayne Bravo,West Indies,West Indian,1983-10-07,True,True,MEDIUM_SEAM,True
+Champions Trophy,Ian Bradshaw,West Indies,Barbados,1974-07-09,False,True,,True
+Champions Trophy,Daren Sammy,West Indies,West Indian,1983-12-20,False,True,,True
+Champions Trophy,Ryan Hinds,West Indies,,,,,,False
+Champions Trophy,Corey Collymore,West Indies,Barbados,1977-12-21,False,True,,True
+Champions Trophy,Runako Morton,West Indies,,,,,,False
+Champions Trophy,Dwayne Smith,West Indies,West Indian,1983-04-12,True,True,,True
+Champions Trophy,Carlton Baugh,West Indies,,,,,,False
+Champions Trophy,Jerome Taylor,West Indies,West Indian,1984-06-22,True,True,FAST_SEAM,True
+Champions Trophy,Fidel Edwards,West Indies,,,,,,False
+Champions Trophy,Floyd Reifer,West Indies,,,,,,False
+Champions Trophy,Royston Crandon,West Indies,,,,,,False
+Champions Trophy,Travis Dowlin,West Indies,,,,,,False
+Champions Trophy,Andre Fletcher,West Indies,West Indian,1987-11-28,False,True,,True
+Champions Trophy,Kieran Powell,West Indies,West Indian,1990-03-06,False,True,,True
+Champions Trophy,Dale Richards,West Indies,,,,,,False
+Champions Trophy,Devon Smith,West Indies,West Indian,1981-10-21,False,False,,True
+Champions Trophy,Chadwick Walton,West Indies,West Indian,1985-07-03,False,True,,True
+Champions Trophy,Tino Best,West Indies,West Indian,1981-08-26,False,True,,True
+Champions Trophy,Nikita Miller,West Indies,West Indian,1982-05-16,False,True,,True
+Champions Trophy,Kemar Roach,West Indies,West Indian,1988-06-30,True,True,FAST_SEAM,True
+Champions Trophy,Gavin Tonge,West Indies,,,,,,False
+Champions Trophy,David Bernard,West Indies,,,,,,False
+Champions Trophy,Kevin McClean,West Indies,,,,,,False
+Champions Trophy,Denesh Ramdin,West Indies,West Indian,1985-03-13,False,True,,True
+Champions Trophy,Darren Bravo,West Indies,West Indian,1989-02-06,True,False,MEDIUM_SEAM,True
+Champions Trophy,Johnson Charles,West Indies,West Indian,1989-01-14,False,True,,True
+Champions Trophy,Jason Holder,West Indies,West Indian,1991-11-05,True,True,MEDIUM_SEAM,True
+Champions Trophy,Sunil Narine,West Indies,West Indian,1988-05-26,True,False,OFF_SPIN,True
+Champions Trophy,Kieron Pollard,West Indies,West Indian,1987-05-12,True,True,MEDIUM_SEAM,True
+Champions Trophy,Ravi Rampaul,West Indies,West Indian,1984-10-15,True,True,FAST_SEAM,True
+Champions Trophy,Alistair Campbell,Zimbabwe,Zimbabwean,1972-09-23,True,False,OFF_SPIN,True
+Champions Trophy,Grant Flower,Zimbabwe,Zimbabwean,1970-12-20,False,True,ORTHODOX,True
+Champions Trophy,Neil Johnson,Zimbabwe,Zimbabwean,1970-01-24,False,True,,True
+Champions Trophy,Murray Goodwin,Zimbabwe,Zimbabwean,1972-12-11,False,True,,True
+Champions Trophy,Andy Flower,Zimbabwe,Zimbabwean,1968-04-28,True,False,OFF_SPIN,True
+Champions Trophy,Craig Evans,Zimbabwe,Zimbabwean,1969-11-29,False,True,,True
+Champions Trophy,Craig Wishart,Zimbabwe,Zimbabwean,1974-01-09,False,True,,True
+Champions Trophy,Heath Streak,Zimbabwe,Zimbabwean,1974-03-16,True,True,FAST_SEAM,True
+Champions Trophy,Paul Strang,Zimbabwe,Zimbabwean,1970-07-28,False,True,,True
+Champions Trophy,Andy Whittall,Zimbabwe,Zimbabwean,1973-03-28,False,True,,True
+Champions Trophy,Henry Olonga,Zimbabwe,Zambian,1976-07-03,False,True,,True
+Champions Trophy,Gavin Rennie,Zimbabwe,,,,,,False
+Champions Trophy,Mark Vermeulen,Zimbabwe,Zimbabwean,1979-03-02,False,True,,True
+Champions Trophy,Dirk Viljoen,Zimbabwe,Zimbabwean,1977-03-11,False,True,,True
+Champions Trophy,Guy Whittall,Zimbabwe,Zimbabwean,1972-09-05,False,True,,True
+Champions Trophy,Pommie Mbangwa,Zimbabwe,,,,,,False
+Champions Trophy,Mluleki Nkala,Zimbabwe,,,,,,False
+Champions Trophy,Dion Ebrahim,Zimbabwe,Zimbabwean,1980-08-07,False,True,,True
+Champions Trophy,Stuart Carlisle,Zimbabwe,Zimbabwean,1972-05-10,False,True,,True
+Champions Trophy,Dougie Marillier,Zimbabwe,Zimbabwean,1978-04-24,False,True,,True
+Champions Trophy,Sean Ervine,Zimbabwe,Zimbabwean,1982-12-06,False,False,,True
+Champions Trophy,Douglas Hondo,Zimbabwe,Zimbabwean,1979-07-07,False,True,,True
+Champions Trophy,Ray Price,Zimbabwe,Zimbabwean,1976-06-12,False,True,,True
+Champions Trophy,Stuart Matsikenyeri,Zimbabwe,Zimbabwean,1983-05-03,False,True,,True
+Champions Trophy,Brendan Taylor,Zimbabwe,Zimbabwean,1986-02-06,True,True,OFF_SPIN,True
+Champions Trophy,Vusi Sibanda,Zimbabwe,Zimbabwean,1983-10-10,False,True,,True
+Champions Trophy,Tatenda Taibu,Zimbabwe,Zimbabwean,1983-05-14,False,True,,True
+Champions Trophy,Elton Chigumbura,Zimbabwe,Zimbabwean,1986-03-14,False,True,,True
+Champions Trophy,Tinashe Panyangara,Zimbabwe,Zimbabwean,1985-10-21,False,True,,True
+Champions Trophy,Prosper Utseya,Zimbabwe,Zimbabwean,1985-03-26,True,True,OFF_SPIN,True
+Champions Trophy,Ed Rainsford,Zimbabwe,Zimbabwean,1984-12-14,False,True,,True
+Champions Trophy,Tafadzwa Mufambisi,Zimbabwe,,,,,,False
+Champions Trophy,Chamu Chibhabha,Zimbabwe,Zimbabwean,1986-09-06,True,True,MEDIUM_SEAM,True
+Champions Trophy,Hamilton Masakadza,Zimbabwe,Zimbabwean,1983-08-09,True,True,MEDIUM_SEAM,True
+Champions Trophy,Tawanda Mupariwa,Zimbabwe,Zimbabwean,1985-04-16,False,True,,True
+Champions Trophy,Piet Rinke,Zimbabwe,,,,,,False
+Champions Trophy,Anthony Ireland,Zimbabwe,Zimbabwean,1984-08-30,False,True,,True
+Champions Trophy,Tafadzwa Kamungozi,Zimbabwe,Zimbabwean,1987-06-08,False,True,,True

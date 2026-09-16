@@ -1,0 +1,3 @@
+-- Load source data with scripts/07_load_database.py (loads every CSV in
+-- data/processed/ into the matching table defined in schema.sql).
+-- Not required for normal use - the API reads the CSVs directly.

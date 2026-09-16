@@ -1,0 +1,202 @@
+match_id,cycle,match_no,series,match_date,ground,host_country,team1,team2,result_type,winner,result_summary
+WTC-2019-2021-1,2019-2021,1,,2019-08-01,Birmingham,England,England,Australia,Win,Australia,251 runs
+WTC-2019-2021-2,2019-2021,2,,2019-08-14,Galle,Sri Lanka,Sri Lanka,New Zealand,Win,Sri Lanka,6 wickets
+WTC-2019-2021-3,2019-2021,3,,2019-08-14,Lord's,England,England,Australia,Draw,drawn,No Result
+WTC-2019-2021-4,2019-2021,4,,2019-08-22,Colombo (PSS),Sri Lanka,Sri Lanka,New Zealand,Win,New Zealand,inns & 65 runs
+WTC-2019-2021-5,2019-2021,5,,2019-08-22,Leeds,England,England,Australia,Win,England,1 wicket
+WTC-2019-2021-6,2019-2021,6,,2019-08-22,North Sound,West Indies,West Indies,India,Win,India,318 runs
+WTC-2019-2021-7,2019-2021,7,,2019-08-30,Kingston,West Indies,West Indies,India,Win,India,257 runs
+WTC-2019-2021-8,2019-2021,8,,2019-09-04,Manchester,England,England,Australia,Win,Australia,185 runs
+WTC-2019-2021-9,2019-2021,9,,2019-09-12,The Oval,England,England,Australia,Win,England,135 runs
+WTC-2019-2021-10,2019-2021,10,,2019-10-02,Visakhapatnam,India,India,South Africa,Win,India,203 runs
+WTC-2019-2021-11,2019-2021,11,,2019-10-10,Pune,India,India,South Africa,Win,India,inns & 137 runs
+WTC-2019-2021-12,2019-2021,12,,2019-10-19,Ranchi,India,India,South Africa,Win,India,inns & 202 runs
+WTC-2019-2021-13,2019-2021,13,,2019-11-14,Indore,India,India,Bangladesh,Win,India,inns & 130 runs
+WTC-2019-2021-14,2019-2021,14,,2019-11-21,Brisbane,Australia,Australia,Pakistan,Win,Australia,inns & 5 runs
+WTC-2019-2021-15,2019-2021,15,,2019-11-22,Kolkata,India,India,Bangladesh,Win,India,inns & 46 runs
+WTC-2019-2021-16,2019-2021,16,,2019-11-29,Adelaide,Australia,Australia,Pakistan,Win,Australia,inns & 48 runs
+WTC-2019-2021-17,2019-2021,17,,2019-12-11,Rawalpindi,Pakistan,Pakistan,Sri Lanka,Draw,drawn,No Result
+WTC-2019-2021-18,2019-2021,18,,2019-12-12,Perth,Australia,Australia,New Zealand,Win,Australia,296 runs
+WTC-2019-2021-19,2019-2021,19,,2019-12-19,Karachi,Pakistan,Pakistan,Sri Lanka,Win,Pakistan,263 runs
+WTC-2019-2021-20,2019-2021,20,,2019-12-26,Melbourne,Australia,Australia,New Zealand,Win,Australia,247 runs
+WTC-2019-2021-21,2019-2021,21,,2019-12-26,Centurion,South Africa,South Africa,England,Win,South Africa,107 runs
+WTC-2019-2021-22,2019-2021,22,,2020-01-03,Sydney,Australia,Australia,New Zealand,Win,Australia,279 runs
+WTC-2019-2021-23,2019-2021,23,,2020-01-03,Cape Town,South Africa,South Africa,England,Win,England,189 runs
+WTC-2019-2021-24,2019-2021,24,,2020-01-16,Port Elizabeth,South Africa,South Africa,England,Win,England,inns & 53 runs
+WTC-2019-2021-25,2019-2021,25,,2020-01-24,Johannesburg,South Africa,South Africa,England,Win,England,191 runs
+WTC-2019-2021-26,2019-2021,26,,2020-02-07,Rawalpindi,Pakistan,Pakistan,Bangladesh,Win,Pakistan,inns & 44 runs
+WTC-2019-2021-27,2019-2021,27,,2020-02-21,Wellington,New Zealand,New Zealand,India,Win,New Zealand,10 wickets
+WTC-2019-2021-28,2019-2021,28,,2020-02-29,Christchurch,New Zealand,New Zealand,India,Win,New Zealand,7 wickets
+WTC-2019-2021-29,2019-2021,29,,2020-07-08,Southampton,England,England,West Indies,Win,West Indies,4 wickets
+WTC-2019-2021-30,2019-2021,30,,2020-07-16,Manchester,England,England,West Indies,Win,England,113 runs
+WTC-2019-2021-31,2019-2021,31,,2020-07-24,Manchester,England,England,West Indies,Win,England,269 runs
+WTC-2019-2021-32,2019-2021,32,,2020-08-05,Manchester,England,England,Pakistan,Win,England,3 wickets
+WTC-2019-2021-33,2019-2021,33,,2020-08-13,Southampton,England,England,Pakistan,Draw,drawn,No Result
+WTC-2019-2021-34,2019-2021,34,,2020-08-21,Southampton,England,England,Pakistan,Draw,drawn,No Result
+WTC-2019-2021-35,2019-2021,35,,2020-12-03,Hamilton,New Zealand,New Zealand,West Indies,Win,New Zealand,inns & 134 runs
+WTC-2019-2021-36,2019-2021,36,,2020-12-11,Wellington,New Zealand,New Zealand,West Indies,Win,New Zealand,inns & 12 runs
+WTC-2019-2021-37,2019-2021,37,,2020-12-17,Adelaide,Australia,Australia,India,Win,Australia,8 wickets
+WTC-2019-2021-38,2019-2021,38,,2020-12-26,Mount Maunganui,New Zealand,New Zealand,Pakistan,Win,New Zealand,101 runs
+WTC-2019-2021-39,2019-2021,39,,2020-12-26,Melbourne,Australia,Australia,India,Win,India,8 wickets
+WTC-2019-2021-40,2019-2021,40,,2020-12-26,Centurion,South Africa,South Africa,Sri Lanka,Win,South Africa,inns & 45 runs
+WTC-2019-2021-41,2019-2021,41,,2021-01-03,Christchurch,New Zealand,New Zealand,Pakistan,Win,New Zealand,inns & 176 runs
+WTC-2019-2021-42,2019-2021,42,,2021-01-03,Johannesburg,South Africa,South Africa,Sri Lanka,Win,South Africa,10 wickets
+WTC-2019-2021-43,2019-2021,43,,2021-01-07,Sydney,Australia,Australia,India,Draw,drawn,No Result
+WTC-2019-2021-44,2019-2021,44,,2021-01-14,Galle,Sri Lanka,Sri Lanka,England,Win,England,7 wickets
+WTC-2019-2021-45,2019-2021,45,,2021-01-15,Brisbane,Australia,Australia,India,Win,India,3 wickets
+WTC-2019-2021-46,2019-2021,46,,2021-01-22,Galle,Sri Lanka,Sri Lanka,England,Win,England,6 wickets
+WTC-2019-2021-47,2019-2021,47,,2021-01-26,Karachi,Pakistan,Pakistan,South Africa,Win,Pakistan,7 wickets
+WTC-2019-2021-48,2019-2021,48,,2021-02-03,Chattogram,Bangladesh,Bangladesh,West Indies,Win,West Indies,3 wickets
+WTC-2019-2021-49,2019-2021,49,,2021-02-04,Rawalpindi,Pakistan,Pakistan,South Africa,Win,Pakistan,95 runs
+WTC-2019-2021-50,2019-2021,50,,2021-02-05,Chennai,India,India,England,Win,England,227 runs
+WTC-2019-2021-51,2019-2021,51,,2021-02-11,Dhaka,Bangladesh,Bangladesh,West Indies,Win,West Indies,17 runs
+WTC-2019-2021-52,2019-2021,52,,2021-02-13,Chennai,India,India,England,Win,India,317 runs
+WTC-2019-2021-53,2019-2021,53,,2021-02-24,Ahmedabad,India,India,England,Win,India,10 wickets
+WTC-2019-2021-54,2019-2021,54,,2021-03-04,Ahmedabad,India,India,England,Win,India,inns & 25 runs
+WTC-2019-2021-55,2019-2021,55,,2021-03-21,North Sound,West Indies,West Indies,Sri Lanka,Draw,drawn,No Result
+WTC-2019-2021-56,2019-2021,56,,2021-03-29,North Sound,West Indies,West Indies,Sri Lanka,Draw,drawn,No Result
+WTC-2019-2021-57,2019-2021,57,,2021-04-21,Pallekele,Sri Lanka,Sri Lanka,Bangladesh,Draw,drawn,No Result
+WTC-2019-2021-58,2019-2021,58,,2021-04-29,Pallekele,Sri Lanka,Sri Lanka,Bangladesh,Win,Sri Lanka,209 runs
+WTC-2019-2021-59,2019-2021,59,,2021-06-10,Gros Islet,West Indies,West Indies,South Africa,Win,South Africa,inns & 63 runs
+WTC-2019-2021-60,2019-2021,60,,2021-06-18,Southampton,India,India,New Zealand,Win,New Zealand,8 wickets
+WTC-2019-2021-61,2019-2021,61,,2021-06-18,Gros Islet,West Indies,West Indies,South Africa,Win,South Africa,158 runs
+WTC-2021-2023-1,2021-2023,1,India in England 2021,2021-08-04,"Trent Bridge, Nottingham",England,England,India,Draw,-,Eng 183 & 303; Ind 278 & 52/1
+WTC-2021-2023-2,2021-2023,2,India in England 2021,2021-08-12,"Lord's, London",England,England,India,Win,India,Ind 364 & 298/8d; Eng 391 & 120 (India won by 151 runs)
+WTC-2021-2023-3,2021-2023,3,India in England 2021,2021-08-25,"Headingley, Leeds",England,England,India,Win,England,Ind 78 & 278; Eng 432 (England won by an innings and 76 runs)
+WTC-2021-2023-4,2021-2023,4,India in England 2021,2021-09-02,"The Oval, London",England,England,India,Win,India,Eng 290 & 210; Ind 191 & 466 (India won by 157 runs)
+WTC-2021-2023-5,2021-2023,5,India in England 2021 (rescheduled),2022-07-01,"Edgbaston, Birmingham",England,England,India,Win,England,Ind 416 & 245; Eng 284 & 378/3 (England won by 7 wickets)
+WTC-2021-2023-6,2021-2023,6,Pakistan in West Indies 2021,2021-08-12,"Sabina Park, Kingston",West Indies,West Indies,Pakistan,Win,West Indies,WI 217 & 203; Pak 253 & 168/9 (West Indies won by 1 wicket)
+WTC-2021-2023-7,2021-2023,7,Pakistan in West Indies 2021,2021-08-20,"Sabina Park, Kingston",West Indies,West Indies,Pakistan,Win,Pakistan,WI 150 & 219; Pak won (Pakistan won)
+WTC-2021-2023-8,2021-2023,8,West Indies in Sri Lanka 2021,2021-11-21,Galle International Stadium,Sri Lanka,Sri Lanka,West Indies,Win,Sri Lanka,WI 230 & 160; SL won (Sri Lanka won)
+WTC-2021-2023-9,2021-2023,9,West Indies in Sri Lanka 2021,2021-11-29,Galle International Stadium,Sri Lanka,Sri Lanka,West Indies,Win,Sri Lanka,WI 253 & 132; SL won (Sri Lanka won)
+WTC-2021-2023-10,2021-2023,10,New Zealand in India 2021,2021-11-25,"Green Park, Kanpur",India,India,New Zealand,Draw,-,NZ 296 & 165/9; Ind batted (Draw)
+WTC-2021-2023-11,2021-2023,11,New Zealand in India 2021,2021-12-03,"Wankhede Stadium, Mumbai",India,India,New Zealand,Win,India,NZ 62 & 167; Ind won (India won; Ajaz Patel took all 10 wickets in an innings for NZ)
+WTC-2021-2023-12,2021-2023,12,Bangladesh in Pakistan 2021,2021-11-26,"Zahur Ahmed Chowdhury Stadium, Chattogram",Pakistan,Pakistan,Bangladesh,Win,Pakistan,Pak 330 & 157; Ban 286 & 203/2 (Pakistan won)
+WTC-2021-2023-13,2021-2023,13,Bangladesh in Pakistan 2021,2021-12-04,"Sher-e-Bangla Stadium, Mirpur",Pakistan,Pakistan,Bangladesh,Win,Pakistan,Ban 87 & 205; Pak won (Pakistan won; Sajid Khan 8/42 & 12/128 match)
+WTC-2021-2023-14,2021-2023,14,The Ashes 2021-22,2021-12-08,"The Gabba, Brisbane",Australia,Australia,England,Win,Australia,Eng 147 & 297; Aus 425 & 1/20 (Australia won by 9 wickets)
+WTC-2021-2023-15,2021-2023,15,The Ashes 2021-22,2021-12-16,Adelaide Oval (day/night),Australia,Australia,England,Win,Australia,Eng 236 & 192; Aus won (Australia won by 275 runs)
+WTC-2021-2023-16,2021-2023,16,The Ashes 2021-22,2021-12-26,"MCG, Melbourne",Australia,Australia,England,Win,Australia,Eng 185 & 68; Aus 267 (Australia won by an innings and 14 runs)
+WTC-2021-2023-17,2021-2023,17,The Ashes 2021-22,2022-01-05,"SCG, Sydney",Australia,Australia,England,Draw,-,Eng 294 & 270/9; Aus batted (Draw)
+WTC-2021-2023-18,2021-2023,18,The Ashes 2021-22,2022-01-14,"Bellerive Oval, Hobart",Australia,Australia,England,Win,Australia,Aus 303 & 155; Eng 188 & 124 (Australia won by 146 runs)
+WTC-2021-2023-19,2021-2023,19,India in South Africa 2021-22,2021-12-26,"SuperSport Park, Centurion",South Africa,South Africa,India,Win,India,Ind 327 & 174; SA 197 & 191 (India won by 113 runs)
+WTC-2021-2023-20,2021-2023,20,India in South Africa 2021-22,2022-01-03,"The Wanderers, Johannesburg",South Africa,South Africa,India,Win,South Africa,Ind 202 & 266; SA 229 & 243/3 (South Africa won by 7 wickets)
+WTC-2021-2023-21,2021-2023,21,India in South Africa 2021-22,2022-01-11,"Newlands, Cape Town",South Africa,South Africa,India,Win,South Africa,Ind 223 & 198; SA 210 & 212/3 (South Africa won by 7 wickets)
+WTC-2021-2023-22,2021-2023,22,Bangladesh in New Zealand 2021-22,2022-01-01,"Bay Oval, Mount Maunganui",New Zealand,New Zealand,Bangladesh,Win,Bangladesh,NZ 328 & 169; Ban 458 & 42/2 (Bangladesh won by 8 wickets)
+WTC-2021-2023-23,2021-2023,23,Bangladesh in New Zealand 2021-22,2022-01-09,"Hagley Oval, Christchurch",New Zealand,New Zealand,Bangladesh,Win,New Zealand,NZ 521/6d; Ban 126 & 278 (New Zealand won by an innings margin)
+WTC-2021-2023-24,2021-2023,24,South Africa in New Zealand 2022,2022-02-17,"Hagley Oval, Christchurch",New Zealand,New Zealand,South Africa,Win,New Zealand,SA 95 & 111; NZ 482 (New Zealand won by an innings and 276 runs)
+WTC-2021-2023-25,2021-2023,25,South Africa in New Zealand 2022,2022-02-25,"Seddon Park, Hamilton",New Zealand,New Zealand,South Africa,Win,South Africa,NZ 293 & 227; SA 364 & 354/9d (South Africa won)
+WTC-2021-2023-26,2021-2023,26,Sri Lanka in India 2022,2022-03-04,"IS Bindra Stadium, Mohali",India,India,Sri Lanka,Win,India,Ind won; SL batted (India won)
+WTC-2021-2023-27,2021-2023,27,Sri Lanka in India 2022,2022-03-12,"M Chinnaswamy Stadium, Bengaluru",India,India,Sri Lanka,Win,India,SL 109 & 208; Ind won (India won)
+WTC-2021-2023-28,2021-2023,28,Australia in Pakistan 2022,2022-03-04,Rawalpindi Cricket Stadium,Pakistan,Pakistan,Australia,Draw,-,Aus 459; Pak batted (Draw)
+WTC-2021-2023-29,2021-2023,29,Australia in Pakistan 2022,2022-03-12,"National Stadium, Karachi",Pakistan,Pakistan,Australia,Draw,-,Pak 148 & 443/7d; Aus batted (Draw)
+WTC-2021-2023-30,2021-2023,30,Australia in Pakistan 2022,2022-03-21,"Gaddafi Stadium, Lahore",Pakistan,Pakistan,Australia,Win,Australia,Pak 268 & 235; Aus won (Australia won)
+WTC-2021-2023-31,2021-2023,31,England in West Indies 2022,2022-03-08,"Sir Vivian Richards Stadium, Antigua",West Indies,West Indies,England,Draw,-,Eng 375 & 147/4d; WI batted (Draw)
+WTC-2021-2023-32,2021-2023,32,England in West Indies 2022,2022-03-16,"Kensington Oval, Bridgetown",West Indies,West Indies,England,Draw,-,WI 411 & 135/5; Eng batted (Draw)
+WTC-2021-2023-33,2021-2023,33,England in West Indies 2022,2022-03-24,"National Cricket Stadium, Grenada",West Indies,West Indies,England,Win,West Indies,Eng 204 & 120; WI 297 & 28/0 (West Indies won by 10 wickets)
+WTC-2021-2023-34,2021-2023,34,Bangladesh in South Africa 2022,2022-03-31,"Kingsmead, Durban",South Africa,South Africa,Bangladesh,Win,South Africa,SA 367 & 204; Ban 298 & 53 (South Africa won; Bangladesh all out 53)
+WTC-2021-2023-35,2021-2023,35,Bangladesh in South Africa 2022,2022-04-08,"St George's Park, Gqeberha",South Africa,South Africa,Bangladesh,Win,South Africa,SA 453 & 176/6d; Ban 217 & 80 (South Africa won)
+WTC-2021-2023-36,2021-2023,36,Sri Lanka in Bangladesh 2022,2022-05-15,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Bangladesh,Sri Lanka,Draw,-,Ban 397 & 260/6; SL 465 (Draw)
+WTC-2021-2023-37,2021-2023,37,Sri Lanka in Bangladesh 2022,2022-05-23,"Sher-e-Bangla Stadium, Mirpur",Bangladesh,Bangladesh,Sri Lanka,Win,Sri Lanka,Ban 365 & 169; SL 506 & 29/0 (Sri Lanka won)
+WTC-2021-2023-38,2021-2023,38,New Zealand in England 2022,2022-06-02,"Lord's, London",England,England,New Zealand,Win,England,NZ 132 & 285; Eng 141 & 279/5 (England won by 5 wickets)
+WTC-2021-2023-39,2021-2023,39,New Zealand in England 2022,2022-06-10,"Trent Bridge, Nottingham",England,England,New Zealand,Win,England,Eng 553 & 284; NZ 553 & 299/5 (England won by 5 wickets)
+WTC-2021-2023-40,2021-2023,40,New Zealand in England 2022,2022-06-23,"Headingley, Leeds",England,England,New Zealand,Win,England,Eng 329 & 326; NZ 360 & 296/3 (England won by 7 wickets)
+WTC-2021-2023-41,2021-2023,41,Bangladesh in West Indies 2022,2022-06-16,Antigua,West Indies,West Indies,Bangladesh,Win,West Indies,Ban 103 & 245; WI 265 & 88/3 (West Indies won)
+WTC-2021-2023-42,2021-2023,42,Bangladesh in West Indies 2022,2022-06-24,"National Cricket Stadium, Grenada",West Indies,West Indies,Bangladesh,Win,West Indies,Ban 234 & 186; WI 408 & 13/0 (West Indies won)
+WTC-2021-2023-43,2021-2023,43,Australia in Sri Lanka 2022,2022-06-29,Galle International Stadium,Sri Lanka,Sri Lanka,Australia,Win,Australia,SL 212 & 113; Aus 321 & 10/0 (Australia won)
+WTC-2021-2023-44,2021-2023,44,Australia in Sri Lanka 2022,2022-07-08,Galle International Stadium,Sri Lanka,Sri Lanka,Australia,Win,Sri Lanka,Aus 364 & 151; SL 554 (Sri Lanka won; Dinesh Chandimal 206*)
+WTC-2021-2023-45,2021-2023,45,Pakistan in Sri Lanka 2022,2022-07-16,Galle International Stadium,Sri Lanka,Sri Lanka,Pakistan,Win,Pakistan,SL 222 & 337; Pak 218 & 344/6 (Pakistan won)
+WTC-2021-2023-46,2021-2023,46,Pakistan in Sri Lanka 2022,2022-07-24,Galle International Stadium,Sri Lanka,Sri Lanka,Pakistan,Win,Sri Lanka,Pak 231 & 261; SL won (Sri Lanka won)
+WTC-2021-2023-47,2021-2023,47,South Africa in England 2022,2022-08-17,"Lord's, London",England,England,South Africa,Win,South Africa,Eng 165 & 149; SA 326 (South Africa won)
+WTC-2021-2023-48,2021-2023,48,South Africa in England 2022,2022-08-25,"Old Trafford, Manchester",England,England,South Africa,Win,England,SA 151 & 179; Eng won (England won)
+WTC-2021-2023-49,2021-2023,49,South Africa in England 2022,2022-09-08,"The Oval, London",England,England,South Africa,Win,England,SA 118 & 169; Eng 158 & 130/1 (England won)
+WTC-2021-2023-50,2021-2023,50,West Indies in Australia 2022,2022-11-30,Perth Stadium,Australia,Australia,West Indies,Win,Australia,WI 283 & 333; Aus 598/4d (Australia won)
+WTC-2021-2023-51,2021-2023,51,West Indies in Australia 2022,2022-12-08,Adelaide Oval (day/night),Australia,Australia,West Indies,Win,Australia,WI 214 & 77; Aus won (Australia won)
+WTC-2021-2023-52,2021-2023,52,England in Pakistan 2022,2022-12-01,Rawalpindi Cricket Stadium,Pakistan,Pakistan,England,Win,England,Eng 657; Pak 579 & 268 (England won)
+WTC-2021-2023-53,2021-2023,53,England in Pakistan 2022,2022-12-09,Multan Cricket Stadium,Pakistan,Pakistan,England,Win,England,Pak 281 & 275; Eng 202 & 328 (England won)
+WTC-2021-2023-54,2021-2023,54,England in Pakistan 2022,2022-12-17,"National Stadium, Karachi",Pakistan,Pakistan,England,Win,England,Pak 304 & 216; Eng 354 & 170/2 (England won)
+WTC-2021-2023-55,2021-2023,55,India in Bangladesh 2022,2022-12-14,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Bangladesh,India,Win,India,Ban 150 & 324; Ind won (India won)
+WTC-2021-2023-56,2021-2023,56,India in Bangladesh 2022,2022-12-22,"Sher-e-Bangla Stadium, Mirpur",Bangladesh,Bangladesh,India,Win,India,Ban 227 & 231; Ind 314 & 145/7 (India won)
+WTC-2021-2023-57,2021-2023,57,South Africa in Australia 2022-23,2022-12-17,"The Gabba, Brisbane",Australia,Australia,South Africa,Win,Australia,SA 152 & 99; Aus 218 & 35/4 (Australia won)
+WTC-2021-2023-58,2021-2023,58,South Africa in Australia 2022-23,2022-12-26,"MCG, Melbourne",Australia,Australia,South Africa,Win,Australia,SA 189 & 204; Aus won (Australia won)
+WTC-2021-2023-59,2021-2023,59,South Africa in Australia 2022-23,2023-01-04,"SCG, Sydney",Australia,Australia,South Africa,Draw,-,SA 255 & 106/2; Aus batted (Draw)
+WTC-2021-2023-60,2021-2023,60,New Zealand in Pakistan 2022-23,2022-12-26,"National Stadium, Karachi",Pakistan,Pakistan,New Zealand,Draw,-,NZ 612/9d & 61/1; Pak batted (Draw)
+WTC-2021-2023-61,2021-2023,61,New Zealand in Pakistan 2022-23,2023-01-02,"National Stadium, Karachi",Pakistan,Pakistan,New Zealand,Draw,-,Pak 449 & 277/5d; NZ 408 & 304/9 (Draw)
+WTC-2021-2023-62,2021-2023,62,Border-Gavaskar Trophy 2023,2023-02-09,"VCA Stadium, Nagpur",India,India,Australia,Win,India,Aus 177 & 91; Ind 400 (India won)
+WTC-2021-2023-63,2021-2023,63,Border-Gavaskar Trophy 2023,2023-02-17,"Arun Jaitley Stadium, Delhi",India,India,Australia,Win,India,Aus 263 & 113; Ind 262 & 118/4 (India won)
+WTC-2021-2023-64,2021-2023,64,Border-Gavaskar Trophy 2023,2023-03-01,"Holkar Stadium, Indore",India,India,Australia,Win,Australia,Ind 109 & 163; Aus 197 & 78/1 (Australia won)
+WTC-2021-2023-65,2021-2023,65,Border-Gavaskar Trophy 2023,2023-03-09,"Narendra Modi Stadium, Ahmedabad",India,India,Australia,Draw,-,Ind 480 & 175/2; Aus 571 (Draw)
+WTC-2021-2023-66,2021-2023,66,West Indies in South Africa 2023,2023-02-28,"SuperSport Park, Centurion",South Africa,South Africa,West Indies,Win,South Africa,SA 342 & 116; WI 212 & 159 (South Africa won)
+WTC-2021-2023-67,2021-2023,67,West Indies in South Africa 2023,2023-03-08,"The Wanderers, Johannesburg",South Africa,South Africa,West Indies,Win,South Africa,SA 320 & 321; WI 251 & 106 (South Africa won)
+WTC-2021-2023-68,2021-2023,68,Sri Lanka in New Zealand 2023,2023-03-09,"Hagley Oval, Christchurch",New Zealand,New Zealand,Sri Lanka,Win,New Zealand,NZ 355 & 302; SL 373 & 285/8 (New Zealand won)
+WTC-2021-2023-69,2021-2023,69,Sri Lanka in New Zealand 2023,2023-03-17,"Basin Reserve, Wellington",New Zealand,New Zealand,Sri Lanka,Win,New Zealand,NZ 580/4d; SL won (New Zealand won)
+WTC-2021-2023-70,2021-2023,70,2023 WTC Final,2023-06-07,"The Oval, London",England (neutral),Australia,India,Win,Australia,Aus 469 & 270/8d; Ind 296 & 234 (Australia won by 209 runs)
+WTC-2023-2025-1,2023-2025,1,The Ashes 2023,2023-06-16,"Edgbaston, Birmingham",England,England,Australia,Win,Australia,Eng 393/8d & 273; Aus 386 & 282/8 (Australia won by 2 wickets)
+WTC-2023-2025-2,2023-2025,2,The Ashes 2023,2023-06-28,"Lord's, London",England,England,Australia,Win,Australia,Aus 416 & 279; Eng 325 & 327 (Australia won by 43 runs)
+WTC-2023-2025-3,2023-2025,3,The Ashes 2023,2023-07-06,"Headingley, Leeds",England,England,Australia,Win,England,Aus 263 & 224; Eng 237 & 254/7 (England won by 3 wickets)
+WTC-2023-2025-4,2023-2025,4,The Ashes 2023,2023-07-19,"Old Trafford, Manchester",England,England,Australia,Draw,-,"Eng 317 & 214/5; Aus 592 (Match drawn, rain-affected; Australia retained the Ashes)"
+WTC-2023-2025-5,2023-2025,5,The Ashes 2023,2023-07-27,"The Oval, London",England,England,Australia,Win,England,"Eng 283 & 395; Aus 295 & 334 (England won by 49 runs; series drawn 2-2, Australia retained the Ashes)"
+WTC-2023-2025-6,2023-2025,6,India tour of West Indies 2023,2023-07-12,"Windsor Park, Roseau",West Indies,West Indies,India,Win,India,WI 150 & 130; Ind 438/7d (India won by an innings and 141 runs)
+WTC-2023-2025-7,2023-2025,7,India tour of West Indies 2023,2023-07-20,"Queen's Park Oval, Port of Spain",West Indies,West Indies,India,Draw,-,"WI 255 & 121/9d; Ind 438 & 79/2 (Match drawn, rain-affected)"
+WTC-2023-2025-8,2023-2025,8,Pakistan tour of Sri Lanka 2023,2023-07-16,"Galle International Stadium, Galle",Sri Lanka,Sri Lanka,Pakistan,Win,Pakistan,SL 312 & 279; Pak 461 & 133/6 (Pakistan won by 4 wickets)
+WTC-2023-2025-9,2023-2025,9,Pakistan tour of Sri Lanka 2023,2023-07-24,"Galle International Stadium, Galle",Sri Lanka,Sri Lanka,Pakistan,Win,Pakistan,SL 166 & 188; Pak 493 (Pakistan won by an innings and 139 runs)
+WTC-2023-2025-10,2023-2025,10,New Zealand tour of Bangladesh 2023,2023-11-28,"Sylhet International Cricket Stadium, Sylhet",Bangladesh,Bangladesh,New Zealand,Win,Bangladesh,Ban 310 & 338; NZ 317 & 181 (Bangladesh won by 150 runs)
+WTC-2023-2025-11,2023-2025,11,New Zealand tour of Bangladesh 2023,2023-12-06,"Sher-e-Bangla National Stadium, Mirpur",Bangladesh,Bangladesh,New Zealand,Win,New Zealand,NZ 172 & 144; Ban 180 & 139/6 (New Zealand won by 4 wickets)
+WTC-2023-2025-12,2023-2025,12,Pakistan tour of Australia 2023-24,2023-12-14,"Perth Stadium, Perth",Australia,Australia,Pakistan,Win,Australia,Pak 271 & 89; Aus 487/9d & (T not required) (Australia won by 360 runs)
+WTC-2023-2025-13,2023-2025,13,Pakistan tour of Australia 2023-24,2023-12-26,"Melbourne Cricket Ground, Melbourne",Australia,Australia,Pakistan,Win,Australia,Aus 318 & 262; Pak 264 & 237 (Australia won by 79 runs)
+WTC-2023-2025-14,2023-2025,14,Pakistan tour of Australia 2023-24,2024-01-03,"Sydney Cricket Ground, Sydney",Australia,Australia,Pakistan,Win,Australia,Aus 313 & 115/2; Pak 313 & 115 (Australia won by 8 wickets)
+WTC-2023-2025-15,2023-2025,15,India tour of South Africa 2023-24,2023-12-26,"SuperSport Park, Centurion",South Africa,South Africa,India,Win,South Africa,Ind 245 & 131; SA 408 (South Africa won by an innings and 32 runs)
+WTC-2023-2025-16,2023-2025,16,India tour of South Africa 2023-24,2024-01-03,"Newlands, Cape Town",South Africa,South Africa,India,Win,India,SA 55 & 176; Ind 153 & 80/3 (India won by 7 wickets)
+WTC-2023-2025-17,2023-2025,17,West Indies tour of Australia 2024,2024-01-17,"Adelaide Oval, Adelaide",Australia,Australia,West Indies,Win,Australia,WI 188 & 120; Aus 283 & 26/0 (Australia won by 10 wickets)
+WTC-2023-2025-18,2023-2025,18,West Indies tour of Australia 2024,2024-01-25,"The Gabba, Brisbane",Australia,Australia,West Indies,Win,West Indies,Aus 289 & 207; WI 311 & 8/6 (West Indies won by 8 runs)
+WTC-2023-2025-19,2023-2025,19,England tour of India 2024,2024-01-25,"Rajiv Gandhi Intl Stadium, Hyderabad",India,India,England,Win,England,Eng 246 & 420; Ind 436 & 202 (England won by 28 runs)
+WTC-2023-2025-20,2023-2025,20,England tour of India 2024,2024-02-02,"ACA-VDCA Stadium, Visakhapatnam",India,India,England,Win,India,Ind 396 & 255; Eng 253 & 292 (India won by 106 runs)
+WTC-2023-2025-21,2023-2025,21,England tour of India 2024,2024-02-15,"Saurashtra CA Stadium, Rajkot",India,India,England,Win,India,Eng 319 & 122; Ind 445 & (T not required) (India won by 434 runs)
+WTC-2023-2025-22,2023-2025,22,England tour of India 2024,2024-02-23,"JSCA International Stadium, Ranchi",India,India,England,Win,India,Eng 353 & 145; Ind 307 & 192/5 (India won by 5 wickets)
+WTC-2023-2025-23,2023-2025,23,England tour of India 2024,2024-03-07,"HPCA Stadium, Dharamsala",India,India,England,Win,India,Eng 218 & 195; Ind 477 (India won by an innings and 64 runs)
+WTC-2023-2025-24,2023-2025,24,South Africa tour of New Zealand 2024,2024-02-04,"Bay Oval, Mount Maunganui",New Zealand,New Zealand,South Africa,Win,New Zealand,NZ 511 & 179/4d; SA 162 & 247 (New Zealand won by 281 runs)
+WTC-2023-2025-25,2023-2025,25,South Africa tour of New Zealand 2024,2024-02-13,"Seddon Park, Hamilton",New Zealand,New Zealand,South Africa,Win,New Zealand,SA 242 & 235; NZ 211 & 269/3 (New Zealand won by 7 wickets)
+WTC-2023-2025-26,2023-2025,26,Australia tour of New Zealand 2024,2024-02-29,"Basin Reserve, Wellington",New Zealand,New Zealand,Australia,Win,Australia,NZ 179 & 196; Aus 383 & 164 (via 1st-innings-lead style win) (Australia won)
+WTC-2023-2025-27,2023-2025,27,Australia tour of New Zealand 2024,2024-03-08,"Hagley Oval, Christchurch",New Zealand,New Zealand,Australia,Win,Australia,NZ 162 & 372; Aus 256 & 281/7 (Australia won by 3 wickets)
+WTC-2023-2025-28,2023-2025,28,Sri Lanka tour of Bangladesh 2024,2024-03-22,"Sylhet International Cricket Stadium, Sylhet",Bangladesh,Bangladesh,Sri Lanka,Win,Sri Lanka,Ban 188 & 182; SL 280 & 418/(T not required) (Sri Lanka won)
+WTC-2023-2025-29,2023-2025,29,Sri Lanka tour of Bangladesh 2024,2024-03-30,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Bangladesh,Sri Lanka,Win,Sri Lanka,Ban 178 & 318; SL (T not required) (Sri Lanka won)
+WTC-2023-2025-30,2023-2025,30,West Indies tour of England 2024,2024-07-10,"Lord's, London",England,England,West Indies,Win,England,WI 121 & 136; Eng 371 (England won by an innings and 114 runs)
+WTC-2023-2025-31,2023-2025,31,West Indies tour of England 2024,2024-07-18,"Trent Bridge, Nottingham",England,England,West Indies,Win,England,Eng 416 & 425; WI 457 & 143 (England won by 241 runs)
+WTC-2023-2025-32,2023-2025,32,West Indies tour of England 2024,2024-07-26,"Edgbaston, Birmingham",England,England,West Indies,Win,England,Eng 282 & 175; WI 376 & 87/0 (England won by 10 wickets)
+WTC-2023-2025-33,2023-2025,33,West Indies tour of South Africa 2024,2024-08-07,"St George's Park, Gqeberha",South Africa,South Africa,West Indies,Draw,-,SA 357 & 173/3; WI 233 & 201/5 (Match drawn)
+WTC-2023-2025-34,2023-2025,34,West Indies tour of South Africa 2024,2024-08-15,"Kingsmead, Durban",South Africa,South Africa,West Indies,Win,South Africa,SA 160 & 246; WI 144 & 222 (South Africa won by 40 runs)
+WTC-2023-2025-35,2023-2025,35,Bangladesh tour of Pakistan 2024,2024-08-21,"Rawalpindi Cricket Stadium, Rawalpindi",Pakistan,Pakistan,Bangladesh,Win,Bangladesh,Pak 448 & 146; Ban 565 & 30/0 (Bangladesh won by 10 wickets)
+WTC-2023-2025-36,2023-2025,36,Bangladesh tour of Pakistan 2024,2024-08-30,"Rawalpindi Cricket Stadium, Rawalpindi",Pakistan,Pakistan,Bangladesh,Win,Bangladesh,Pak 274 & 172; Ban 262 & 185/4 (Bangladesh won by 6 wickets)
+WTC-2023-2025-37,2023-2025,37,Sri Lanka tour of England 2024,2024-08-21,"Old Trafford, Manchester",England,England,Sri Lanka,Win,England,Eng 236 & 326; SL 358 & 205/5(?) (England won)
+WTC-2023-2025-38,2023-2025,38,Sri Lanka tour of England 2024,2024-08-29,"Lord's, London",England,England,Sri Lanka,Win,England,Eng 427 & 251; SL 196 & 292 (England won by 190 runs)
+WTC-2023-2025-39,2023-2025,39,Sri Lanka tour of England 2024,2024-09-06,"The Oval, London",England,England,Sri Lanka,No Result,-,Match abandoned without a ball bowled (rain)
+WTC-2023-2025-40,2023-2025,40,New Zealand tour of Sri Lanka 2024,2024-09-18,"Galle International Stadium, Galle",Sri Lanka,Sri Lanka,New Zealand,Win,Sri Lanka,SL 305 & 309; NZ 340 & 211 (Sri Lanka won by 63 runs)
+WTC-2023-2025-41,2023-2025,41,New Zealand tour of Sri Lanka 2024,2024-09-26,"Galle International Stadium, Galle",Sri Lanka,Sri Lanka,New Zealand,Win,Sri Lanka,NZ 88 & 360; SL 602/5d (Sri Lanka won by an innings margin)
+WTC-2023-2025-42,2023-2025,42,Bangladesh tour of India 2024,2024-09-19,"M. A. Chidambaram Stadium, Chennai",India,India,Bangladesh,Win,India,Ban 149 & 234; Ind (T not required) (India won by 280 runs)
+WTC-2023-2025-43,2023-2025,43,Bangladesh tour of India 2024,2024-09-27,"Green Park Stadium, Kanpur",India,India,Bangladesh,Win,India,Ban 233 & 146; Ind (T not required) (India won by 7 wickets)
+WTC-2023-2025-44,2023-2025,44,England tour of Pakistan 2024,2024-10-07,"Multan Cricket Stadium, Multan",Pakistan,Pakistan,England,Win,England,Eng 823/7d & 220; Pak 556 (England won by 267 runs)
+WTC-2023-2025-45,2023-2025,45,England tour of Pakistan 2024,2024-10-15,"Multan Cricket Stadium, Multan",Pakistan,Pakistan,England,Win,Pakistan,Eng 291 & 144; Pak 366 & 221/2 (Pakistan won by 152 runs)
+WTC-2023-2025-46,2023-2025,46,England tour of Pakistan 2024,2024-10-24,"Rawalpindi Cricket Stadium, Rawalpindi",Pakistan,Pakistan,England,Win,Pakistan,Eng 267 & 112; Pak 344 & 37/1 (Pakistan won by 9 wickets)
+WTC-2023-2025-47,2023-2025,47,India tour of New Zealand 2024,2024-10-16,"M. Chinnaswamy Stadium, Bengaluru",India,India,New Zealand,Win,New Zealand,Ind 46 & 462; NZ 402 & 110/2 (New Zealand won by 8 wickets)
+WTC-2023-2025-48,2023-2025,48,India tour of New Zealand 2024,2024-10-24,"Maharashtra CA Stadium, Pune",India,India,New Zealand,Win,New Zealand,Ind 156 & 245; NZ 259 (New Zealand won by 113 runs)
+WTC-2023-2025-49,2023-2025,49,India tour of New Zealand 2024,2024-11-01,"Wankhede Stadium, Mumbai",India,India,New Zealand,Win,New Zealand,Ind 263 & 121; NZ 235 & 174 (New Zealand won by 25 runs)
+WTC-2023-2025-50,2023-2025,50,Bangladesh tour of South Africa 2024,2024-10-21,"Chief Mangope Stadium, Mahikeng",South Africa,South Africa,Bangladesh,Win,South Africa,Ban 106 & 307; SA 308 & 106/3 (South Africa won by 7 wickets)
+WTC-2023-2025-51,2023-2025,51,Bangladesh tour of South Africa 2024,2024-10-29,"Absa Stadium, East London",South Africa,South Africa,Bangladesh,Win,South Africa,SA 575/6d; Ban 159 & 143 (South Africa won by an innings and 273 runs)
+WTC-2023-2025-52,2023-2025,52,India tour of Australia 2024-25,2024-11-22,"Perth Stadium, Perth",Australia,Australia,India,Win,India,Aus 104 & 238; Ind 150 & 8/... (India won by 295 runs)
+WTC-2023-2025-53,2023-2025,53,India tour of Australia 2024-25,2024-12-06,"Adelaide Oval, Adelaide",Australia,Australia,India,Win,Australia,Ind 180 & 175; Aus 337 & 19/0 (Australia won by 10 wickets)
+WTC-2023-2025-54,2023-2025,54,India tour of Australia 2024-25,2024-12-14,"The Gabba, Brisbane",Australia,Australia,India,Draw,-,Aus 445 & 89/7d; Ind 260 & 8/0 (Match drawn)
+WTC-2023-2025-55,2023-2025,55,India tour of Australia 2024-25,2024-12-26,"Melbourne Cricket Ground, Melbourne",Australia,Australia,India,Win,Australia,Aus 474 & 234; Ind 369 & 155 (Australia won by 184 runs)
+WTC-2023-2025-56,2023-2025,56,India tour of Australia 2024-25,2025-01-03,"Sydney Cricket Ground, Sydney",Australia,Australia,India,Win,Australia,Ind 185 & 157; Aus 181 & 162/4 (Australia won by 6 wickets)
+WTC-2023-2025-57,2023-2025,57,Bangladesh tour of West Indies 2024,2024-11-22,"Sir Vivian Richards Stadium, North Sound",West Indies,West Indies,Bangladesh,Win,West Indies,Ban 269/9d & 132; WI 450/9d & 152/... (West Indies won)
+WTC-2023-2025-58,2023-2025,58,Bangladesh tour of West Indies 2024,2024-11-30,"Sabina Park, Kingston",West Indies,West Indies,Bangladesh,Win,Bangladesh,WI 146 & 185; Ban 164 & 268 (Bangladesh won by 101 runs)
+WTC-2023-2025-59,2023-2025,59,Sri Lanka tour of South Africa 2024,2024-11-27,"Kingsmead, Durban",South Africa,South Africa,Sri Lanka,Win,South Africa,SL 42 & 282; SA 191 & 366/5 (South Africa won by 5 wickets)
+WTC-2023-2025-60,2023-2025,60,Sri Lanka tour of South Africa 2024,2024-12-05,"St George's Park, Gqeberha",South Africa,South Africa,Sri Lanka,Win,South Africa,SL 328 & 238; SA 358 & 317 (South Africa won)
+WTC-2023-2025-61,2023-2025,61,England tour of New Zealand 2024,2024-11-28,"Hagley Oval, Christchurch",New Zealand,New Zealand,England,Win,England,NZ 348 & 254; Eng 499 & 104/2 (England won by 8 wickets)
+WTC-2023-2025-62,2023-2025,62,England tour of New Zealand 2024,2024-12-06,"Basin Reserve, Wellington",New Zealand,New Zealand,England,Win,England,NZ 125 & 259; Eng (T not required) (England won by an innings margin)
+WTC-2023-2025-63,2023-2025,63,England tour of New Zealand 2024,2024-12-14,"Seddon Park, Hamilton",New Zealand,New Zealand,England,Win,New Zealand,Eng 347 & 453; NZ 143 & 234 (New Zealand won by...)
+WTC-2023-2025-64,2023-2025,64,Pakistan tour of South Africa 2024-25,2024-12-26,"SuperSport Park, Centurion",South Africa,South Africa,Pakistan,Win,South Africa,Pak 211 & 237; SA 301 & 150/8 (South Africa won by 2 wickets)
+WTC-2023-2025-65,2023-2025,65,Pakistan tour of South Africa 2024-25,2025-01-03,"Newlands, Cape Town",South Africa,South Africa,Pakistan,Win,South Africa,SA 615 & 61/0; Pak (T not required) (South Africa won by an innings margin)
+WTC-2023-2025-66,2023-2025,66,West Indies tour of Pakistan 2025,2025-01-17,"Multan Cricket Stadium, Multan",Pakistan,Pakistan,West Indies,Win,Pakistan,Pak 230 & 157; WI 137 & 123 (Pakistan won by 127 runs)
+WTC-2023-2025-67,2023-2025,67,West Indies tour of Pakistan 2025,2025-01-25,"Multan Cricket Stadium, Multan",Pakistan,Pakistan,West Indies,Win,West Indies,WI 163 & 244; Pak 154 & 133 (West Indies won by 120 runs)
+WTC-2023-2025-68,2023-2025,68,Australia tour of Sri Lanka 2025,2025-01-29,"Galle International Stadium, Galle",Sri Lanka,Sri Lanka,Australia,Win,Australia,Aus 654/6d; SL 165 & 247 (Australia won by an innings and 242 runs)
+WTC-2023-2025-69,2023-2025,69,Australia tour of Sri Lanka 2025,2025-02-06,"Galle International Stadium, Galle",Sri Lanka,Sri Lanka,Australia,Win,Australia,SL 257 & 231; Aus 414 & 75/1 (Australia won by 9 wickets)
+WTC-2023-2025-70,2023-2025,70,2025 WTC Final,2025-06-11,"Lord's, London",England,Australia,South Africa,Win,South Africa,Aus 212 & 207; SA 138 & 282/5 (South Africa won by 5 wickets)

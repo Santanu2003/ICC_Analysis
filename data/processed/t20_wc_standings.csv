@@ -1,0 +1,213 @@
+team,year,stage,group,pos,m,w,l,t,n_r,pt,nrr,seed
+South Africa,2007,Group Stage,A,1,2,2,0,0,0,4,0.974,A1
+Bangladesh,2007,Group Stage,A,2,2,1,1,0,0,2,0.149,A3
+West Indies,2007,Group Stage,A,3,2,0,2,0,0,0,-1.233,A2
+Australia,2007,Group Stage,B,1,2,1,1,0,0,2,0.987,B1
+England,2007,Group Stage,B,2,2,1,1,0,0,2,0.209,B2
+Zimbabwe,2007,Group Stage,B,3,2,1,1,0,0,2,-1.196,B3
+Sri Lanka,2007,Group Stage,C,1,2,2,0,0,0,4,4.721,C2
+New Zealand,2007,Group Stage,C,2,2,1,1,0,0,2,2.396,C1
+Kenya,2007,Group Stage,C,3,2,0,2,0,0,0,-8.047,C3
+India,2007,Group Stage,D,1,2,1,0,1,0,3,0.0,D2
+Pakistan,2007,Group Stage,D,2,2,1,1,0,0,2,1.275,D1
+Scotland,2007,Group Stage,D,3,2,0,1,0,1,1,-2.55,D3
+India,2007,Super Eight,E,1,3,2,1,0,0,4,0.75,
+New Zealand,2007,Super Eight,E,2,3,2,1,0,0,4,0.05,
+South Africa,2007,Super Eight,E,3,3,2,1,0,0,4,-0.116,
+England,2007,Super Eight,E,4,3,0,3,0,0,0,-0.7,
+Pakistan,2007,Super Eight,F,1,3,3,0,0,0,6,0.843,
+Australia,2007,Super Eight,F,2,3,2,1,0,0,4,2.256,
+Sri Lanka,2007,Super Eight,F,3,3,1,2,0,0,2,-0.697,
+Bangladesh,2007,Super Eight,F,4,3,0,3,0,0,0,-2.031,
+India,2009,Group Stage,A,1,2,2,0,0,0,4,1.227,A1
+Ireland,2009,Group Stage,A,2,2,1,1,0,0,2,-0.162,A2
+Bangladesh,2009,Group Stage,A,3,2,0,2,0,0,0,-0.966,
+England,2009,Group Stage,B,1,2,1,1,0,0,2,1.175,B2
+Pakistan,2009,Group Stage,B,2,2,1,1,0,0,2,0.85,B1
+Netherlands,2009,Group Stage,B,3,2,1,1,0,0,2,-2.025,
+Sri Lanka,2009,Group Stage,C,1,2,2,0,0,0,4,0.626,C2
+West Indies,2009,Group Stage,C,2,2,1,1,0,0,2,0.715,C1
+Australia,2009,Group Stage,C,3,2,0,2,0,0,0,-1.331,
+South Africa,2009,Group Stage,D,1,2,2,0,0,0,4,3.275,D2
+New Zealand,2009,Group Stage,D,2,2,1,1,0,0,2,0.309,D1
+Scotland,2009,Group Stage,D,3,2,0,2,0,0,0,-5.281,
+South Africa,2009,Super Eight,E,1,3,3,0,0,0,6,0.787,
+West Indies,2009,Super Eight,E,2,3,2,1,0,0,4,0.063,
+England,2009,Super Eight,E,3,3,1,2,0,0,2,-0.414,
+India,2009,Super Eight,E,4,3,0,3,0,0,0,-0.466,
+Sri Lanka,2009,Super Eight,F,1,3,3,0,0,0,6,1.267,
+Pakistan,2009,Super Eight,F,2,3,2,1,0,0,4,1.185,
+New Zealand,2009,Super Eight,F,3,3,1,2,0,0,2,-0.232,
+Ireland,2009,Super Eight,F,4,3,0,3,0,0,0,-2.183,
+Australia,2010,Group Stage,A,1,2,2,0,0,0,4,1.525,A2
+Pakistan,2010,Group Stage,A,2,2,1,1,0,0,2,-0.325,A1
+Bangladesh,2010,Group Stage,A,3,2,0,2,0,0,0,-1.2,
+New Zealand,2010,Group Stage,B,1,2,2,0,0,0,4,0.428,B2
+Sri Lanka,2010,Group Stage,B,2,2,1,1,0,0,2,0.355,B1
+Zimbabwe,2010,Group Stage,B,3,2,0,2,0,0,0,-1.595,
+India,2010,Group Stage,C,1,2,2,0,0,0,4,1.495,C2
+South Africa,2010,Group Stage,C,2,2,1,1,0,0,2,1.125,C1
+Afghanistan,2010,Group Stage,C,3,2,0,2,0,0,0,-2.446,
+West Indies,2010,Group Stage,D,1,2,2,0,0,0,4,2.78,D1
+England,2010,Group Stage,D,2,2,0,1,0,1,1,-0.452,D2
+Ireland,2010,Group Stage,D,3,2,0,1,0,1,1,-3.5,
+England,2010,Super Eight,E,1,3,3,0,0,0,6,0.962,D2
+Pakistan,2010,Super Eight,E,2,3,1,2,0,0,2,0.041,A1
+New Zealand,2010,Super Eight,E,3,3,1,2,0,0,2,-0.373,B2
+South Africa,2010,Super Eight,E,4,3,1,2,0,0,2,-0.617,C1
+Australia,2010,Super Eight,F,1,3,3,0,0,0,6,2.733,A2
+Sri Lanka,2010,Super Eight,F,2,3,2,1,0,0,4,-0.333,B1
+West Indies,2010,Super Eight,F,3,3,1,2,0,0,2,-1.281,D1
+India,2010,Super Eight,F,4,3,0,3,0,0,0,-1.117,C2
+India,2012,Group Stage,A,1,2,2,0,0,0,4,2.825,A2
+England,2012,Group Stage,A,2,2,1,1,0,0,2,0.65,A1
+Afghanistan,2012,Group Stage,A,3,2,0,2,0,0,0,-3.475,
+Australia,2012,Group Stage,B,1,2,2,0,0,0,4,2.184,B1
+West Indies,2012,Group Stage,B,2,2,0,1,0,1,1,-1.855,B2
+Ireland,2012,Group Stage,B,3,2,0,1,0,1,1,-2.092,
+South Africa,2012,Group Stage,C,1,2,2,0,0,0,4,3.598,C2
+Sri Lanka,2012,Group Stage,C,2,2,1,1,0,0,2,1.852,C1
+Zimbabwe,2012,Group Stage,C,3,2,0,2,0,0,0,-3.624,
+Pakistan,2012,Group Stage,D,1,2,2,0,0,0,4,0.706,D1
+New Zealand,2012,Group Stage,D,2,2,1,1,0,0,2,1.15,D2
+Bangladesh,2012,Group Stage,D,3,2,0,2,0,0,0,-1.868,
+Sri Lanka,2012,Super Eight,E,1,3,3,0,0,0,6,0.998,
+West Indies,2012,Super Eight,E,2,3,2,1,0,0,4,-0.375,
+England,2012,Super Eight,E,3,3,1,2,0,0,2,-0.397,
+New Zealand,2012,Super Eight,E,4,3,0,3,0,0,0,-0.169,
+Australia,2012,Super Eight,F,1,3,2,1,0,0,4,0.464,
+Pakistan,2012,Super Eight,F,2,3,2,1,0,0,4,0.273,
+India,2012,Super Eight,F,3,3,2,1,0,0,4,-0.274,
+South Africa,2012,Super Eight,F,4,3,0,3,0,0,0,-0.421,
+Bangladesh,2014,First Round,A,1,3,2,1,0,0,4,1.466,
+Nepal,2014,First Round,A,2,3,2,1,0,0,4,0.933,
+Afghanistan,2014,First Round,A,3,3,1,2,0,0,2,-0.981,
+Hong Kong,2014,First Round,A,4,3,1,2,0,0,2,-1.455,
+Netherlands,2014,First Round,B,1,3,2,1,0,0,4,1.109,
+Zimbabwe,2014,First Round,B,2,3,2,1,0,0,4,0.957,
+Ireland,2014,First Round,B,3,3,2,1,0,0,4,-0.701,
+United Arab Emirates,2014,First Round,B,4,3,0,3,0,0,0,-1.541,
+Sri Lanka,2014,Super 10,Group 1,1,4,3,1,0,0,6,2.233,
+South Africa,2014,Super 10,Group 1,2,4,3,1,0,0,6,0.075,
+New Zealand,2014,Super 10,Group 1,3,4,2,2,0,0,4,-0.678,
+England,2014,Super 10,Group 1,4,4,1,3,0,0,2,-0.776,
+Netherlands,2014,Super 10,Group 1,5,4,1,3,0,0,2,-0.866,
+India,2014,Super 10,Group 2,1,4,4,0,0,0,8,1.28,
+West Indies,2014,Super 10,Group 2,2,4,3,1,0,0,6,1.971,
+Pakistan,2014,Super 10,Group 2,3,4,2,2,0,0,4,-0.384,
+Australia,2014,Super 10,Group 2,4,4,1,3,0,0,2,-0.875,
+Bangladesh,2014,Super 10,Group 2,5,4,0,4,0,0,0,-2.072,
+Bangladesh,2016,First Round,A,1,3,2,0,0,1,5,1.938,
+Netherlands,2016,First Round,A,2,3,1,1,0,1,3,0.154,
+Oman,2016,First Round,A,3,3,1,1,0,1,3,-0.685,
+Ireland,2016,First Round,A,4,3,0,2,0,1,1,-0.685,
+Afghanistan,2016,First Round,B,1,3,3,0,0,0,6,1.54,
+Zimbabwe,2016,First Round,B,2,3,2,1,0,0,4,-0.567,
+Scotland,2016,First Round,B,3,3,1,2,0,0,2,-0.132,
+Hong Kong,2016,First Round,B,4,3,0,3,0,0,0,-1.017,
+West Indies,2016,Super 10,Group 1,1,4,3,1,0,0,6,0.359,
+England,2016,Super 10,Group 1,2,4,3,1,0,0,6,0.145,
+South Africa,2016,Super 10,Group 1,3,4,2,2,0,0,4,0.651,
+Sri Lanka,2016,Super 10,Group 1,4,4,1,3,0,0,2,-0.461,
+Afghanistan,2016,Super 10,Group 1,5,4,1,3,0,0,2,-0.715,
+New Zealand,2016,Super 10,Group 2,1,4,4,0,0,0,8,1.9,
+India,2016,Super 10,Group 2,2,4,3,1,0,0,6,-0.305,
+Australia,2016,Super 10,Group 2,3,4,2,2,0,0,4,0.233,
+Pakistan,2016,Super 10,Group 2,4,4,1,3,0,0,2,-0.093,
+Bangladesh,2016,Super 10,Group 2,5,4,0,4,0,0,0,-1.805,
+Sri Lanka,2021,First Round,A,1,3,3,0,0,0,6,3.754,
+Namibia,2021,First Round,A,2,3,2,1,0,0,4,-0.523,
+Ireland,2021,First Round,A,3,3,1,2,0,0,2,-0.853,
+Netherlands,2021,First Round,A,4,3,0,3,0,0,0,-2.46,
+Scotland,2021,First Round,B,1,3,3,0,0,0,6,0.775,
+Bangladesh,2021,First Round,B,2,3,2,1,0,0,4,1.733,
+Oman,2021,First Round,B,3,3,1,2,0,0,2,-0.025,
+Papua New Guinea,2021,First Round,B,4,3,0,3,0,0,0,-2.655,
+England,2021,Super 12,Group 1,1,5,4,1,0,0,8,2.464,
+Australia,2021,Super 12,Group 1,2,5,4,1,0,0,8,1.216,
+South Africa,2021,Super 12,Group 1,3,5,4,1,0,0,8,0.739,
+Sri Lanka,2021,Super 12,Group 1,4,5,2,3,0,0,4,-0.269,
+West Indies,2021,Super 12,Group 1,5,5,1,4,0,0,2,-1.641,
+Bangladesh,2021,Super 12,Group 1,6,5,0,5,0,0,0,-2.383,
+Pakistan,2021,Super 12,Group 2,1,5,5,0,0,0,10,1.583,
+New Zealand,2021,Super 12,Group 2,2,5,4,1,0,0,8,1.162,
+India,2021,Super 12,Group 2,3,5,3,2,0,0,6,1.747,
+Afghanistan,2021,Super 12,Group 2,4,5,2,3,0,0,4,1.053,
+Namibia,2021,Super 12,Group 2,5,5,1,4,0,0,2,-1.89,
+Scotland,2021,Super 12,Group 2,6,5,0,5,0,0,0,-3.543,
+Sri Lanka,2022,First Round,A,1,3,2,1,0,0,4,0.667,
+Netherlands,2022,First Round,A,2,3,2,1,0,0,4,-0.162,
+Namibia,2022,First Round,A,3,3,1,2,0,0,2,0.73,
+United Arab Emirates,2022,First Round,A,4,3,1,2,0,0,2,-1.235,
+Zimbabwe,2022,First Round,B,1,3,2,1,0,0,4,0.2,
+Ireland,2022,First Round,B,2,3,2,1,0,0,4,0.105,
+Scotland,2022,First Round,B,3,3,1,2,0,0,2,0.304,
+West Indies,2022,First Round,B,4,3,1,2,0,0,2,-0.563,
+New Zealand,2022,Super 12,Group 1,1,5,3,1,1,0,7,2.113,
+England,2022,Super 12,Group 1,2,5,3,1,1,0,7,0.473,
+Australia,2022,Super 12,Group 1,3,5,3,1,1,0,7,-0.173,
+Sri Lanka,2022,Super 12,Group 1,4,5,2,3,0,0,4,-0.422,
+Ireland,2022,Super 12,Group 1,5,5,1,3,1,0,3,-1.615,
+Afghanistan,2022,Super 12,Group 1,6,5,0,3,2,0,2,-0.571,
+India,2022,Super 12,Group 2,1,5,4,1,0,0,8,1.319,
+Pakistan,2022,Super 12,Group 2,2,5,3,2,0,0,6,1.028,
+South Africa,2022,Super 12,Group 2,3,5,2,2,1,0,5,0.874,
+Netherlands,2022,Super 12,Group 2,4,5,2,3,0,0,4,-0.849,
+Bangladesh,2022,Super 12,Group 2,5,5,2,3,0,0,4,-1.176,
+Zimbabwe,2022,Super 12,Group 2,6,5,1,3,1,0,3,-1.138,
+India,2024,Group Stage,A,1,4,3,0,0,1,7,1.137,
+United States,2024,Group Stage,A,2,4,2,1,0,1,5,0.127,
+Pakistan,2024,Group Stage,A,3,4,2,2,0,0,4,0.294,
+Canada,2024,Group Stage,A,4,4,1,2,0,1,3,-0.493,
+Ireland,2024,Group Stage,A,5,4,0,3,0,1,1,-1.293,
+Australia,2024,Group Stage,B,1,4,4,0,0,0,8,2.791,
+England,2024,Group Stage,B,2,4,2,1,0,1,5,3.611,
+Scotland,2024,Group Stage,B,3,4,2,1,0,1,5,1.255,
+Namibia,2024,Group Stage,B,4,4,1,3,0,0,2,-2.585,
+Oman,2024,Group Stage,B,5,4,0,4,0,0,0,-3.062,
+West Indies,2024,Group Stage,C,1,4,4,0,0,0,8,3.257,
+Afghanistan,2024,Group Stage,C,2,4,3,1,0,0,6,1.835,
+New Zealand,2024,Group Stage,C,3,4,2,2,0,0,4,0.415,
+Uganda,2024,Group Stage,C,4,4,1,3,0,0,2,-4.51,
+Papua New Guinea,2024,Group Stage,C,5,4,0,4,0,0,0,-1.268,
+South Africa,2024,Group Stage,D,1,4,4,0,0,0,8,0.47,
+Bangladesh,2024,Group Stage,D,2,4,3,1,0,0,6,0.616,
+Sri Lanka,2024,Group Stage,D,3,4,1,2,0,1,3,0.863,
+Netherlands,2024,Group Stage,D,4,4,1,3,0,0,2,-1.358,
+Nepal,2024,Group Stage,D,5,4,0,3,0,1,1,-0.542,
+India,2024,Super 8,Group 1,1,3,3,0,0,0,6,2.017,
+Afghanistan,2024,Super 8,Group 1,2,3,2,1,0,0,4,-0.305,
+Australia,2024,Super 8,Group 1,3,3,1,2,0,0,2,-0.331,
+Bangladesh,2024,Super 8,Group 1,4,3,0,3,0,0,0,-1.709,
+South Africa,2024,Super 8,Group 2,1,3,3,0,0,0,6,0.599,
+England,2024,Super 8,Group 2,2,3,2,1,0,0,4,1.992,
+West Indies,2024,Super 8,Group 2,3,3,1,2,0,0,2,0.963,
+United States,2024,Super 8,Group 2,4,3,0,3,0,0,0,-3.906,
+India,2026,Group Stage,A,1,4,4,0,0,0,8,2.5,
+Pakistan,2026,Group Stage,A,2,4,3,1,0,0,6,0.976,
+USA,2026,Group Stage,A,3,4,2,2,0,0,4,0.788,
+Netherlands,2026,Group Stage,A,4,4,1,3,0,0,2,-1.217,
+Namibia,2026,Group Stage,A,5,4,0,4,0,0,0,-3.108,
+Zimbabwe,2026,Group Stage,B,1,4,3,0,0,1,7,1.506,
+Sri Lanka,2026,Group Stage,B,2,4,3,1,0,0,6,1.741,
+Australia,2026,Group Stage,B,3,4,2,2,0,0,4,1.523,
+Ireland,2026,Group Stage,B,4,4,1,2,0,1,3,0.15,
+Oman,2026,Group Stage,B,5,4,0,4,0,0,0,-4.845,
+West Indies,2026,Group Stage,C,1,4,4,0,0,0,8,1.874,
+England,2026,Group Stage,C,2,4,3,1,0,0,6,0.201,
+Scotland,2026,Group Stage,C,3,4,1,3,0,0,2,0.184,
+Italy,2026,Group Stage,C,4,4,1,3,0,0,2,-1.02,
+Nepal,2026,Group Stage,C,5,4,1,3,0,0,2,-1.349,
+South Africa,2026,Group Stage,D,1,4,4,0,0,0,8,1.943,
+New Zealand,2026,Group Stage,D,2,4,3,1,0,0,6,1.227,
+Afghanistan,2026,Group Stage,D,3,4,2,2,0,0,4,0.889,
+UAE,2026,Group Stage,D,4,4,1,3,0,0,2,-1.364,
+Canada,2026,Group Stage,D,5,4,0,4,0,0,0,-2.426,
+South Africa,2026,Super 8,Group 1,1,3,3,0,0,0,6,2.259,
+India,2026,Super 8,Group 1,2,3,2,1,0,0,4,0.106,
+West Indies,2026,Super 8,Group 1,3,3,1,2,0,0,2,0.993,
+Zimbabwe,2026,Super 8,Group 1,4,3,0,3,0,0,0,-3.415,
+England,2026,Super 8,Group 2,1,3,3,0,0,0,6,1.096,
+New Zealand,2026,Super 8,Group 2,2,3,1,1,0,1,3,1.39,
+Pakistan,2026,Super 8,Group 2,3,3,1,1,0,1,3,-0.123,
+Sri Lanka,2026,Super 8,Group 2,4,3,0,3,0,0,0,-1.95,

@@ -1,0 +1,79 @@
+category,rank,player_team,detail,value
+Most Runs (career),1,Sachin Tendulkar (India),"45 Mat, 44 Inn, 1992-2011",2278
+Most Runs (career),2,Virat Kohli (India),"37 Mat, 37 Inn, 2011-2023",1795
+Most Runs (career),3,Ricky Ponting (Australia),"46 Mat, 42 Inn, 1996-2011",1743
+Most Runs (career),4,Rohit Sharma (India),"28 Mat, 28 Inn, 2015-2023",1575
+Most Runs (career),5,Kumar Sangakkara (Sri Lanka),"37 Mat, 35 Inn, 2003-2015",1532
+Most Runs (single edition),1,Virat Kohli (India),"11 Mat, 2023",765
+Most Runs (single edition),2,Sachin Tendulkar (India),2003 tournament,673
+Most Runs (single edition),3,Matthew Hayden (Australia),"10 Mat, 2007",659
+Most Runs (single edition),4,Rohit Sharma (India),"9 Mat, 2019",648
+Most Runs (single edition),5,Rohit Sharma (Australia era comparator - Shane Watson AUS),"10 Mat, 2011",647
+Highest Individual Score,1,Martin Guptill (New Zealand),"vs West Indies, Wellington Regional Stadium, 2015 QF",237*
+Highest Individual Score,2,Chris Gayle (West Indies),"vs Zimbabwe, Manuka Oval, Canberra, 2015",215
+Highest Individual Score,3,Glenn Maxwell (Australia),"vs Afghanistan, Wankhede Stadium, Mumbai, 2023",201*
+Highest Individual Score,4,Gary Kirsten (South Africa),"vs UAE, Rawalpindi, 1996",188*
+Highest Individual Score,5,Sourav Ganguly (India),"vs Sri Lanka, County Ground, Taunton, 1999",183
+Most Wickets (career),1,Glenn McGrath (Australia),"39 Mat, 39 Inn, 1996-2007",71
+Most Wickets (career),2,Muttiah Muralitharan (Sri Lanka),"40 Mat, 39 Inn, 1996-2011",68
+Most Wickets (career),3,Mitchell Starc (Australia),"28 Mat, 28 Inn, 2015-2023",65
+Most Wickets (career),4,Lasith Malinga (Sri Lanka),"29 Mat, 28 Inn, 2007-2019",56
+Most Wickets (career),5,Mohammed Shami (India),"18 Mat, 18 Inn, 2015-2023",55
+Best Bowling Figures (innings),1,Glenn McGrath (Australia),"7/15 vs Namibia, Potchefstroom, 2003",7/15
+Best Bowling Figures (innings),2,Andy Bichel (Australia),"7/20 vs England, Gqeberha, 2003",7/20
+Best Bowling Figures (innings),3,Tim Southee (New Zealand),"7/33 vs England, Wellington, 2015",7/33
+Best Bowling Figures (innings),4,Winston Davis (West Indies),"7/51 vs Australia, Headingley, 1983",7/51
+Best Bowling Figures (innings),5,Mohammed Shami (India),"7/57 vs New Zealand, Wankhede, Mumbai, 2023",5/-* see note
+Highest Team Total,1,South Africa vs Sri Lanka,"Arun Jaitley Stadium, Delhi, 2023",428/5
+Highest Team Total,2,Australia vs Afghanistan,"WACA Ground, Perth, 2015",417/6
+Highest Team Total,3,India vs Bermuda,"Queen's Park Oval, Port of Spain, 2007",413/5
+Highest Team Total,4,South Africa vs Ireland,"Manuka Oval, Canberra, 2015",411/4
+Highest Team Total,5,India vs Netherlands,"M. Chinnaswamy Stadium, Bangalore, 2011",401/3
+Lowest Team Total,1,Canada vs Sri Lanka,"Boland Park, Paarl, 2003",36
+Lowest Team Total,2,Canada vs England,"Old Trafford, Manchester, 1979",45
+Lowest Team Total,3,Namibia vs Australia,"Potchefstroom, 2003",45
+Lowest Team Total,4,Sri Lanka vs India,"Wankhede Stadium, Mumbai, 2023",55
+Lowest Team Total,5,Bangladesh vs West Indies,"Sher-e-Bangla Stadium, Dhaka, 2011",58
+Highest Successful Run Chase,1,Pakistan vs Sri Lanka,"target 345, Hyderabad, 2023",345/4
+Highest Successful Run Chase,2,Ireland vs England,"target 328, Bengaluru, 2011",329/7
+Highest Successful Run Chase,3,Bangladesh vs West Indies,"target 322, Taunton, 2019",322/3
+Highest Successful Run Chase,4,Scotland vs (chase),"target 319, Nelson, 2015",319/8
+Highest Successful Run Chase,5,Sri Lanka vs Zimbabwe,"target 313, New Plymouth, 1992",313/7
+Highest Partnership,1,Chris Gayle & Marlon Samuels (West Indies),"2nd wkt vs Zimbabwe, Canberra, 2015",372
+Highest Partnership,2,Sourav Ganguly & Rahul Dravid (India),"2nd wkt vs Sri Lanka, Taunton, 1999",318
+Highest Partnership,3,Kusal Perera & partner (Sri Lanka),"1st wkt vs Zimbabwe, Kandy, 2011",282
+Highest Partnership,4,Devon Conway & Rachin Ravindra (New Zealand),"1st wkt vs England, Ahmedabad, 2023",273*
+Highest Partnership,5,David Warner & partner (Australia),"1st wkt vs Afghanistan, Perth, 2015",260
+Best Batting Average (min 10 inn),1,Lance Klusener (South Africa),"11 Inn, 372 runs, 1999-2003",124.00
+Best Batting Average (min 10 inn),2,Andrew Symonds (Australia),"13 Inn, 515 runs, 2003-2007",103.00
+Best Batting Average (min 10 inn),3,Shreyas Iyer (India),"11 Inn, 530 runs, 2023",66.25
+Best Batting Average (min 10 inn),4,Rachin Ravindra (New Zealand),"10 Inn, 578 runs, 2023",64.22
+Best Batting Average (min 10 inn),5,AB de Villiers (South Africa),"22 Inn, 1207 runs, 2007-2015",63.52
+Best Bowling Average (min 1000 balls),1,Glenn McGrath (Australia),"71 wkts, 1955 balls, 1996-2007",18.19
+Best Bowling Average (min 1000 balls),2,Imran Khan (Pakistan),"34 wkts, 1017 balls, 1975-1992",19.26
+Best Bowling Average (min 1000 balls),3,Mitchell Starc (Australia),"65 wkts, 1459 balls, 2015-2023",19.29
+Best Bowling Average (min 1000 balls),4,Mohammed Shami (India),"38 wkts, 1055 balls, 2019-2023",19.57
+Best Bowling Average (min 1000 balls),5,Muttiah Muralitharan (Sri Lanka),"68 wkts, 2061 balls, 1996-2011",19.63
+Most Dismissals - WK (career),1,Kumar Sangakkara (Sri Lanka),"37 Mat, 2003-2015",54
+Most Dismissals - WK (career),2,Adam Gilchrist (Australia),"31 Mat, 1999-2007",52
+Most Dismissals - WK (career),3,MS Dhoni (India),"29 Mat, 2007-2019",42
+Most Dismissals - WK (career),4,Quinton de Kock (South Africa),"27 Mat, 2015-2023",39
+Most Dismissals - WK (career),5,Mushfiqur Rahim (Bangladesh),"38 Mat, 2007-2023",33
+Most Catches - Non-WK (career),1,Ricky Ponting (Australia),"46 Mat, 1996-2011",28
+Most Catches - Non-WK (career),2,Joe Root (England),"26 Mat, 2015-2023",25
+Most Catches - Non-WK (career),3,Virat Kohli (India),"37 Mat, 2011-2023",20
+Most Catches - Non-WK (career),4,Mahela Jayawardene (Sri Lanka),"38 Mat, 1992-2007",18
+Most Catches - Non-WK (career),5,Brian Lara (West Indies),"29 Mat, 2003-2019",17
+Most Matches,1,Ricky Ponting (Australia),1996-2011,46
+Most Matches,2,Sachin Tendulkar (India),1992-2011,45
+Most Matches,3,Kumar Sangakkara (Sri Lanka),1999-2015,40
+Most Matches,4,Muttiah Muralitharan (Sri Lanka),1996-2011,40
+Most Matches,5,Glenn McGrath (Australia),1996-2007,39
+Most Tournaments Played,1,Sachin Tendulkar (India),1992-2011,6
+Most Tournaments Played,1,Javed Miandad (Pakistan),1975-1996,6
+Most Wickets (single edition),1,Mitchell Starc (Australia),"10 Mat, 2019",27
+Most Wickets (single edition),2,Glenn McGrath (Australia),"11 Mat, 2007",26
+Most Wickets (single edition),3,Mohammed Shami (India),"7 Mat, 2023",24
+Most Matches Umpired,1,David Shepherd (England),1983-2003,46
+Most Matches Umpired,2,Steve Bucknor (West Indies),1992-2007,45
+Most Matches Umpired,3,Aleem Dar (Pakistan),2003-2019,34
